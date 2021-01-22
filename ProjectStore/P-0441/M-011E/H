@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<H>
+  <H Id="M-011E_H-48032-1" Name="SMP SD110 EAE KNX" SerialNumber="48032" VersionNumber="1" BusCurrent="10" HasIndividualAddress="true" HasApplicationProgram="true">
+    <Prods>
+      <Prod Id="M-011E_H-48032-1_P-48032" Text="SD110 Dimmer" OrderNumber="48032" IsRailMounted="true" WidthInMillimeter="180" DefaultLanguage="en-US" Hash="+iLNncWU6QMnvKeLG5ViuKXAUvI=">
+        <RI RegistrationStatus="Registered" RegistrationDate="2019-03-21" RegistrationSignature="bzqlUZZsPcjYiud4No6NBIfXiUVn4qlT1oP6V2QbUsCGI+rYpGgkvXZNh0QwtUIIHKJnAjKkjY9co2JkmGDfFjdZ2PQlF28dh361ZDpkrqL+EnEHFRCdFBrv4t5NtkvEwdY/z05Ph3UI3uDR41ppwbRKKF/OUk22c+28jvFFnW0=" />
+      </Prod>
+    </Prods>
+    <H2Ps>
+      <H2P Id="M-011E_H-48032-1_HP-BBA0-10-E213" MediumTypes="MT-0" Hash="XsltmeDd9biZU0pp6GE4Es1bAwQ=">
+        <APR RefId="M-011E_A-BBA0-10-E213" />
+        <RI RegistrationStatus="Registered" RegistrationNumber="2019/15541" RegistrationDate="2019-03-21" RegistrationSignature="iM4To8oXcfvW/oww+Mmo/O/40VZkL0U5Gqqk6YXv+3fKy8ICeNp8Uh6AHNHdi13qOu+rDtw4hsUlfzTkgoz3bpUShSh2xvpTbQlzKNRCatDZqmQMk19Bjjc9VAOiKQEDVgy1mwNcxkSnb49vaMGJUjGJ4NEAG9pp0EEF3nrjFyw=" />
+      </H2P>
+    </H2Ps>
+  </H>
+</H>

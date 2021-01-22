@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<C>
+  <CatSec Id="M-011E_CS-.5BLTH.5D" Name="Lighting" Number="[LTH]" DefaultLanguage="en-US">
+    <CITEM Id="M-011E_H-48032-1_HP-BBA0-10-E213_CI-48032-1" Name="SD110 Dimmer" Number="1" VisibleDescription="SD110 1-10V Dimming Actuator, 10 Channels" ProductRefId="M-011E_H-48032-1_P-48032" Hardware2ProgramRefId="M-011E_H-48032-1_HP-BBA0-10-E213" DefaultLanguage="en-US" />
+  </CatSec>
+</C>

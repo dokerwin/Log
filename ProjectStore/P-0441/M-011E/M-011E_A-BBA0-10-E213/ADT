@@ -1,0 +1,746 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LS>
+  <L Identifier="ru-RU">
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-1">
+      <T AttributeName="Text" Text="General" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-1">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-2">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-2">
+      <T AttributeName="Text" Text="Channel Definition" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-9">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_CH-12">
+      <T AttributeName="Text" Text="Channel A..J" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-3">
+      <T AttributeName="Text" Text="A..J - General" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-4">
+      <T AttributeName="Text" Text="A..J - Function" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-3">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-4">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-5">
+      <T AttributeName="Text" Text="A..J - Switch" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-5">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-6">
+      <T AttributeName="Text" Text="A..J - Dimming" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-7">
+      <T AttributeName="Text" Text="A..J - Value" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-8">
+      <T AttributeName="Text" Text="A..J - Staircase" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-6">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-7">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-9">
+      <T AttributeName="Text" Text="A..J - Operating Hour" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-10">
+      <T AttributeName="Text" Text="A..J - Current Detection" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-11">
+      <T AttributeName="Text" Text="A..J - Scene" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-8">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-10">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-11">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-12">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-13">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-14">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-15">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_CH-11">
+      <T AttributeName="Text" Text="Channel A" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-13">
+      <T AttributeName="Text" Text="A - General" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-14">
+      <T AttributeName="Text" Text="A - Function" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-16">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-17">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-15">
+      <T AttributeName="Text" Text="A - Switch" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-18">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-16">
+      <T AttributeName="Text" Text="A - Dimming" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-17">
+      <T AttributeName="Text" Text="A - Value" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-18">
+      <T AttributeName="Text" Text="A - Staircase" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-19">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-20">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-19">
+      <T AttributeName="Text" Text="A - Operating Hour" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-20">
+      <T AttributeName="Text" Text="A - Current Detection" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-21">
+      <T AttributeName="Text" Text="A - Scene" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-21">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-22">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-23">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-24">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-25">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-26">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-27">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_CH-13">
+      <T AttributeName="Text" Text="Channel B" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-23">
+      <T AttributeName="Text" Text="B - General" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-24">
+      <T AttributeName="Text" Text="B - Function" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-28">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-29">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-25">
+      <T AttributeName="Text" Text="B - Switch" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-30">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-26">
+      <T AttributeName="Text" Text="B - Dimming" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-27">
+      <T AttributeName="Text" Text="B - Value" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-28">
+      <T AttributeName="Text" Text="B - Staircase" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-31">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-32">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-29">
+      <T AttributeName="Text" Text="B - Operating Hour" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-30">
+      <T AttributeName="Text" Text="B - Current Detection" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-31">
+      <T AttributeName="Text" Text="B - Scene" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-33">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-34">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-35">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-36">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-37">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-38">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-39">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_CH-14">
+      <T AttributeName="Text" Text="Channel C" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-33">
+      <T AttributeName="Text" Text="C - General" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-34">
+      <T AttributeName="Text" Text="C - Function" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-40">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-41">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-35">
+      <T AttributeName="Text" Text="C - Switch" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-42">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-36">
+      <T AttributeName="Text" Text="C - Dimming" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-37">
+      <T AttributeName="Text" Text="C - Value" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-38">
+      <T AttributeName="Text" Text="C - Staircase" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-43">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-44">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-39">
+      <T AttributeName="Text" Text="C - Operating Hour" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-40">
+      <T AttributeName="Text" Text="C - Current Detection" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-41">
+      <T AttributeName="Text" Text="C - Scene" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-45">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-46">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-47">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-48">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-49">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-50">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-51">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_CH-15">
+      <T AttributeName="Text" Text="Channel D" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-43">
+      <T AttributeName="Text" Text="D - General" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-44">
+      <T AttributeName="Text" Text="D - Function" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-52">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-53">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-45">
+      <T AttributeName="Text" Text="D - Switch" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-54">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-46">
+      <T AttributeName="Text" Text="D - Dimming" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-47">
+      <T AttributeName="Text" Text="D - Value" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-48">
+      <T AttributeName="Text" Text="D - Staircase" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-55">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-56">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-49">
+      <T AttributeName="Text" Text="D - Operating Hour" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-50">
+      <T AttributeName="Text" Text="D - Current Detection" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-51">
+      <T AttributeName="Text" Text="D - Scene" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-57">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-58">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-59">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-60">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-61">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-62">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-63">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_CH-16">
+      <T AttributeName="Text" Text="Channel E" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-53">
+      <T AttributeName="Text" Text="E - General" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-54">
+      <T AttributeName="Text" Text="E - Function" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-64">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-65">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-55">
+      <T AttributeName="Text" Text="E - Switch" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-66">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-56">
+      <T AttributeName="Text" Text="E - Dimming" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-57">
+      <T AttributeName="Text" Text="E - Value" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-58">
+      <T AttributeName="Text" Text="E - Staircase" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-67">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-68">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-59">
+      <T AttributeName="Text" Text="E - Operating Hour" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-60">
+      <T AttributeName="Text" Text="E - Current Detection" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-61">
+      <T AttributeName="Text" Text="E - Scene" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-69">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-70">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-71">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-72">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-73">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-74">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-75">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_CH-17">
+      <T AttributeName="Text" Text="Channel F" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-63">
+      <T AttributeName="Text" Text="F - General" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-64">
+      <T AttributeName="Text" Text="F - Function" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-76">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-77">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-65">
+      <T AttributeName="Text" Text="F - Switch" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-78">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-66">
+      <T AttributeName="Text" Text="F - Dimming" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-67">
+      <T AttributeName="Text" Text="F - Value" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-68">
+      <T AttributeName="Text" Text="F - Staircase" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-79">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-80">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-69">
+      <T AttributeName="Text" Text="F - Operating Hour" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-70">
+      <T AttributeName="Text" Text="F - Current Detection" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-71">
+      <T AttributeName="Text" Text="F - Scene" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-81">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-82">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-83">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-84">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-85">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-86">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-87">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_CH-18">
+      <T AttributeName="Text" Text="Channel G" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-73">
+      <T AttributeName="Text" Text="G - General" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-74">
+      <T AttributeName="Text" Text="G - Function" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-88">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-89">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-75">
+      <T AttributeName="Text" Text="G - Switch" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-90">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-76">
+      <T AttributeName="Text" Text="G - Dimming" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-77">
+      <T AttributeName="Text" Text="G - Value" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-78">
+      <T AttributeName="Text" Text="G - Staircase" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-91">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-92">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-79">
+      <T AttributeName="Text" Text="G - Operating Hour" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-80">
+      <T AttributeName="Text" Text="G - Current Detection" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-81">
+      <T AttributeName="Text" Text="G - Scene" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-93">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-94">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-95">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-96">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-97">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-98">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-99">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_CH-19">
+      <T AttributeName="Text" Text="Channel H" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-83">
+      <T AttributeName="Text" Text="H - General" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-84">
+      <T AttributeName="Text" Text="H - Function" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-100">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-101">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-85">
+      <T AttributeName="Text" Text="H - Switch" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-102">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-86">
+      <T AttributeName="Text" Text="H - Dimming" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-87">
+      <T AttributeName="Text" Text="H - Value" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-88">
+      <T AttributeName="Text" Text="H - Staircase" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-103">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-104">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-89">
+      <T AttributeName="Text" Text="H - Operating Hour" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-90">
+      <T AttributeName="Text" Text="H - Current Detection" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-91">
+      <T AttributeName="Text" Text="H - Scene" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-105">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-106">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-107">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-108">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-109">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-110">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-111">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_CH-20">
+      <T AttributeName="Text" Text="Channel I" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-93">
+      <T AttributeName="Text" Text="I - General" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-94">
+      <T AttributeName="Text" Text="I - Function" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-112">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-113">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-95">
+      <T AttributeName="Text" Text="I - Switch" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-114">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-96">
+      <T AttributeName="Text" Text="I - Dimming" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-97">
+      <T AttributeName="Text" Text="I - Value" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-98">
+      <T AttributeName="Text" Text="I - Staircase" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-115">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-116">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-99">
+      <T AttributeName="Text" Text="I - Operating Hour" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-100">
+      <T AttributeName="Text" Text="I - Current Detection" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-101">
+      <T AttributeName="Text" Text="I - Scene" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-117">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-118">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-119">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-120">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-121">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-122">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-123">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_CH-21">
+      <T AttributeName="Text" Text="Channel J" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-103">
+      <T AttributeName="Text" Text="J - General" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-104">
+      <T AttributeName="Text" Text="J - Function" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-124">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-125">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-105">
+      <T AttributeName="Text" Text="J - Switch" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-126">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-106">
+      <T AttributeName="Text" Text="J - Dimming" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-107">
+      <T AttributeName="Text" Text="J - Value" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-108">
+      <T AttributeName="Text" Text="J - Staircase" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-127">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-128">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-109">
+      <T AttributeName="Text" Text="J - Operating Hour" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-110">
+      <T AttributeName="Text" Text="J - Current Detection" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PB-111">
+      <T AttributeName="Text" Text="J - Scene" />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-129">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-130">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-131">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-132">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-133">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-134">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+    <TE RefId="M-011E_A-BBA0-10-E213_PS-135">
+      <T AttributeName="Text" Text=" " />
+    </TE>
+  </L>
+</LS>

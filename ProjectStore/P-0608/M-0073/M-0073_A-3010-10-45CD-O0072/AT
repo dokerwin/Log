@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LS>
+  <L Identifier="en-US">
+    <TU RefId="M-0073_A-3010-10-45CD-O0072">
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5FbasicRouteConfig_EN-1">
+        <T AttributeName="Text" Text="groups: filter, physical: block" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5FbasicRouteConfig_EN-2">
+        <T AttributeName="Text" Text="groups,physical: filter" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5FbasicRouteConfig_EN-3">
+        <T AttributeName="Text" Text="groups route, physical: filter" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5FbasicRouteConfig_EN-4">
+        <T AttributeName="Text" Text="groups, physical: route" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5FbasicRouteConfig_EN-0">
+        <T AttributeName="Text" Text="configure" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5FrouteConfig_EN-1">
+        <T AttributeName="Text" Text="transmit all (for testing only)" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5FrouteConfig_EN-2">
+        <T AttributeName="Text" Text="block" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5FrouteConfig_EN-3">
+        <T AttributeName="Text" Text="filter" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5FrouteConfig14_EN-1">
+        <T AttributeName="Text" Text="transmit all" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5FrouteConfig14_EN-2">
+        <T AttributeName="Text" Text="block" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5Frepeat_EN-0">
+        <T AttributeName="Text" Text="no" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5Frepeat_EN-99">
+        <T AttributeName="Text" Text="normal" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5Frepeat_EN-33">
+        <T AttributeName="Text" Text="reduced" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5Fack_EN-3">
+        <T AttributeName="Text" Text="if routed" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5Fack_EN-4">
+        <T AttributeName="Text" Text="always" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5FownAck_EN-255">
+        <T AttributeName="Text" Text="yes" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5FownAck_EN-0">
+        <T AttributeName="Text" Text="no" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5FmanuTimeout_EN-10">
+        <T AttributeName="Text" Text="10 min" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5FmanuTimeout_EN-60">
+        <T AttributeName="Text" Text="1 hour" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5FmanuTimeout_EN-320">
+        <T AttributeName="Text" Text="4 hours" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5FmanuTimeout_EN-640">
+        <T AttributeName="Text" Text="8 hours" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5FledTime_EN-2">
+        <T AttributeName="Text" Text="2 sec" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5FledTime_EN-10">
+        <T AttributeName="Text" Text="10 sec" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5FledTime_EN-60">
+        <T AttributeName="Text" Text="1 min" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5FledTime_EN-1600">
+        <T AttributeName="Text" Text="30 min" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5FmanuConfig_EN-0">
+        <T AttributeName="Text" Text="disabled" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5FmanuConfig_EN-1">
+        <T AttributeName="Text" Text="pass all telegrams" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5FmanuConfig_EN-2">
+        <T AttributeName="Text" Text="pass pyhsical telegrams" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5FmanuConfig_EN-3">
+        <T AttributeName="Text" Text="pass group telegrams" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5FdhcpActive_EN-1">
+        <T AttributeName="Text" Text="do not use" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5FdhcpActive_EN-4">
+        <T AttributeName="Text" Text="use" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5Fdochjanein_EN-0">
+        <T AttributeName="Text" Text="No" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5Fdochjanein_EN-1">
+        <T AttributeName="Text" Text="Yes" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5FroutingBusyDisable_EN-0">
+        <T AttributeName="Text" Text="enable" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5FroutingBusyDisable_EN-1">
+        <T AttributeName="Text" Text="disable" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5FslowConnection_EN-0">
+        <T AttributeName="Text" Text="enable" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5FslowConnection_EN-1">
+        <T AttributeName="Text" Text="disable" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5FroutingBusyTime_EN-50">
+        <T AttributeName="Text" Text="50 ms" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5FroutingBusyTime_EN-100">
+        <T AttributeName="Text" Text="100 ms" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_PT-en.5FroutingBusyTime_EN-200">
+        <T AttributeName="Text" Text="200ms" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-1000">
+        <T AttributeName="Text" Text="General" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-5000">
+        <T AttributeName="Text" Text="Host name (30 signs)" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-5075">
+        <T AttributeName="Text" Text="Enable slow connections" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-1001">
+        <T AttributeName="Text" Text="IP configuration" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-5001">
+        <T AttributeName="Text" Text="DHCP" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-1002">
+        <T AttributeName="Text" Text="[Byte1] . [Byte2] . [Byte3] . [Byte4]" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-1004">
+        <T AttributeName="Text" Text="_____________" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-1003">
+        <T AttributeName="Text" Text="IP adress" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-5002">
+        <T AttributeName="Text" Text="IP Byte 1" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-5003">
+        <T AttributeName="Text" Text="IP Byte 2" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-5004">
+        <T AttributeName="Text" Text="IP Byte 3" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-5005">
+        <T AttributeName="Text" Text="IP Byte 4" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-1006">
+        <T AttributeName="Text" Text="_____________" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-1005">
+        <T AttributeName="Text" Text="Net mask" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-5006">
+        <T AttributeName="Text" Text="NM Byte 1" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-5007">
+        <T AttributeName="Text" Text="NM Byte 2" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-5008">
+        <T AttributeName="Text" Text="NM Byte 3" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-5009">
+        <T AttributeName="Text" Text="NM Byte 4" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-1008">
+        <T AttributeName="Text" Text="_____________" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-1007">
+        <T AttributeName="Text" Text="Gateway" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-5010">
+        <T AttributeName="Text" Text="GW Byte 1" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-5011">
+        <T AttributeName="Text" Text="GW Byte 2" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-5012">
+        <T AttributeName="Text" Text="GW Byte 3" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-5013">
+        <T AttributeName="Text" Text="GW Byte 4" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-1009">
+        <T AttributeName="Text" Text="KNX multicast address" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-1035">
+        <T AttributeName="Text" Text="use system multicast" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-5014">
+        <T AttributeName="Text" Text="Byte 1" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-5015">
+        <T AttributeName="Text" Text="Byte 2 [0 - 255]" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-5016">
+        <T AttributeName="Text" Text="Byte 3 [0 - 255]" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-5017">
+        <T AttributeName="Text" Text="Byte 4 [0 - 255]" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-1010">
+        <T AttributeName="Text" Text="Settings for Coupler" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-5018">
+        <T AttributeName="Text" Text="Fallback time for manual operation" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-5020">
+        <T AttributeName="Text" Text="Manual function" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-1011">
+        <T AttributeName="Text" Text="Main line" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-1012">
+        <T AttributeName="Text" Text="Configuration" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-5023">
+        <T AttributeName="Text" Text="Group telegrams" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-5024">
+        <T AttributeName="Text" Text="Main group telegrams 14 / 15" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-5025">
+        <T AttributeName="Text" Text="Physical telegrams" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-1023">
+        <T AttributeName="Text" Text="Sub line" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-1024">
+        <T AttributeName="Text" Text="Configuration" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-5038">
+        <T AttributeName="Text" Text="Group telegrams" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-5039">
+        <T AttributeName="Text" Text="Sub group telegrams 14 / 15" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-5040">
+        <T AttributeName="Text" Text="Physical telegrams" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-5041">
+        <T AttributeName="Text" Text="Physical: Repetition if errors on sub line" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-5042">
+        <T AttributeName="Text" Text="Group: Repetition if errors on sub line" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-5043">
+        <T AttributeName="Text" Text="Telegram confirmations on line" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072_P-5044">
+        <T AttributeName="Text" Text="Send confirmation on own telegrams" />
+      </TE>
+      <TE RefId="M-0073_A-3010-10-45CD-O0072">
+        <T AttributeName="Name" Text="M/KNX IP Router" />
+      </TE>
+    </TU>
+  </L>
+</LS>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LS>
+  <L Identifier="ru-RU">
+    <TU RefId="M-0004_CS-PB">
+      <TE RefId="M-0004_CS-PB">
+        <T AttributeName="Name" Text="Кнопочный выключатель" />
+      </TE>
+    </TU>
+    <TU RefId="M-0004_CS-PB-P4">
+      <TE RefId="M-0004_CS-PB-P4">
+        <T AttributeName="Name" Text="Кнопочные 4 датчика" />
+      </TE>
+    </TU>
+    <TU RefId="M-0004_CS-OU">
+      <TE RefId="M-0004_CS-OU">
+        <T AttributeName="Name" Text="выход" />
+      </TE>
+    </TU>
+  </L>
+</LS>

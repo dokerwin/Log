@@ -1,0 +1,635 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KNX xsd="http://www.w3.org/2001/XMLSchema" xsi="http://www.w3.org/2001/XMLSchema-instance" CreatedBy="knxconv" ToolVersion="5.0.194.8753">
+  <ManufacturerData>
+    <Manufacturer RefId="M-0073">
+      <APS>
+        <AP Id="M-0073_A-3010-10-45CD-O0072" ApplicationNumber="12304" ApplicationVersion="16" ProgramType="ApplicationProgram" MaskVersion="MV-091A" Name="M/KNX IP Router" LoadProcedureStyle="DefaultProcedure" PeiType="0" HelpFile="" DefaultLanguage="en-US" DynamicTableManagement="false" Linkable="false" MinEtsVersion="3.0d" OriginalManufacturer="M-0072" PreEts4Style="true" ConvertedFromPreEts4Data="true" IPConfig="Custom" Hash="RQiOhi7S1clqH6yBVs57zQ==">
+          <St>
+            <Code>
+              <AS Id="M-0073_A-3010-10-45CD-O0072_AS-0100" Address="256" Size="256">
+                <Data>////AHIgUBAIciBQrf9gAAD+Y2NjYwEAAAAA/zMAAAByIFByIFAAeAACAQAAAAAAAAAAAAAAdXUVFQgzAAAEAMCoAer///8AwKgACuAAFwwAAB4AS05YL0lQLVJvdXRlcgAAAAAAAAAAAAAAAAAAAAAAAGQAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</Data>
+                <Mask>/wAAAP////////////////////////8AAP///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////w==</Mask>
+              </AS>
+            </Code>
+            <PTS>
+              <PT Id="M-0073_A-3010-10-45CD-O0072_PT-Page.5Ft" Name="Page_t">
+                <TNone />
+              </PT>
+              <PT Id="M-0073_A-3010-10-45CD-O0072_PT-dummy" Name="dummy">
+                <TNone />
+              </PT>
+              <PT Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FbasicRouteConfig" Name="en_basicRouteConfig">
+                <TR Base="Value" SizeInBit="8">
+                  <Enumeration Text="groups: filter, physical: block" Value="1" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FbasicRouteConfig_EN-1" DisplayOrder="0" />
+                  <Enumeration Text="groups,physical: filter" Value="2" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FbasicRouteConfig_EN-2" DisplayOrder="1" />
+                  <Enumeration Text="groups route, physical: filter" Value="3" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FbasicRouteConfig_EN-3" DisplayOrder="2" />
+                  <Enumeration Text="groups, physical: route" Value="4" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FbasicRouteConfig_EN-4" DisplayOrder="3" />
+                  <Enumeration Text="configure" Value="0" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FbasicRouteConfig_EN-0" DisplayOrder="4" />
+                </TR>
+              </PT>
+              <PT Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FrouteConfig" Name="en_routeConfig">
+                <TR Base="Value" SizeInBit="2">
+                  <Enumeration Text="transmit all (for testing only)" Value="1" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FrouteConfig_EN-1" DisplayOrder="0" />
+                  <Enumeration Text="block" Value="2" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FrouteConfig_EN-2" DisplayOrder="1" />
+                  <Enumeration Text="filter" Value="3" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FrouteConfig_EN-3" DisplayOrder="2" />
+                </TR>
+              </PT>
+              <PT Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FrouteConfig14" Name="en_routeConfig14">
+                <TR Base="Value" SizeInBit="2">
+                  <Enumeration Text="transmit all" Value="1" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FrouteConfig14_EN-1" DisplayOrder="0" />
+                  <Enumeration Text="block" Value="2" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FrouteConfig14_EN-2" DisplayOrder="1" />
+                </TR>
+              </PT>
+              <PT Id="M-0073_A-3010-10-45CD-O0072_PT-en.5Frepeat" Name="en_repeat">
+                <TR Base="Value" SizeInBit="8">
+                  <Enumeration Text="no" Value="0" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5Frepeat_EN-0" DisplayOrder="0" />
+                  <Enumeration Text="normal" Value="99" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5Frepeat_EN-99" DisplayOrder="1" />
+                  <Enumeration Text="reduced" Value="33" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5Frepeat_EN-33" DisplayOrder="2" />
+                </TR>
+              </PT>
+              <PT Id="M-0073_A-3010-10-45CD-O0072_PT-en.5Fack" Name="en_ack">
+                <TR Base="Value" SizeInBit="3">
+                  <Enumeration Text="if routed" Value="3" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5Fack_EN-3" DisplayOrder="0" />
+                  <Enumeration Text="always" Value="4" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5Fack_EN-4" DisplayOrder="1" />
+                </TR>
+              </PT>
+              <PT Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FownAck" Name="en_ownAck">
+                <TR Base="Value" SizeInBit="8">
+                  <Enumeration Text="yes" Value="255" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FownAck_EN-255" DisplayOrder="0" />
+                  <Enumeration Text="no" Value="0" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FownAck_EN-0" DisplayOrder="1" />
+                </TR>
+              </PT>
+              <PT Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FmanuTimeout" Name="en_manuTimeout">
+                <TR Base="Value" SizeInBit="16">
+                  <Enumeration Text="10 min" Value="10" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FmanuTimeout_EN-10" DisplayOrder="0" />
+                  <Enumeration Text="1 hour" Value="60" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FmanuTimeout_EN-60" DisplayOrder="1" />
+                  <Enumeration Text="4 hours" Value="320" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FmanuTimeout_EN-320" DisplayOrder="2" />
+                  <Enumeration Text="8 hours" Value="640" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FmanuTimeout_EN-640" DisplayOrder="3" />
+                </TR>
+              </PT>
+              <PT Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FledTime" Name="en_ledTime">
+                <TR Base="Value" SizeInBit="16">
+                  <Enumeration Text="2 sec" Value="2" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FledTime_EN-2" DisplayOrder="0" />
+                  <Enumeration Text="10 sec" Value="10" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FledTime_EN-10" DisplayOrder="1" />
+                  <Enumeration Text="1 min" Value="60" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FledTime_EN-60" DisplayOrder="2" />
+                  <Enumeration Text="30 min" Value="1600" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FledTime_EN-1600" DisplayOrder="3" />
+                </TR>
+              </PT>
+              <PT Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FmanuConfig" Name="en_manuConfig">
+                <TR Base="Value" SizeInBit="8">
+                  <Enumeration Text="disabled" Value="0" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FmanuConfig_EN-0" DisplayOrder="0" />
+                  <Enumeration Text="pass all telegrams" Value="1" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FmanuConfig_EN-1" DisplayOrder="1" />
+                  <Enumeration Text="pass pyhsical telegrams" Value="2" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FmanuConfig_EN-2" DisplayOrder="2" />
+                  <Enumeration Text="pass group telegrams" Value="3" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FmanuConfig_EN-3" DisplayOrder="3" />
+                </TR>
+              </PT>
+              <PT Id="M-0073_A-3010-10-45CD-O0072_PT-t.5Fbyte" Name="t_byte">
+                <TNr SizeInBit="8" Type="unsignedInt" minInclusive="0" maxInclusive="255" />
+              </PT>
+              <PT Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FipByte" Name="en_ipByte">
+                <TNr SizeInBit="8" Type="unsignedInt" minInclusive="0" maxInclusive="255" />
+              </PT>
+              <PT Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FHostname" Name="en_Hostname">
+                <TTxt SizeInBit="240" />
+              </PT>
+              <PT Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FdhcpActive" Name="en_dhcpActive">
+                <TR Base="Value" SizeInBit="8">
+                  <Enumeration Text="do not use" Value="1" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FdhcpActive_EN-1" DisplayOrder="0" />
+                  <Enumeration Text="use" Value="4" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FdhcpActive_EN-4" DisplayOrder="1" />
+                </TR>
+              </PT>
+              <PT Id="M-0073_A-3010-10-45CD-O0072_PT-dummy16" Name="dummy16">
+                <TTxt SizeInBit="256" />
+              </PT>
+              <PT Id="M-0073_A-3010-10-45CD-O0072_PT-en.5Fdochjanein" Name="en_dochjanein">
+                <TR Base="Value" SizeInBit="8">
+                  <Enumeration Text="No" Value="0" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5Fdochjanein_EN-0" DisplayOrder="0" />
+                  <Enumeration Text="Yes" Value="1" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5Fdochjanein_EN-1" DisplayOrder="1" />
+                </TR>
+              </PT>
+              <PT Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FroutingBusyDisable" Name="en_routingBusyDisable">
+                <TR Base="Value" SizeInBit="8">
+                  <Enumeration Text="enable" Value="0" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FroutingBusyDisable_EN-0" DisplayOrder="0" />
+                  <Enumeration Text="disable" Value="1" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FroutingBusyDisable_EN-1" DisplayOrder="1" />
+                </TR>
+              </PT>
+              <PT Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FslowConnection" Name="en_slowConnection">
+                <TR Base="Value" SizeInBit="8">
+                  <Enumeration Text="enable" Value="0" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FslowConnection_EN-0" DisplayOrder="0" />
+                  <Enumeration Text="disable" Value="1" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FslowConnection_EN-1" DisplayOrder="1" />
+                </TR>
+              </PT>
+              <PT Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FroutingBusyTime" Name="en_routingBusyTime">
+                <TR Base="Value" SizeInBit="16">
+                  <Enumeration Text="50 ms" Value="50" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FroutingBusyTime_EN-50" DisplayOrder="0" />
+                  <Enumeration Text="100 ms" Value="100" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FroutingBusyTime_EN-100" DisplayOrder="1" />
+                  <Enumeration Text="200ms" Value="200" Id="M-0073_A-3010-10-45CD-O0072_PT-en.5FroutingBusyTime_EN-200" DisplayOrder="2" />
+                </TR>
+              </PT>
+            </PTS>
+            <PS>
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-1" Name="Page1" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-Page.5Ft" Text="New page" Access="None" Value="" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-100" Name="setDebug" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5Fdochjanein" Text="Debug" Access="None" Value="0" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-500" Name="pageGeneral" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-dummy" Text="General" Access="None" Value="" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-1000" Name="pGeneral" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-dummy" Text="General" Value="" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-1001" Name="pDHCP" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-dummy" Text="IP configuration" Value="" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-1009" Name="dPageRMA" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-dummy" Text="KNX multicast address" Value="" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-1010" Name="PageRouting" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-dummy" Text="Settings for Coupler" Value="" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-1011" Name="pageMainLine" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-dummy" Text="Main line" Value="" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-1023" Name="pageSubLine" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-dummy" Text="Sub line" Value="" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-101" Name="setDegubg on" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5Fdochjanein" Text="Debug" Access="None" Value="1" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-102" Name="Version" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-dummy16" Text="Version" Access="None" Value="250" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-103" Name="Datum" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-dummy16" Text="11062014" Access="None" Value="11062014" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-501" Name="dummyDHCP" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5Fdochjanein" Text="General" Access="None" Value="1" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-1002" Name="ip_info" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-dummy" Text="[Byte1] . [Byte2] . [Byte3] . [Byte4]" Access="Read" Value="" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-1003" Name="ips_ip" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-dummy" Text="IP adress" Access="Read" Value="" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-1004" Name="d_space" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-dummy" Text="_____________" Value="" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-1005" Name="ips_netmask" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-dummy" Text="Net mask" Value="" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-1006" Name="d_space" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-dummy" Text="_____________" Value="" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-1007" Name="ips_gateway" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-dummy" Text="Gateway" Value="" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-1008" Name="d_space" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-dummy" Text="_____________" Value="" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-1012" Name="mainBasicRouteConfig" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5FbasicRouteConfig" Text="Configuration" Value="2" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-1013" Name="mainBasicBlock" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-dummy" Text="mainBasicBlock" Access="None" Value="" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-1014" Name="mainBasicFilter" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-dummy" Text="mainBasicFilter" Access="None" Value="" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-1015" Name="mainBasicRouteGroup" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-dummy" Text="mainBasicRouteGroup" Access="None" Value="" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-1016" Name="mainBasicRoute" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-dummy" Text="mainBasicRoute" Access="None" Value="" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-1017" Name="mainBasicConfig" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-dummy" Text="mainBasicConfig" Access="None" Value="" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-1018" Name="mainBasicBlockText" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-dummy" Text="physical  telegrams: blocked" Access="None" Value="" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-1019" Name="mainBasicFilterText" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-dummy" Text="physical  telegrams: filtered" Access="None" Value="" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-1020" Name="mainBasicRouteGroupText" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-dummy" Text="physical  telegrams: route  filter" Access="None" Value="" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-1021" Name="mainBasicRouteText" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-dummy" Text="physical  telegrams: route" Access="None" Value="" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-1022" Name="mainBasicConfigText" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-dummy" Text="physical  telegrams: configure" Access="None" Value="" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-1024" Name="subBasicRouteConfig" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5FbasicRouteConfig" Text="Configuration" Value="2" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-1025" Name="subBasicBlock" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-dummy" Text="subBasicBlock" Access="None" Value="" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-1026" Name="subBasicFilter" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-dummy" Text="subBasicFilter" Access="None" Value="" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-1027" Name="subBasicRouteGroup" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-dummy" Text="subBasicRouteGroup" Access="None" Value="" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-1028" Name="subBasicRoute" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-dummy" Text="subBasicRoute" Access="None" Value="" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-1029" Name="subBasicConfig" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-dummy" Text="subBasicConfig" Access="None" Value="" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-1030" Name="subBasicBlockText" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-dummy" Text="physical  telegrams: blocked" Access="None" Value="" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-1031" Name="subBasicFilterText" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-dummy" Text="physical  telegrams: filtered" Access="None" Value="" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-1032" Name="subBasicRouteGroupText" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-dummy" Text="physical  telegrams: route  filter" Access="None" Value="" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-1033" Name="subBasicRouteText" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-dummy" Text="physical  telegrams: route" Access="None" Value="" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-1034" Name="subBasicConfigText" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-dummy" Text="physical  telegrams: configure" Access="None" Value="" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-1035" Name="DummyMulticast" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5Fdochjanein" Text="use system multicast" Value="1" />
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-5041" Name="PhyRstCnt" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5Frepeat" Text="Physical: Repetition if errors on sub line" Access="Read" Value="99">
+                <M CodeSegment="M-0073_A-3010-10-45CD-O0072_AS-0100" Offset="20" BitOffset="0" />
+              </P>
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-5042" Name="GrRstCnt" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5Frepeat" Text="Group: Repetition if errors on sub line" Access="Read" Value="99">
+                <M CodeSegment="M-0073_A-3010-10-45CD-O0072_AS-0100" Offset="21" BitOffset="0" />
+              </P>
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-5021" Name="LK_11b" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-t.5Fbyte" Text="LDdef2" Access="None" Value="255">
+                <M CodeSegment="M-0073_A-3010-10-45CD-O0072_AS-0100" Offset="27" BitOffset="0" />
+              </P>
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-5022" Name="LK_11c" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-t.5Fbyte" Text="LKgroupConfig" Access="None" Value="51">
+                <M CodeSegment="M-0073_A-3010-10-45CD-O0072_AS-0100" Offset="28" BitOffset="0" />
+              </P>
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-5018" Name="LK_manuTimeout" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5FmanuTimeout" Text="Fallback time for manual operation" Value="60">
+                <M CodeSegment="M-0073_A-3010-10-45CD-O0072_AS-0100" Offset="38" BitOffset="0" />
+              </P>
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-5019" Name="LK_ledErrorTime" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5FledTime" Text="Time for error LED" Access="None" Value="2">
+                <M CodeSegment="M-0073_A-3010-10-45CD-O0072_AS-0100" Offset="40" BitOffset="0" />
+              </P>
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-5020" Name="LK_manuOverwriteMode" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5FmanuConfig" Text="Manual function" Value="1">
+                <M CodeSegment="M-0073_A-3010-10-45CD-O0072_AS-0100" Offset="42" BitOffset="0" />
+              </P>
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-5025" Name="PhysRoute" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5FrouteConfig" Text="Physical telegrams" Access="Read" Value="2">
+                <M CodeSegment="M-0073_A-3010-10-45CD-O0072_AS-0100" Offset="54" BitOffset="6" />
+              </P>
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-5043" Name="Ack" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5Fack" Text="Telegram confirmations on line" Access="Read" Value="3">
+                <M CodeSegment="M-0073_A-3010-10-45CD-O0072_AS-0100" Offset="55" BitOffset="0" />
+              </P>
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-5040" Name="PhysRoute" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5FrouteConfig" Text="Physical telegrams" Access="Read" Value="2">
+                <M CodeSegment="M-0073_A-3010-10-45CD-O0072_AS-0100" Offset="55" BitOffset="6" />
+              </P>
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-5024" Name="GroupRoute14" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5FrouteConfig14" Text="Main group telegrams 14 / 15" Access="Read" Value="1">
+                <M CodeSegment="M-0073_A-3010-10-45CD-O0072_AS-0100" Offset="56" BitOffset="4" />
+              </P>
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-5023" Name="GroupRoute" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5FrouteConfig" Text="Group telegrams" Access="Read" Value="3">
+                <M CodeSegment="M-0073_A-3010-10-45CD-O0072_AS-0100" Offset="56" BitOffset="6" />
+              </P>
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-5039" Name="GroupRoute14" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5FrouteConfig14" Text="Sub group telegrams 14 / 15" Access="Read" Value="1">
+                <M CodeSegment="M-0073_A-3010-10-45CD-O0072_AS-0100" Offset="57" BitOffset="4" />
+              </P>
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-5038" Name="GroupRoute" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5FrouteConfig" Text="Group telegrams" Access="Read" Value="3">
+                <M CodeSegment="M-0073_A-3010-10-45CD-O0072_AS-0100" Offset="57" BitOffset="6" />
+              </P>
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-5044" Name="OwnAck" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5FownAck" Text="Send confirmation on own telegrams" Access="Read" Value="0">
+                <M CodeSegment="M-0073_A-3010-10-45CD-O0072_AS-0100" Offset="61" BitOffset="0" />
+              </P>
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-5001" Name="IP_assignmentMethod" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5FdhcpActive" Text="DHCP" Value="4">
+                <M CodeSegment="M-0073_A-3010-10-45CD-O0072_AS-0100" Offset="62" BitOffset="0" />
+              </P>
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-5002" Name="IP_ipAddress0" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5FipByte" Text="IP Byte 1" Value="0">
+                <M CodeSegment="M-0073_A-3010-10-45CD-O0072_AS-0100" Offset="64" BitOffset="0" />
+              </P>
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-5003" Name="IP_ipAddress1" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5FipByte" Text="IP Byte 2" Value="0">
+                <M CodeSegment="M-0073_A-3010-10-45CD-O0072_AS-0100" Offset="65" BitOffset="0" />
+              </P>
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-5004" Name="IP_ipAddress2" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5FipByte" Text="IP Byte 3" Value="0">
+                <M CodeSegment="M-0073_A-3010-10-45CD-O0072_AS-0100" Offset="66" BitOffset="0" />
+              </P>
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-5005" Name="IP_ipAddress3" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5FipByte" Text="IP Byte 4" Value="0">
+                <M CodeSegment="M-0073_A-3010-10-45CD-O0072_AS-0100" Offset="67" BitOffset="0" />
+              </P>
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-5006" Name="IP_subnetMask0" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5FipByte" Text="NM Byte 1" Value="0">
+                <M CodeSegment="M-0073_A-3010-10-45CD-O0072_AS-0100" Offset="68" BitOffset="0" />
+              </P>
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-5007" Name="IP_subnetMask1" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5FipByte" Text="NM Byte 2" Value="0">
+                <M CodeSegment="M-0073_A-3010-10-45CD-O0072_AS-0100" Offset="69" BitOffset="0" />
+              </P>
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-5008" Name="IP_subnetMask2" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5FipByte" Text="NM Byte 3" Value="0">
+                <M CodeSegment="M-0073_A-3010-10-45CD-O0072_AS-0100" Offset="70" BitOffset="0" />
+              </P>
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-5009" Name="IP_subnetMask3" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5FipByte" Text="NM Byte 4" Value="0">
+                <M CodeSegment="M-0073_A-3010-10-45CD-O0072_AS-0100" Offset="71" BitOffset="0" />
+              </P>
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-5010" Name="IP_defaultGateway0" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5FipByte" Text="GW Byte 1" Value="0">
+                <M CodeSegment="M-0073_A-3010-10-45CD-O0072_AS-0100" Offset="72" BitOffset="0" />
+              </P>
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-5011" Name="IP_defaultGateway1" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5FipByte" Text="GW Byte 2" Value="0">
+                <M CodeSegment="M-0073_A-3010-10-45CD-O0072_AS-0100" Offset="73" BitOffset="0" />
+              </P>
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-5012" Name="IP_defaultGateway2" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5FipByte" Text="GW Byte 3" Value="0">
+                <M CodeSegment="M-0073_A-3010-10-45CD-O0072_AS-0100" Offset="74" BitOffset="0" />
+              </P>
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-5013" Name="IP_defaultGateway3" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5FipByte" Text="GW Byte 4" Value="0">
+                <M CodeSegment="M-0073_A-3010-10-45CD-O0072_AS-0100" Offset="75" BitOffset="0" />
+              </P>
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-5014" Name="IP_routingMulticastAddress0" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5FipByte" Text="Byte 1" Access="Read" Value="239">
+                <M CodeSegment="M-0073_A-3010-10-45CD-O0072_AS-0100" Offset="76" BitOffset="0" />
+              </P>
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-5015" Name="IP_routingMulticastAddress1" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5FipByte" Text="Byte 2 [0 - 255]" Value="0">
+                <M CodeSegment="M-0073_A-3010-10-45CD-O0072_AS-0100" Offset="77" BitOffset="0" />
+              </P>
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-5016" Name="IP_routingMulticastAddress2" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5FipByte" Text="Byte 3 [0 - 255]" Value="0">
+                <M CodeSegment="M-0073_A-3010-10-45CD-O0072_AS-0100" Offset="78" BitOffset="0" />
+              </P>
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-5017" Name="IP_routingMulticastAddress3" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5FipByte" Text="Byte 4 [0 - 255]" Value="0">
+                <M CodeSegment="M-0073_A-3010-10-45CD-O0072_AS-0100" Offset="79" BitOffset="0" />
+              </P>
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-5000" Name="IP_IP_fiendlyNameData" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5FHostname" Text="Host name (30 signs)" Value="KNX IP Router">
+                <M CodeSegment="M-0073_A-3010-10-45CD-O0072_AS-0100" Offset="84" BitOffset="0" />
+              </P>
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-5073" Name="IP_routingBusyTime" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5FroutingBusyTime" Text="Delay time for routing busy" Access="None" Value="100">
+                <M CodeSegment="M-0073_A-3010-10-45CD-O0072_AS-0100" Offset="114" BitOffset="0" />
+              </P>
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-5074" Name="IP_routingBusyDisable" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5FroutingBusyDisable" Text="Disable routing busy" Access="None" Value="0">
+                <M CodeSegment="M-0073_A-3010-10-45CD-O0072_AS-0100" Offset="116" BitOffset="0" />
+              </P>
+              <P Id="M-0073_A-3010-10-45CD-O0072_P-5075" Name="IP_connRepeatDisconnect" ParameterType="M-0073_A-3010-10-45CD-O0072_PT-en.5FslowConnection" Text="Enable slow connections" Value="1">
+                <M CodeSegment="M-0073_A-3010-10-45CD-O0072_AS-0100" Offset="117" BitOffset="0" />
+              </P>
+            </PS>
+            <PRS>
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-1_R-1" RefId="M-0073_A-3010-10-45CD-O0072_P-1" Tag="1" DisplayOrder="1" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-100_R-100" RefId="M-0073_A-3010-10-45CD-O0072_P-100" Tag="100" DisplayOrder="100" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-101_R-101" RefId="M-0073_A-3010-10-45CD-O0072_P-101" Tag="101" DisplayOrder="103" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-102_R-102" RefId="M-0073_A-3010-10-45CD-O0072_P-102" Tag="102" DisplayOrder="110" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-103_R-103" RefId="M-0073_A-3010-10-45CD-O0072_P-103" Tag="103" DisplayOrder="112" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-500_R-500" RefId="M-0073_A-3010-10-45CD-O0072_P-500" Tag="500" DisplayOrder="500" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-501_R-501" RefId="M-0073_A-3010-10-45CD-O0072_P-501" Tag="501" DisplayOrder="500" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-1000_R-1000" RefId="M-0073_A-3010-10-45CD-O0072_P-1000" Tag="1000" DisplayOrder="520" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5000_R-5000" RefId="M-0073_A-3010-10-45CD-O0072_P-5000" Tag="5000" DisplayOrder="530" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5073_R-5073" RefId="M-0073_A-3010-10-45CD-O0072_P-5073" Tag="5073" DisplayOrder="530" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5074_R-5074" RefId="M-0073_A-3010-10-45CD-O0072_P-5074" Tag="5074" DisplayOrder="531" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5075_R-5075" RefId="M-0073_A-3010-10-45CD-O0072_P-5075" Tag="5075" DisplayOrder="532" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-1001_R-1001" RefId="M-0073_A-3010-10-45CD-O0072_P-1001" Tag="1001" DisplayOrder="600" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5001_R-5001" RefId="M-0073_A-3010-10-45CD-O0072_P-5001" Tag="5001" DisplayOrder="610" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-1002_R-1002" RefId="M-0073_A-3010-10-45CD-O0072_P-1002" Tag="1002" DisplayOrder="612" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-1004_R-1004" RefId="M-0073_A-3010-10-45CD-O0072_P-1004" Tag="1004" DisplayOrder="613" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-1003_R-1003" RefId="M-0073_A-3010-10-45CD-O0072_P-1003" Tag="1003" DisplayOrder="614" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5002_R-5002" RefId="M-0073_A-3010-10-45CD-O0072_P-5002" Tag="5002" DisplayOrder="615" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5003_R-5003" RefId="M-0073_A-3010-10-45CD-O0072_P-5003" Tag="5003" DisplayOrder="620" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5004_R-5004" RefId="M-0073_A-3010-10-45CD-O0072_P-5004" Tag="5004" DisplayOrder="625" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5005_R-5005" RefId="M-0073_A-3010-10-45CD-O0072_P-5005" Tag="5005" DisplayOrder="630" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-1006_R-1006" RefId="M-0073_A-3010-10-45CD-O0072_P-1006" Tag="1006" DisplayOrder="631" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-1005_R-1005" RefId="M-0073_A-3010-10-45CD-O0072_P-1005" Tag="1005" DisplayOrder="632" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5006_R-5006" RefId="M-0073_A-3010-10-45CD-O0072_P-5006" Tag="5006" DisplayOrder="635" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5007_R-5007" RefId="M-0073_A-3010-10-45CD-O0072_P-5007" Tag="5007" DisplayOrder="640" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5008_R-5008" RefId="M-0073_A-3010-10-45CD-O0072_P-5008" Tag="5008" DisplayOrder="645" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5009_R-5009" RefId="M-0073_A-3010-10-45CD-O0072_P-5009" Tag="5009" DisplayOrder="650" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-1008_R-1008" RefId="M-0073_A-3010-10-45CD-O0072_P-1008" Tag="1008" DisplayOrder="651" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-1007_R-1007" RefId="M-0073_A-3010-10-45CD-O0072_P-1007" Tag="1007" DisplayOrder="652" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5010_R-5010" RefId="M-0073_A-3010-10-45CD-O0072_P-5010" Tag="5010" DisplayOrder="655" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5011_R-5011" RefId="M-0073_A-3010-10-45CD-O0072_P-5011" Tag="5011" DisplayOrder="660" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5012_R-5012" RefId="M-0073_A-3010-10-45CD-O0072_P-5012" Tag="5012" DisplayOrder="665" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5013_R-5013" RefId="M-0073_A-3010-10-45CD-O0072_P-5013" Tag="5013" DisplayOrder="670" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-1009_R-1009" RefId="M-0073_A-3010-10-45CD-O0072_P-1009" Tag="1009" DisplayOrder="700" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-1035_R-1035" RefId="M-0073_A-3010-10-45CD-O0072_P-1035" Tag="1035" DisplayOrder="701" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5014_R-5014" RefId="M-0073_A-3010-10-45CD-O0072_P-5014" Tag="5014" DisplayOrder="702" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5014_R-5076" RefId="M-0073_A-3010-10-45CD-O0072_P-5014" Tag="5076" DisplayOrder="702" Access="None" Value="224" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5015_R-5015" RefId="M-0073_A-3010-10-45CD-O0072_P-5015" Tag="5015" DisplayOrder="704" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5015_R-5077" RefId="M-0073_A-3010-10-45CD-O0072_P-5015" Tag="5077" DisplayOrder="704" Access="None" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5016_R-5016" RefId="M-0073_A-3010-10-45CD-O0072_P-5016" Tag="5016" DisplayOrder="706" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5016_R-5078" RefId="M-0073_A-3010-10-45CD-O0072_P-5016" Tag="5078" DisplayOrder="706" Access="None" Value="23" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5017_R-5017" RefId="M-0073_A-3010-10-45CD-O0072_P-5017" Tag="5017" DisplayOrder="708" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5017_R-5079" RefId="M-0073_A-3010-10-45CD-O0072_P-5017" Tag="5079" DisplayOrder="708" Access="None" Value="12" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-1010_R-1010" RefId="M-0073_A-3010-10-45CD-O0072_P-1010" Tag="1010" DisplayOrder="750" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5018_R-5018" RefId="M-0073_A-3010-10-45CD-O0072_P-5018" Tag="5018" DisplayOrder="760" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5019_R-5019" RefId="M-0073_A-3010-10-45CD-O0072_P-5019" Tag="5019" DisplayOrder="761" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5020_R-5020" RefId="M-0073_A-3010-10-45CD-O0072_P-5020" Tag="5020" DisplayOrder="762" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5021_R-5021" RefId="M-0073_A-3010-10-45CD-O0072_P-5021" Tag="5021" DisplayOrder="763" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5022_R-5022" RefId="M-0073_A-3010-10-45CD-O0072_P-5022" Tag="5022" DisplayOrder="764" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-1011_R-1011" RefId="M-0073_A-3010-10-45CD-O0072_P-1011" Tag="1011" DisplayOrder="1000" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-1012_R-1012" RefId="M-0073_A-3010-10-45CD-O0072_P-1012" Tag="1012" DisplayOrder="1001" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-1013_R-1013" RefId="M-0073_A-3010-10-45CD-O0072_P-1013" Tag="1013" DisplayOrder="1002" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-1014_R-1014" RefId="M-0073_A-3010-10-45CD-O0072_P-1014" Tag="1014" DisplayOrder="1003" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-1015_R-1015" RefId="M-0073_A-3010-10-45CD-O0072_P-1015" Tag="1015" DisplayOrder="1004" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-1016_R-1016" RefId="M-0073_A-3010-10-45CD-O0072_P-1016" Tag="1016" DisplayOrder="1005" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-1017_R-1017" RefId="M-0073_A-3010-10-45CD-O0072_P-1017" Tag="1017" DisplayOrder="1006" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-1018_R-1018" RefId="M-0073_A-3010-10-45CD-O0072_P-1018" Tag="1018" DisplayOrder="1008" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-1019_R-1019" RefId="M-0073_A-3010-10-45CD-O0072_P-1019" Tag="1019" DisplayOrder="1009" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-1020_R-1020" RefId="M-0073_A-3010-10-45CD-O0072_P-1020" Tag="1020" DisplayOrder="1010" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-1021_R-1021" RefId="M-0073_A-3010-10-45CD-O0072_P-1021" Tag="1021" DisplayOrder="1011" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-1022_R-1022" RefId="M-0073_A-3010-10-45CD-O0072_P-1022" Tag="1022" DisplayOrder="1012" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5023_R-5023" RefId="M-0073_A-3010-10-45CD-O0072_P-5023" Tag="5023" DisplayOrder="1100" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5023_R-5026" RefId="M-0073_A-3010-10-45CD-O0072_P-5023" Tag="5026" DisplayOrder="1100" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5023_R-5029" RefId="M-0073_A-3010-10-45CD-O0072_P-5023" Tag="5029" DisplayOrder="1100" Value="1" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5023_R-5032" RefId="M-0073_A-3010-10-45CD-O0072_P-5023" Tag="5032" DisplayOrder="1100" Value="1" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5023_R-5035" RefId="M-0073_A-3010-10-45CD-O0072_P-5023" Tag="5035" DisplayOrder="1100" Access="ReadWrite" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5024_R-5024" RefId="M-0073_A-3010-10-45CD-O0072_P-5024" Tag="5024" DisplayOrder="1101" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5024_R-5027" RefId="M-0073_A-3010-10-45CD-O0072_P-5024" Tag="5027" DisplayOrder="1101" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5024_R-5030" RefId="M-0073_A-3010-10-45CD-O0072_P-5024" Tag="5030" DisplayOrder="1101" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5024_R-5033" RefId="M-0073_A-3010-10-45CD-O0072_P-5024" Tag="5033" DisplayOrder="1101" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5024_R-5036" RefId="M-0073_A-3010-10-45CD-O0072_P-5024" Tag="5036" DisplayOrder="1101" Access="ReadWrite" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5025_R-5025" RefId="M-0073_A-3010-10-45CD-O0072_P-5025" Tag="5025" DisplayOrder="1102" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5025_R-5028" RefId="M-0073_A-3010-10-45CD-O0072_P-5025" Tag="5028" DisplayOrder="1102" Value="3" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5025_R-5031" RefId="M-0073_A-3010-10-45CD-O0072_P-5025" Tag="5031" DisplayOrder="1102" Value="3" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5025_R-5034" RefId="M-0073_A-3010-10-45CD-O0072_P-5025" Tag="5034" DisplayOrder="1102" Value="1" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5025_R-5037" RefId="M-0073_A-3010-10-45CD-O0072_P-5025" Tag="5037" DisplayOrder="1102" Access="ReadWrite" Value="3" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-1023_R-1023" RefId="M-0073_A-3010-10-45CD-O0072_P-1023" Tag="1023" DisplayOrder="1500" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-1024_R-1024" RefId="M-0073_A-3010-10-45CD-O0072_P-1024" Tag="1024" DisplayOrder="1501" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-1025_R-1025" RefId="M-0073_A-3010-10-45CD-O0072_P-1025" Tag="1025" DisplayOrder="1502" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-1026_R-1026" RefId="M-0073_A-3010-10-45CD-O0072_P-1026" Tag="1026" DisplayOrder="1503" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-1027_R-1027" RefId="M-0073_A-3010-10-45CD-O0072_P-1027" Tag="1027" DisplayOrder="1504" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-1028_R-1028" RefId="M-0073_A-3010-10-45CD-O0072_P-1028" Tag="1028" DisplayOrder="1505" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-1029_R-1029" RefId="M-0073_A-3010-10-45CD-O0072_P-1029" Tag="1029" DisplayOrder="1506" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-1030_R-1030" RefId="M-0073_A-3010-10-45CD-O0072_P-1030" Tag="1030" DisplayOrder="1508" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-1031_R-1031" RefId="M-0073_A-3010-10-45CD-O0072_P-1031" Tag="1031" DisplayOrder="1509" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-1032_R-1032" RefId="M-0073_A-3010-10-45CD-O0072_P-1032" Tag="1032" DisplayOrder="1510" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-1033_R-1033" RefId="M-0073_A-3010-10-45CD-O0072_P-1033" Tag="1033" DisplayOrder="1511" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-1034_R-1034" RefId="M-0073_A-3010-10-45CD-O0072_P-1034" Tag="1034" DisplayOrder="1512" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5038_R-5038" RefId="M-0073_A-3010-10-45CD-O0072_P-5038" Tag="5038" DisplayOrder="1600" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5038_R-5045" RefId="M-0073_A-3010-10-45CD-O0072_P-5038" Tag="5045" DisplayOrder="1600" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5038_R-5052" RefId="M-0073_A-3010-10-45CD-O0072_P-5038" Tag="5052" DisplayOrder="1600" Value="1" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5038_R-5059" RefId="M-0073_A-3010-10-45CD-O0072_P-5038" Tag="5059" DisplayOrder="1600" Value="1" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5038_R-5066" RefId="M-0073_A-3010-10-45CD-O0072_P-5038" Tag="5066" DisplayOrder="1600" Access="ReadWrite" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5039_R-5039" RefId="M-0073_A-3010-10-45CD-O0072_P-5039" Tag="5039" DisplayOrder="1601" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5039_R-5046" RefId="M-0073_A-3010-10-45CD-O0072_P-5039" Tag="5046" DisplayOrder="1601" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5039_R-5053" RefId="M-0073_A-3010-10-45CD-O0072_P-5039" Tag="5053" DisplayOrder="1601" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5039_R-5060" RefId="M-0073_A-3010-10-45CD-O0072_P-5039" Tag="5060" DisplayOrder="1601" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5039_R-5067" RefId="M-0073_A-3010-10-45CD-O0072_P-5039" Tag="5067" DisplayOrder="1601" Access="ReadWrite" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5040_R-5040" RefId="M-0073_A-3010-10-45CD-O0072_P-5040" Tag="5040" DisplayOrder="1602" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5040_R-5047" RefId="M-0073_A-3010-10-45CD-O0072_P-5040" Tag="5047" DisplayOrder="1602" Value="3" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5040_R-5054" RefId="M-0073_A-3010-10-45CD-O0072_P-5040" Tag="5054" DisplayOrder="1602" Value="3" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5040_R-5061" RefId="M-0073_A-3010-10-45CD-O0072_P-5040" Tag="5061" DisplayOrder="1602" Value="1" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5040_R-5068" RefId="M-0073_A-3010-10-45CD-O0072_P-5040" Tag="5068" DisplayOrder="1602" Access="ReadWrite" Value="3" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5041_R-5041" RefId="M-0073_A-3010-10-45CD-O0072_P-5041" Tag="5041" DisplayOrder="1607" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5041_R-5048" RefId="M-0073_A-3010-10-45CD-O0072_P-5041" Tag="5048" DisplayOrder="1607" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5041_R-5055" RefId="M-0073_A-3010-10-45CD-O0072_P-5041" Tag="5055" DisplayOrder="1607" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5041_R-5062" RefId="M-0073_A-3010-10-45CD-O0072_P-5041" Tag="5062" DisplayOrder="1607" Value="33" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5041_R-5069" RefId="M-0073_A-3010-10-45CD-O0072_P-5041" Tag="5069" DisplayOrder="1607" Access="ReadWrite" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5042_R-5042" RefId="M-0073_A-3010-10-45CD-O0072_P-5042" Tag="5042" DisplayOrder="1612" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5042_R-5049" RefId="M-0073_A-3010-10-45CD-O0072_P-5042" Tag="5049" DisplayOrder="1612" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5042_R-5056" RefId="M-0073_A-3010-10-45CD-O0072_P-5042" Tag="5056" DisplayOrder="1612" Value="33" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5042_R-5063" RefId="M-0073_A-3010-10-45CD-O0072_P-5042" Tag="5063" DisplayOrder="1612" Value="33" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5042_R-5070" RefId="M-0073_A-3010-10-45CD-O0072_P-5042" Tag="5070" DisplayOrder="1612" Access="ReadWrite" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5043_R-5043" RefId="M-0073_A-3010-10-45CD-O0072_P-5043" Tag="5043" DisplayOrder="1617" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5043_R-5050" RefId="M-0073_A-3010-10-45CD-O0072_P-5043" Tag="5050" DisplayOrder="1617" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5043_R-5057" RefId="M-0073_A-3010-10-45CD-O0072_P-5043" Tag="5057" DisplayOrder="1617" Value="4" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5043_R-5064" RefId="M-0073_A-3010-10-45CD-O0072_P-5043" Tag="5064" DisplayOrder="1617" Value="4" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5043_R-5071" RefId="M-0073_A-3010-10-45CD-O0072_P-5043" Tag="5071" DisplayOrder="1617" Access="ReadWrite" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5044_R-5044" RefId="M-0073_A-3010-10-45CD-O0072_P-5044" Tag="5044" DisplayOrder="1622" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5044_R-5051" RefId="M-0073_A-3010-10-45CD-O0072_P-5044" Tag="5051" DisplayOrder="1622" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5044_R-5058" RefId="M-0073_A-3010-10-45CD-O0072_P-5044" Tag="5058" DisplayOrder="1622" Value="255" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5044_R-5065" RefId="M-0073_A-3010-10-45CD-O0072_P-5044" Tag="5065" DisplayOrder="1622" Value="255" />
+              <PR Id="M-0073_A-3010-10-45CD-O0072_P-5044_R-5072" RefId="M-0073_A-3010-10-45CD-O0072_P-5044" Tag="5072" DisplayOrder="1622" Access="ReadWrite" />
+            </PRS>
+            <Opt />
+          </St>
+          <Dynamic>
+            <Channel Name="Generic" Text="" Number="0" Id="M-0073_A-3010-10-45CD-O0072_CH-0">
+              <ParameterBlock Id="M-0073_A-3010-10-45CD-O0072_PB-1" Name="Page1" Access="None" ParamRefId="M-0073_A-3010-10-45CD-O0072_P-1_R-1" />
+              <ParameterBlock Id="M-0073_A-3010-10-45CD-O0072_PB-100" Name="setDebug" Access="None" ParamRefId="M-0073_A-3010-10-45CD-O0072_P-100_R-100">
+                <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-101_R-101" />
+                <choose ParamRefId="M-0073_A-3010-10-45CD-O0072_P-101_R-101">
+                  <when test="1">
+                    <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-102_R-102" />
+                    <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-103_R-103" />
+                  </when>
+                </choose>
+              </ParameterBlock>
+              <ParameterBlock Id="M-0073_A-3010-10-45CD-O0072_PB-500" Name="pageGeneral" Access="None" ParamRefId="M-0073_A-3010-10-45CD-O0072_P-500_R-500">
+                <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-501_R-501" />
+                <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5073_R-5073" />
+                <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5074_R-5074" />
+                <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5075_R-5075" />
+              </ParameterBlock>
+              <ParameterBlock Id="M-0073_A-3010-10-45CD-O0072_PB-1001" Name="pDHCP" ParamRefId="M-0073_A-3010-10-45CD-O0072_P-1001_R-1001">
+                <choose ParamRefId="M-0073_A-3010-10-45CD-O0072_P-1001_R-1001">
+                  <when default="true">
+                    <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5001_R-5001" />
+                    <choose ParamRefId="M-0073_A-3010-10-45CD-O0072_P-5001_R-5001">
+                      <when test="1">
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-1002_R-1002" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-1004_R-1004" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-1003_R-1003" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5002_R-5002" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5003_R-5003" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5004_R-5004" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5005_R-5005" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-1006_R-1006" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-1005_R-1005" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5006_R-5006" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5007_R-5007" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5008_R-5008" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5009_R-5009" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-1008_R-1008" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-1007_R-1007" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5010_R-5010" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5011_R-5011" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5012_R-5012" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5013_R-5013" />
+                      </when>
+                    </choose>
+                  </when>
+                </choose>
+              </ParameterBlock>
+              <ParameterBlock Id="M-0073_A-3010-10-45CD-O0072_PB-1009" Name="dPageRMA" ParamRefId="M-0073_A-3010-10-45CD-O0072_P-1009_R-1009">
+                <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-1035_R-1035" />
+                <choose ParamRefId="M-0073_A-3010-10-45CD-O0072_P-1035_R-1035">
+                  <when test="0">
+                    <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5014_R-5014" />
+                    <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5015_R-5015" />
+                    <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5016_R-5016" />
+                    <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5017_R-5017" />
+                  </when>
+                  <when test="1">
+                    <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5014_R-5076" />
+                    <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5015_R-5077" />
+                    <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5016_R-5078" />
+                    <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5017_R-5079" />
+                  </when>
+                </choose>
+              </ParameterBlock>
+              <ParameterBlock Id="M-0073_A-3010-10-45CD-O0072_PB-1010" Name="PageRouting" ParamRefId="M-0073_A-3010-10-45CD-O0072_P-1010_R-1010">
+                <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5018_R-5018" />
+                <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5019_R-5019" />
+                <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5020_R-5020" />
+                <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5021_R-5021" />
+                <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5022_R-5022" />
+              </ParameterBlock>
+              <ParameterBlock Id="M-0073_A-3010-10-45CD-O0072_PB-1011" Name="pageMainLine" ParamRefId="M-0073_A-3010-10-45CD-O0072_P-1011_R-1011">
+                <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-1012_R-1012" />
+                <choose ParamRefId="M-0073_A-3010-10-45CD-O0072_P-1012_R-1012">
+                  <when test="1">
+                    <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-1013_R-1013" />
+                    <choose ParamRefId="M-0073_A-3010-10-45CD-O0072_P-1013_R-1013">
+                      <when default="true">
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-1018_R-1018" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5023_R-5023" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5024_R-5024" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5025_R-5025" />
+                      </when>
+                    </choose>
+                  </when>
+                  <when test="2">
+                    <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-1014_R-1014" />
+                    <choose ParamRefId="M-0073_A-3010-10-45CD-O0072_P-1014_R-1014">
+                      <when default="true">
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-1019_R-1019" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5023_R-5026" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5024_R-5027" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5025_R-5028" />
+                      </when>
+                    </choose>
+                  </when>
+                  <when test="3">
+                    <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-1015_R-1015" />
+                    <choose ParamRefId="M-0073_A-3010-10-45CD-O0072_P-1015_R-1015">
+                      <when default="true">
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-1020_R-1020" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5023_R-5029" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5024_R-5030" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5025_R-5031" />
+                      </when>
+                    </choose>
+                  </when>
+                  <when test="4">
+                    <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-1016_R-1016" />
+                    <choose ParamRefId="M-0073_A-3010-10-45CD-O0072_P-1016_R-1016">
+                      <when default="true">
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-1021_R-1021" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5023_R-5032" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5024_R-5033" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5025_R-5034" />
+                      </when>
+                    </choose>
+                  </when>
+                  <when test="0">
+                    <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-1017_R-1017" />
+                    <choose ParamRefId="M-0073_A-3010-10-45CD-O0072_P-1017_R-1017">
+                      <when default="true">
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-1022_R-1022" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5023_R-5035" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5024_R-5036" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5025_R-5037" />
+                      </when>
+                    </choose>
+                  </when>
+                </choose>
+              </ParameterBlock>
+              <ParameterBlock Id="M-0073_A-3010-10-45CD-O0072_PB-1023" Name="pageSubLine" ParamRefId="M-0073_A-3010-10-45CD-O0072_P-1023_R-1023">
+                <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-1024_R-1024" />
+                <choose ParamRefId="M-0073_A-3010-10-45CD-O0072_P-1024_R-1024">
+                  <when test="1">
+                    <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-1025_R-1025" />
+                    <choose ParamRefId="M-0073_A-3010-10-45CD-O0072_P-1025_R-1025">
+                      <when default="true">
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-1030_R-1030" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5038_R-5038" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5039_R-5039" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5040_R-5040" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5041_R-5041" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5042_R-5042" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5043_R-5043" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5044_R-5044" />
+                      </when>
+                    </choose>
+                  </when>
+                  <when test="2">
+                    <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-1026_R-1026" />
+                    <choose ParamRefId="M-0073_A-3010-10-45CD-O0072_P-1026_R-1026">
+                      <when default="true">
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-1031_R-1031" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5038_R-5045" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5039_R-5046" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5040_R-5047" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5041_R-5048" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5042_R-5049" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5043_R-5050" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5044_R-5051" />
+                      </when>
+                    </choose>
+                  </when>
+                  <when test="3">
+                    <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-1027_R-1027" />
+                    <choose ParamRefId="M-0073_A-3010-10-45CD-O0072_P-1027_R-1027">
+                      <when default="true">
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-1032_R-1032" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5038_R-5052" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5039_R-5053" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5040_R-5054" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5041_R-5055" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5042_R-5056" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5043_R-5057" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5044_R-5058" />
+                      </when>
+                    </choose>
+                  </when>
+                  <when test="4">
+                    <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-1028_R-1028" />
+                    <choose ParamRefId="M-0073_A-3010-10-45CD-O0072_P-1028_R-1028">
+                      <when default="true">
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-1033_R-1033" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5038_R-5059" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5039_R-5060" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5040_R-5061" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5041_R-5062" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5042_R-5063" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5043_R-5064" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5044_R-5065" />
+                      </when>
+                    </choose>
+                  </when>
+                  <when test="0">
+                    <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-1029_R-1029" />
+                    <choose ParamRefId="M-0073_A-3010-10-45CD-O0072_P-1029_R-1029">
+                      <when default="true">
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-1034_R-1034" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5038_R-5066" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5039_R-5067" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5040_R-5068" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5041_R-5069" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5042_R-5070" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5043_R-5071" />
+                        <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5044_R-5072" />
+                      </when>
+                    </choose>
+                  </when>
+                </choose>
+              </ParameterBlock>
+              <choose ParamRefId="M-0073_A-3010-10-45CD-O0072_P-501_R-501">
+                <when test="1">
+                  <ParameterBlock Id="M-0073_A-3010-10-45CD-O0072_PB-1000" Name="pGeneral" ParamRefId="M-0073_A-3010-10-45CD-O0072_P-1000_R-1000">
+                    <ParameterRefRef RefId="M-0073_A-3010-10-45CD-O0072_P-5000_R-5000" />
+                  </ParameterBlock>
+                </when>
+              </choose>
+            </Channel>
+          </Dynamic>
+        </AP>
+      </APS>
+    </Manufacturer>
+  </ManufacturerData>
+</KNX>

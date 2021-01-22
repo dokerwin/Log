@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<C>
+  <CatSec Id="M-0073_CS-12" Name="System devices" Number="12" VisibleDescription="" DefaultLanguage="en-US">
+    <CatSec Id="M-0073_CS-12-112" Name="Couplers" Number="112" VisibleDescription="" DefaultLanguage="en-US">
+      <CITEM Id="M-0073_H-M.2FIP.20RT.201408.20GW01-0-O0072_HP-3010-10-45CD-O0072_CI-M.2FIP.20RT.201408.20GW01-1" Name="M/KNX IP Router" Number="1" VisibleDescription="HDL KNX net/IP Router Gateway" ProductRefId="M-0073_H-M.2FIP.20RT.201408.20GW01-0-O0072_P-M.2FIP.20RT.201408.20GW01" Hardware2ProgramRefId="M-0073_H-M.2FIP.20RT.201408.20GW01-0-O0072_HP-3010-10-45CD-O0072" DefaultLanguage="en-US" />
+    </CatSec>
+  </CatSec>
+  <CatSec Id="M-0073_CS-F1" Name="HDL-Products" Number="F1" VisibleDescription="" DefaultLanguage="en-US">
+    <CatSec Id="M-0073_CS-F1-F2" Name="Dimmer TRIAC Actuator" Number="F2" VisibleDescription="" DefaultLanguage="en-US">
+      <CITEM Id="M-0073_H-M.2FDL04.201311.20D008-16_HP-2076-10-6B91_CI-M.2FDL04.201311.20D008-0" Name="Dimmer 4fold TRIAC Actuator" Number="0" ProductRefId="M-0073_H-M.2FDL04.201311.20D008-16_P-M.2FDL04.201311.20D008" Hardware2ProgramRefId="M-0073_H-M.2FDL04.201311.20D008-16_HP-2076-10-6B91" DefaultLanguage="en-US" />
+    </CatSec>
+  </CatSec>
+</C>

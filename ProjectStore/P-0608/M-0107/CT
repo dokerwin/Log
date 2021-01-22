@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LS>
+  <L Identifier="en-US">
+    <TU RefId="M-0107_CS-5">
+      <TE RefId="M-0107_CS-5">
+        <T AttributeName="Name" Text="Combo" />
+      </TE>
+    </TU>
+    <TU RefId="M-0107_CS-5-5.2E16">
+      <TE RefId="M-0107_CS-5-5.2E16">
+        <T AttributeName="Name" Text="16-Channel Outputs" />
+      </TE>
+    </TU>
+    <TU RefId="M-0107_H-ITR516.2D16A-1_HP-0204-01-14BD_CI-ITR516.2D16A-512">
+      <TE RefId="M-0107_H-ITR516.2D16A-1_HP-0204-01-14BD_CI-ITR516.2D16A-512">
+        <T AttributeName="Name" Text="ITR516-16A - 16-Channel Combo Output Module" />
+        <T AttributeName="VisibleDescription" Text="ITR516-16A - 16-Channel Combo Output Module" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="es-ES">
+    <TU RefId="M-0107_CS-5">
+      <TE RefId="M-0107_CS-5">
+        <T AttributeName="Name" Text="Combo" />
+      </TE>
+    </TU>
+    <TU RefId="M-0107_CS-5-5.2E16">
+      <TE RefId="M-0107_CS-5-5.2E16">
+        <T AttributeName="Name" Text="Salidas 16 canales" />
+      </TE>
+    </TU>
+    <TU RefId="M-0107_H-ITR516.2D16A-1_HP-0204-01-14BD_CI-ITR516.2D16A-512">
+      <TE RefId="M-0107_H-ITR516.2D16A-1_HP-0204-01-14BD_CI-ITR516.2D16A-512">
+        <T AttributeName="Name" Text="ITR516-16A - 16-Channel Combo Output Module" />
+        <T AttributeName="VisibleDescription" Text="ITR516-16A - 16-Channel Combo Output Module" />
+      </TE>
+    </TU>
+  </L>
+</LS>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<H>
+  <H Id="M-0073_H-M.2FIP.20RT.201408.20GW01-0-O0072" Name="M/KNX IP Router" SerialNumber="M/IP RT 1408 GW01" VersionNumber="0" BusCurrent="5" HasIndividualAddress="true" HasApplicationProgram="true" IsCoupler="true" IsIPEnabled="true" OriginalManufacturer="M-0072">
+    <Prods>
+      <Prod Id="M-0073_H-M.2FIP.20RT.201408.20GW01-0-O0072_P-M.2FIP.20RT.201408.20GW01" Text="M/KNX IP Router" OrderNumber="M/IP RT 1408 GW01" IsRailMounted="true" WidthInMillimeter="0" DefaultLanguage="en-US" Hash="jIG5Ch40EnmvsY/dyETHxz7odjI=">
+        <RI RegistrationStatus="Certified" RegistrationDate="2014-08-06" RegistrationSignature="ItASVhdjdfYmOJ4A2lzUtRxxiCgETDCJ+dflyxLgJXBHeomVPu0+gPyDjohX2K9i6WFUCyEMzHzcyJQgcQLpg/FZmqU6WrCBHD76CW7jlxff7atVzTcsTJHk4FAfXM3woOzXtmkPVBngAITd5uCvhhZ8YtctbiQg8XxwQbbmATg=" />
+      </Prod>
+    </Prods>
+    <H2Ps>
+      <H2P Id="M-0073_H-M.2FIP.20RT.201408.20GW01-0-O0072_HP-3010-10-45CD-O0072" MediumTypes="MT-0 MT-5" Hash="RBzYhah9xW+rqPgEUg44BwbGoZc=">
+        <APR RefId="M-0073_A-3010-10-45CD-O0072" />
+        <RI RegistrationStatus="Certified" RegistrationNumber="2014/11687" RegistrationDate="2014-08-06" RegistrationSignature="Dyx2kOlo0JDiHmTNVSG/T4x7Kk421UH95Uu23flYQbyzBLJsFYRvA/kW6kDaeJDdwyWVIVIZ9YzfTj/wIjXU2nmveXCd8mxpLah77EU2LNVoJyi5pkHWKRuBs6O7jlISFq3h2tEkmO7VhPQ+ETdSRCAvLf3eU/D5jYeNp8XwuGM=" />
+      </H2P>
+    </H2Ps>
+  </H>
+  <H Id="M-0073_H-M.2FDL04.201311.20D008-16" Name="M/DL04.1" SerialNumber="M/DL04 1311 D008" VersionNumber="16" HasIndividualAddress="true" HasApplicationProgram="true">
+    <Prods>
+      <Prod Id="M-0073_H-M.2FDL04.201311.20D008-16_P-M.2FDL04.201311.20D008" Text="M/DL04.1" OrderNumber="M/DL04 1311 D008" IsRailMounted="true" DefaultLanguage="en-US" Hash="FwJ/4WCPj6M93SlG85/FZsDKQOI=">
+        <RI RegistrationStatus="Registered" RegistrationSignature="ER96n9+IzscFmRJabkycSY6i0zp249+13KjBsOZsH+R48ZeEypjNr/YxFv74PsbseAQuNSiIx3eIqUB6gaYcFwo+UuZqznW8isrg1Upd1f/y4ZzdLd15wztlt4ME1Vr0dxMkQbmV4ip5BKnCKla6+zPP0GbQrEdOcMYkcHAiELI=" />
+      </Prod>
+    </Prods>
+    <H2Ps>
+      <H2P Id="M-0073_H-M.2FDL04.201311.20D008-16_HP-2076-10-6B91" MediumTypes="MT-0" Hash="vDtAW6XwvjftDfNEkMEF02P1zo4=">
+        <APR RefId="M-0073_A-2076-10-6B91" />
+        <RI RegistrationStatus="Registered" RegistrationNumber="2013/11128" RegistrationSignature="fTSBwT4h7t6iowbfSd1OIMyC1Vj4srXxK5ri2WykF0+IcOEDHyutBTWBQiKE6+ygRrmDk7O9zbWLsiFXIJju2ZoCUrT8tHQnpf5iSEVfPsEGyFBVUoq06BMz/hTkAE44ExDJIktQGK0/LQI8lyQ62Yc8xTXDn5u5bk5LvzMrAUw=" />
+      </H2P>
+    </H2Ps>
+  </H>
+  <H Id="M-0073_H-M.2FDRGBW4.201504.20D10-10" Name="M/DRGBW4.1" SerialNumber="M/DRGBW4 1504 D10" VersionNumber="10" HasIndividualAddress="true" HasApplicationProgram="true">
+    <Prods>
+      <Prod Id="M-0073_H-M.2FDRGBW4.201504.20D10-10_P-M.2FDRGBW4.201504.20D10" Text="M/DRGBW4.1" OrderNumber="M/DRGBW4 1504 D10" IsRailMounted="false" VisibleDescription="HDL RGBW 4fold PWM Driver - KNX" DefaultLanguage="en-US" Hash="/I0IBv2K2xzYDU08F4PYwBAZ+78=">
+        <RI RegistrationStatus="Registered" RegistrationDate="2015-08-05" RegistrationSignature="B6qxBUn9zLuLlRTN5JJ86Y1KyGt8AoekO6iQSslbw7+5PrIM7UFj4PaGhJUMFV7HYaZCXqBFlCd3SvxilvF7lkNBpB3uN9rQD3M0le4JkRD4b0UooBxqwO570diW25Z4IiHDS/3+Xo7L8jhKSb0wwTbW7+gmatZ3dTcnEACygo0=" />
+      </Prod>
+    </Prods>
+    <H2Ps>
+      <H2P Id="M-0073_H-M.2FDRGBW4.201504.20D10-10_HP-2120-10-835F" MediumTypes="MT-0" Hash="VuLQ5Sw4QVzhIZ1AOT3oTUfycwI=">
+        <APR RefId="M-0073_A-2120-10-835F" />
+        <RI RegistrationStatus="Registered" RegistrationNumber="2015/12472" RegistrationDate="2015-08-05" RegistrationSignature="RVia2yrUfFDbMHnTMMgz+wBNdgcLtLnauyblW0rFpyRSkbclxfz8qW5eqJqe2VjfYpxBR2rvPeZkc9dQ7G1vEVnErYr+JrWBnl/SqRkiO9nDW213lqWh+FdNfCEcFl+9FiGD27LKec3ZuMMbSRPszdys2TbreL5V/CQLpS8L3+E=" />
+      </H2P>
+    </H2Ps>
+  </H>
+</H>

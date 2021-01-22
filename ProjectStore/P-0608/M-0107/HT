@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LS>
+  <L Identifier="en-US">
+    <TU RefId="M-0107_H-ITR516.2D16A-1_P-ITR516.2D16A">
+      <TE RefId="M-0107_H-ITR516.2D16A-1_P-ITR516.2D16A">
+        <T AttributeName="Text" Text="16-Channel Combo Output Module" />
+        <T AttributeName="VisibleDescription" Text="16-Channel Combo Output Module" />
+      </TE>
+    </TU>
+  </L>
+  <L Identifier="es-ES">
+    <TU RefId="M-0107_H-ITR516.2D16A-1_P-ITR516.2D16A">
+      <TE RefId="M-0107_H-ITR516.2D16A-1_P-ITR516.2D16A">
+        <T AttributeName="Text" Text="Módulo Salidas Combo 16 canales" />
+        <T AttributeName="VisibleDescription" Text="Módulo Salidas Combo 16 canales" />
+      </TE>
+    </TU>
+  </L>
+</LS>

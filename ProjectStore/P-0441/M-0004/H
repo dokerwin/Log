@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<H>
+  <H Id="M-0004_H-4.20.2F.202094A-1" Name="Tastsensor 4fach Universal mit Alarmmeldung" SerialNumber="4 / 2094A" VersionNumber="1" IsAccessory="0" HasIndividualAddress="1" HasApplicationProgram="1" HasApplicationProgram2="0" IsPowerSupply="0" IsChoke="0" IsCoupler="0" IsPowerLineRepeater="0" IsPowerLineSignalFilter="0" IsCable="0" NonRegRelevantDataVersion="0" IsIPEnabled="0">
+    <Prods>
+      <Prod Id="M-0004_H-4.20.2F.202094A-1_P-2094A" Text="Tastsensor 4fach Universal mit Alarmmeldung" OrderNumber="2094A" IsRailMounted="0" DefaultLanguage="de-DE" Hash="VhgkAIPR7RE0ejkWj8+TycIkjyI=" NonRegRelevantDataVersion="0">
+        <RI RegistrationStatus="Registered" RegistrationSignature="rbO7cFKDqKBGMa4KgV0JTxNdvy9PfclPi1Xhvyn2Y4fj4vNxqMxeNo9pblkQZT+6043gGvRL6RmE1MN08W/rOOhYyvD/sIiMeXUZjjz/0B/LzsZoGWJBupihCJzcNHdgL+wOSlmYodY2HGMyr6hGKfXUreiDsUlVXlEZZ9uhe00=" />
+      </Prod>
+    </Prods>
+    <H2Ps>
+      <H2P Id="M-0004_H-4.20.2F.202094A-1_HP-1072-01-41D6-O000A" MediumTypes="MT-0" Hash="Wu2rCkHl9HLrED/8m5Y2Hp1Uh/8=">
+        <APR RefId="M-0004_A-1072-01-41D6-O000A" />
+        <RI RegistrationSignature="Fz2hCSF0/OTtxDaMrLMUk+dD9nOtf/fcbc6rWJdI9aSU/9s/8j85AJHKvUllBzO8u08w3/lxpxCBHoJEeFXZUlmwHCLGH6izH7af3JnuCXRjPo0FBJynKjxD9PT8m0DuJd+qYxpRAySZ3kkrynlI6183DXOsWJcyv/sJZCtiF6Q=" OriginalRegistrationNumber="1999/3704" RegistrationNumber="1999/3707" RegistrationStatus="Registered" />
+      </H2P>
+    </H2Ps>
+  </H>
+  <H Id="M-0004_H-4.20.2F.2F.202134.2E16CREG-1-O000A" Name="Schaltaktor 4fach 16A C-Last REG" SerialNumber="4 // 2134.16CREG" VersionNumber="1" IsAccessory="0" HasIndividualAddress="1" HasApplicationProgram="1" HasApplicationProgram2="0" IsPowerSupply="0" IsChoke="0" IsCoupler="0" IsPowerLineRepeater="0" IsPowerLineSignalFilter="0" IsCable="0" OriginalManufacturer="M-000A" NonRegRelevantDataVersion="0" IsIPEnabled="0">
+    <Prods>
+      <Prod Id="M-0004_H-4.20.2F.2F.202134.2E16CREG-1-O000A_P-2134.2E16CREG" Text="Schaltaktor 4fach 16A C-Last REG" OrderNumber="2134.16CREG" IsRailMounted="1" WidthInMillimeter="7.0000000e+001" DefaultLanguage="de-DE" Hash="id3NNGUkbuljOIXF5O9lKWrL0Ko=" NonRegRelevantDataVersion="0">
+        <RI RegistrationStatus="Registered" RegistrationSignature="OuvAilx5h4Jbz1iyj1RhPH8QfaiAAngd/OPVxPnuNAVZkNi9v7OP1h7d8zUlJcncEf3H7Y6fM5sVCWly05AHJsKBi3uDxAr4k+dUB4v+DJPPz9p0efYX73V1wQ7AoY4aVk2o1+enuY9VOxXlK2JYySDCuKoAhesu40xKx1MdcJo=" />
+      </Prod>
+    </Prods>
+    <H2Ps>
+      <H2P Id="M-0004_H-4.20.2F.2F.202134.2E16CREG-1-O000A_HP-2062-01-E60D-O000A" MediumTypes="MT-0" Hash="cUK0jlKdu+YjxVLCibO+8n1+fp0=">
+        <APR RefId="M-0004_A-2062-01-E60D-O000A" />
+        <RI RegistrationSignature="S+i7p/SZTxRCCYXUCN/s5J4NmKUapy9bMVfW9/N6MYiIEAcf3gQbBS3P2BQYqzOI2ynhzXmccu5Aiys2ewHKYW8jczzUctOOxeaU9+vkw+bRACEFep50XDCz5HuWRl6pi6WH4Ndz9/9qULBGHsSpcdu6aMeNzY8yrTOQ1xC9T6A=" OriginalRegistrationNumber="2003/5984" RegistrationNumber="2003/5987" RegistrationStatus="Registered" />
+      </H2P>
+    </H2Ps>
+  </H>
+</H>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LS>
+  <L Identifier="en-US">
+    <TU RefId="M-0073_H-M.2FDL04.201311.20D008-16_P-M.2FDL04.201311.20D008">
+      <TE RefId="M-0073_H-M.2FDL04.201311.20D008-16_P-M.2FDL04.201311.20D008">
+        <T AttributeName="Text" Text="M/DL04.1" />
+      </TE>
+    </TU>
+    <TU RefId="M-0073_H-M.2FDRGBW4.201504.20D10-10_P-M.2FDRGBW4.201504.20D10">
+      <TE RefId="M-0073_H-M.2FDRGBW4.201504.20D10-10_P-M.2FDRGBW4.201504.20D10">
+        <T AttributeName="Text" Text="M/DRGBW4.1" />
+        <T AttributeName="VisibleDescription" Text="HDL RGBW 4fold PWM Driver - KNX" />
+      </TE>
+    </TU>
+  </L>
+</LS>

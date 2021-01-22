@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<H>
+  <H Id="M-0107_H-ITR512.2D16A-1" Name="12-Channel Combo Output Module" SerialNumber="ITR512-16A" VersionNumber="1" HasIndividualAddress="true" HasApplicationProgram="true">
+    <Prods>
+      <Prod Id="M-0107_H-ITR512.2D16A-1_P-ITR512.2D16A" Text="12-Channel Combo Output Module" OrderNumber="ITR512-16A" IsRailMounted="true" WidthInMillimeter="160" DefaultLanguage="en-US" Hash="LXXmDYh0cdik3KggrT0FNXUsNJk=">
+        <RI RegistrationStatus="Certified" RegistrationSignature="sHu+P9U06UiHDwkfNBsztC/3IFW+X1zWeM0OVNyHCOoxKwhy3hgS0gXR8OTl5iHjeUdAvad+nEh/SG16XIXk40EpACJedZF1VW/tPQsd7HZ8fFx0KBRFCcpSovc8e5RzekfM6kgCbxZzFEf39ifO+aPtTTFwE4xjvw/O9tX+uJ8=" />
+      </Prod>
+    </Prods>
+    <H2Ps>
+      <H2P Id="M-0107_H-ITR512.2D16A-1_HP-0200-01-DFC0" MediumTypes="MT-0" Hash="PlA1eZ3xNFzGfYyfPwHBWhvMqcA=">
+        <APR RefId="M-0107_A-0200-01-DFC0" />
+        <RI RegistrationStatus="Certified" RegistrationNumber="2014/11184" RegistrationDate="2014-01-07" RegistrationSignature="N886QAEkHQObjdqNPEUqVtOKJaj7DEDm3mCSlr5GnlSXhJEofPg8Y3WAwlJbKuk3nG1OlTPotPHz4aP/fqPU4JdwazfImoEYcmcRDyy+jdukMmZoRvjJaXK+bOWLOMfeka1A9Sd5A4k262wtZoB1lZM1SkMptPz4d2uhZPpOC3I=" />
+      </H2P>
+    </H2Ps>
+  </H>
+  <H Id="M-0107_H-ITR524.2D16A-1" Name="24-Channel Combo Output Module" SerialNumber="ITR524-16A" VersionNumber="1" BusCurrent="20" HasIndividualAddress="true" HasApplicationProgram="true">
+    <Prods>
+      <Prod Id="M-0107_H-ITR524.2D16A-1_P-ITR524.2D16A" Text="24-Channel Combo Output Module" OrderNumber="ITR524-16A" IsRailMounted="true" WidthInMillimeter="247" DefaultLanguage="en-US" Hash="lR+TeSyVibsJ2JmehtVCKswxk3c=">
+        <RI RegistrationStatus="Certified" RegistrationDate="2014-11-20" RegistrationSignature="slF/8/oHKNbpOJ2axdgvZPDDR0op42y22hD4JSosMswFuTLv6V8G0S1+vFvDdr+IWhBq9yoNwgOE+jFibeH8qgK2DKbekuqsh2+cBqNgG0niqXH/TZKfyfh6VjfQiV40DdtRI95PprfoNv+ixtbE7snGUOyTcEYKuDCNGK6KIPM=" />
+      </Prod>
+    </Prods>
+    <H2Ps>
+      <H2P Id="M-0107_H-ITR524.2D16A-1_HP-020C-01-41B3" MediumTypes="MT-0" Hash="ujeoN1kbnZBJcOTC8bHhvkaAPV4=">
+        <APR RefId="M-0107_A-020C-01-41B3" />
+        <RI RegistrationStatus="Certified" RegistrationNumber="2014/11863" RegistrationDate="2014-11-20" RegistrationSignature="ABVM8nP3ifhZF9MwlIORoN0n9tCyYHVDxqhEuJHu3lLmQ4T1FyowFYShSB86gcej9+fQUCKjX2cv9S4xoZ+d0Kh0GxxnauASGLNWgMaorqqSGfh+HXHGQUr/5Nrmvx9QEc2JD/JVaEX8zrcHgZ9zXcJOssknZMR0BKc/W8z2jss=" />
+      </H2P>
+    </H2Ps>
+  </H>
+</H>

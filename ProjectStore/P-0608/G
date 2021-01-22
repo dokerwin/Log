@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GAs>
+  <GRs>
+    <GR Id="P-0608-0_GR-1" RangeStart="1" RangeEnd="2047" Name="osw" Puid="14">
+      <GR Id="P-0608-0_GR-2" RangeStart="1" RangeEnd="255" Name="osw" Puid="15">
+        <GA Id="P-0608-0_GA-1" Address="1" Name="osw" DatapointType="DPST-1-1" Puid="16" />
+        <GA Id="P-0608-0_GA-2" Address="2" Name="rolety zew gora" DatapointType="DPST-1-8" Puid="17" />
+        <GA Id="P-0608-0_GA-3" Address="3" Name="rolety zew dół" DatapointType="DPST-1-8" Puid="18" />
+        <GA Id="P-0608-0_GA-4" Address="4" Name="rolety wew góra" DatapointType="DPST-1-8" Puid="20" />
+        <GA Id="P-0608-0_GA-6" Address="5" Name="rolety wew gora" DatapointType="DPST-1-8" Puid="22" />
+        <GA Id="P-0608-0_GA-7" Address="6" Name="sciemnialny 230" DatapointType="DPST-3-7" Puid="25" />
+      </GR>
+    </GR>
+  </GRs>
+</GAs>

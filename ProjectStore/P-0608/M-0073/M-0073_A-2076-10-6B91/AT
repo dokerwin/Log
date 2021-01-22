@@ -1,0 +1,4168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LS>
+  <L Identifier="en-US">
+    <TU RefId="M-0073_A-2076-10-6B91">
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fboolean_EN-0">
+        <T AttributeName="Text" Text="NO" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fboolean_EN-1">
+        <T AttributeName="Text" Text="YES" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fenable.5Fdisable_EN-0">
+        <T AttributeName="Text" Text="Disable" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fenable.5Fdisable_EN-1">
+        <T AttributeName="Text" Text="Enable" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fload.5Ftype_EN-0">
+        <T AttributeName="Text" Text="AC 110V" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fload.5Ftype_EN-1">
+        <T AttributeName="Text" Text="AC 220V" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Frespone.5Fstate.5F1bit_EN-0">
+        <T AttributeName="Text" Text="Invalid" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Frespone.5Fstate.5F1bit_EN-1">
+        <T AttributeName="Text" Text="1bit always respone" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Frespone.5Fstate.5F1bit_EN-2">
+        <T AttributeName="Text" Text="1bit only changed" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Frespone.5Fstate.5F1byte_EN-0">
+        <T AttributeName="Text" Text="Invalid" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Frespone.5Fstate.5F1byte_EN-1">
+        <T AttributeName="Text" Text="1byte always respone" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Frespone.5Fstate.5F1byte_EN-2">
+        <T AttributeName="Text" Text="1byte only changed" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fover.20temperature.5Fprotection_EN-0">
+        <T AttributeName="Text" Text="Invalid" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fover.20temperature.5Fprotection_EN-1">
+        <T AttributeName="Text" Text="Alarm" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fover.20temperature.5Fprotection_EN-2">
+        <T AttributeName="Text" Text="OFF" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fover.20temperature.5Fprotection_EN-3">
+        <T AttributeName="Text" Text="Reduce power" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fcompare.5Ftemperature.5Fvalue_EN-0">
+        <T AttributeName="Text" Text="70(C)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fcompare.5Ftemperature.5Fvalue_EN-1">
+        <T AttributeName="Text" Text="75(C)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fcompare.5Ftemperature.5Fvalue_EN-2">
+        <T AttributeName="Text" Text="80(C)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fcompare.5Ftemperature.5Fvalue_EN-3">
+        <T AttributeName="Text" Text="85(C)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fcompare.5Ftemperature.5Fvalue_EN-4">
+        <T AttributeName="Text" Text="90(C)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Freduce.5Fpower.5Fvalue_EN-0">
+        <T AttributeName="Text" Text="-5%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Freduce.5Fpower.5Fvalue_EN-1">
+        <T AttributeName="Text" Text="-10%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Freduce.5Fpower.5Fvalue_EN-2">
+        <T AttributeName="Text" Text="-15%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Freduce.5Fpower.5Fvalue_EN-3">
+        <T AttributeName="Text" Text="-20%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Freduce.5Fpower.5Fvalue_EN-4">
+        <T AttributeName="Text" Text="-25%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Freduce.5Fpower.5Fvalue_EN-5">
+        <T AttributeName="Text" Text="-30%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Freduce.5Fpower.5Fvalue_EN-6">
+        <T AttributeName="Text" Text="-35%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Freduce.5Fpower.5Fvalue_EN-7">
+        <T AttributeName="Text" Text="-40%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Freduce.5Fpower.5Fvalue_EN-8">
+        <T AttributeName="Text" Text="-45%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Freduce.5Fpower.5Fvalue_EN-9">
+        <T AttributeName="Text" Text="-50%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Frecovery.5Fstate_EN-0">
+        <T AttributeName="Text" Text="OFF" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Frecovery.5Fstate_EN-1">
+        <T AttributeName="Text" Text="Defined brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Frecovery.5Fstate_EN-2">
+        <T AttributeName="Text" Text="Last brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-0">
+        <T AttributeName="Text" Text="0%(0)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-1">
+        <T AttributeName="Text" Text="1%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-2">
+        <T AttributeName="Text" Text="2%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-3">
+        <T AttributeName="Text" Text="3%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-4">
+        <T AttributeName="Text" Text="4%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-5">
+        <T AttributeName="Text" Text="5%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-6">
+        <T AttributeName="Text" Text="6%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-7">
+        <T AttributeName="Text" Text="7%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-8">
+        <T AttributeName="Text" Text="8%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-9">
+        <T AttributeName="Text" Text="9%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-10">
+        <T AttributeName="Text" Text="10%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-11">
+        <T AttributeName="Text" Text="11%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-12">
+        <T AttributeName="Text" Text="12%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-13">
+        <T AttributeName="Text" Text="13%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-14">
+        <T AttributeName="Text" Text="14%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-15">
+        <T AttributeName="Text" Text="15%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-16">
+        <T AttributeName="Text" Text="16%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-17">
+        <T AttributeName="Text" Text="17%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-18">
+        <T AttributeName="Text" Text="18%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-19">
+        <T AttributeName="Text" Text="19%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-20">
+        <T AttributeName="Text" Text="20%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-21">
+        <T AttributeName="Text" Text="21%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-22">
+        <T AttributeName="Text" Text="22%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-23">
+        <T AttributeName="Text" Text="23%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-24">
+        <T AttributeName="Text" Text="24%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-25">
+        <T AttributeName="Text" Text="25%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-26">
+        <T AttributeName="Text" Text="26%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-27">
+        <T AttributeName="Text" Text="27%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-28">
+        <T AttributeName="Text" Text="28%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-29">
+        <T AttributeName="Text" Text="29%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-30">
+        <T AttributeName="Text" Text="30%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-31">
+        <T AttributeName="Text" Text="31%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-32">
+        <T AttributeName="Text" Text="32%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-33">
+        <T AttributeName="Text" Text="33%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-34">
+        <T AttributeName="Text" Text="34%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-35">
+        <T AttributeName="Text" Text="35%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-36">
+        <T AttributeName="Text" Text="36%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-37">
+        <T AttributeName="Text" Text="37%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-38">
+        <T AttributeName="Text" Text="38%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-39">
+        <T AttributeName="Text" Text="39%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-40">
+        <T AttributeName="Text" Text="40%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-41">
+        <T AttributeName="Text" Text="41%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-42">
+        <T AttributeName="Text" Text="42%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-43">
+        <T AttributeName="Text" Text="43%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-44">
+        <T AttributeName="Text" Text="44%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-45">
+        <T AttributeName="Text" Text="45%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-46">
+        <T AttributeName="Text" Text="46%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-47">
+        <T AttributeName="Text" Text="47%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-48">
+        <T AttributeName="Text" Text="48%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-49">
+        <T AttributeName="Text" Text="49%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-50">
+        <T AttributeName="Text" Text="50%(128)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-51">
+        <T AttributeName="Text" Text="51%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-52">
+        <T AttributeName="Text" Text="52%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-53">
+        <T AttributeName="Text" Text="53%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-54">
+        <T AttributeName="Text" Text="54%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-55">
+        <T AttributeName="Text" Text="55%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-56">
+        <T AttributeName="Text" Text="56%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-57">
+        <T AttributeName="Text" Text="57%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-58">
+        <T AttributeName="Text" Text="58%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-59">
+        <T AttributeName="Text" Text="59%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-60">
+        <T AttributeName="Text" Text="60%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-61">
+        <T AttributeName="Text" Text="61%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-62">
+        <T AttributeName="Text" Text="62%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-63">
+        <T AttributeName="Text" Text="63%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-64">
+        <T AttributeName="Text" Text="64%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-65">
+        <T AttributeName="Text" Text="65%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-66">
+        <T AttributeName="Text" Text="66%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-67">
+        <T AttributeName="Text" Text="67%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-68">
+        <T AttributeName="Text" Text="68%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-69">
+        <T AttributeName="Text" Text="69%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-70">
+        <T AttributeName="Text" Text="70%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-71">
+        <T AttributeName="Text" Text="71%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-72">
+        <T AttributeName="Text" Text="72%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-73">
+        <T AttributeName="Text" Text="73%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-74">
+        <T AttributeName="Text" Text="74%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-75">
+        <T AttributeName="Text" Text="75%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-76">
+        <T AttributeName="Text" Text="76%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-77">
+        <T AttributeName="Text" Text="77%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-78">
+        <T AttributeName="Text" Text="78%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-79">
+        <T AttributeName="Text" Text="79%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-80">
+        <T AttributeName="Text" Text="80%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-81">
+        <T AttributeName="Text" Text="81%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-82">
+        <T AttributeName="Text" Text="82%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-83">
+        <T AttributeName="Text" Text="83%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-84">
+        <T AttributeName="Text" Text="84%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-85">
+        <T AttributeName="Text" Text="85%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-86">
+        <T AttributeName="Text" Text="86%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-87">
+        <T AttributeName="Text" Text="87%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-88">
+        <T AttributeName="Text" Text="88%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-89">
+        <T AttributeName="Text" Text="89%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-90">
+        <T AttributeName="Text" Text="90%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-91">
+        <T AttributeName="Text" Text="91%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-92">
+        <T AttributeName="Text" Text="92%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-93">
+        <T AttributeName="Text" Text="93%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-94">
+        <T AttributeName="Text" Text="94%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-95">
+        <T AttributeName="Text" Text="95%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-96">
+        <T AttributeName="Text" Text="96%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-97">
+        <T AttributeName="Text" Text="97%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-98">
+        <T AttributeName="Text" Text="98%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-99">
+        <T AttributeName="Text" Text="99%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Flevel.5Fvalue_EN-100">
+        <T AttributeName="Text" Text="100%(255)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-101">
+        <T AttributeName="Text" Text="Invalid" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-0">
+        <T AttributeName="Text" Text="0%(0)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-1">
+        <T AttributeName="Text" Text="1%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-2">
+        <T AttributeName="Text" Text="2%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-3">
+        <T AttributeName="Text" Text="3%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-4">
+        <T AttributeName="Text" Text="4%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-5">
+        <T AttributeName="Text" Text="5%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-6">
+        <T AttributeName="Text" Text="6%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-7">
+        <T AttributeName="Text" Text="7%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-8">
+        <T AttributeName="Text" Text="8%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-9">
+        <T AttributeName="Text" Text="9%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-10">
+        <T AttributeName="Text" Text="10%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-11">
+        <T AttributeName="Text" Text="11%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-12">
+        <T AttributeName="Text" Text="12%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-13">
+        <T AttributeName="Text" Text="13%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-14">
+        <T AttributeName="Text" Text="14%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-15">
+        <T AttributeName="Text" Text="15%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-16">
+        <T AttributeName="Text" Text="16%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-17">
+        <T AttributeName="Text" Text="17%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-18">
+        <T AttributeName="Text" Text="18%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-19">
+        <T AttributeName="Text" Text="19%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-20">
+        <T AttributeName="Text" Text="20%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-21">
+        <T AttributeName="Text" Text="21%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-22">
+        <T AttributeName="Text" Text="22%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-23">
+        <T AttributeName="Text" Text="23%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-24">
+        <T AttributeName="Text" Text="24%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-25">
+        <T AttributeName="Text" Text="25%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-26">
+        <T AttributeName="Text" Text="26%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-27">
+        <T AttributeName="Text" Text="27%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-28">
+        <T AttributeName="Text" Text="28%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-29">
+        <T AttributeName="Text" Text="29%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-30">
+        <T AttributeName="Text" Text="30%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-31">
+        <T AttributeName="Text" Text="31%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-32">
+        <T AttributeName="Text" Text="32%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-33">
+        <T AttributeName="Text" Text="33%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-34">
+        <T AttributeName="Text" Text="34%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-35">
+        <T AttributeName="Text" Text="35%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-36">
+        <T AttributeName="Text" Text="36%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-37">
+        <T AttributeName="Text" Text="37%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-38">
+        <T AttributeName="Text" Text="38%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-39">
+        <T AttributeName="Text" Text="39%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-40">
+        <T AttributeName="Text" Text="40%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-41">
+        <T AttributeName="Text" Text="41%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-42">
+        <T AttributeName="Text" Text="42%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-43">
+        <T AttributeName="Text" Text="43%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-44">
+        <T AttributeName="Text" Text="44%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-45">
+        <T AttributeName="Text" Text="45%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-46">
+        <T AttributeName="Text" Text="46%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-47">
+        <T AttributeName="Text" Text="47%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-48">
+        <T AttributeName="Text" Text="48%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-49">
+        <T AttributeName="Text" Text="49%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-50">
+        <T AttributeName="Text" Text="50%(128)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-51">
+        <T AttributeName="Text" Text="51%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-52">
+        <T AttributeName="Text" Text="52%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-53">
+        <T AttributeName="Text" Text="53%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-54">
+        <T AttributeName="Text" Text="54%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-55">
+        <T AttributeName="Text" Text="55%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-56">
+        <T AttributeName="Text" Text="56%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-57">
+        <T AttributeName="Text" Text="57%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-58">
+        <T AttributeName="Text" Text="58%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-59">
+        <T AttributeName="Text" Text="59%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-60">
+        <T AttributeName="Text" Text="60%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-61">
+        <T AttributeName="Text" Text="61%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-62">
+        <T AttributeName="Text" Text="62%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-63">
+        <T AttributeName="Text" Text="63%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-64">
+        <T AttributeName="Text" Text="64%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-65">
+        <T AttributeName="Text" Text="65%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-66">
+        <T AttributeName="Text" Text="66%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-67">
+        <T AttributeName="Text" Text="67%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-68">
+        <T AttributeName="Text" Text="68%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-69">
+        <T AttributeName="Text" Text="69%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-70">
+        <T AttributeName="Text" Text="70%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-71">
+        <T AttributeName="Text" Text="71%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-72">
+        <T AttributeName="Text" Text="72%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-73">
+        <T AttributeName="Text" Text="73%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-74">
+        <T AttributeName="Text" Text="74%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-75">
+        <T AttributeName="Text" Text="75%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-76">
+        <T AttributeName="Text" Text="76%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-77">
+        <T AttributeName="Text" Text="77%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-78">
+        <T AttributeName="Text" Text="78%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-79">
+        <T AttributeName="Text" Text="79%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-80">
+        <T AttributeName="Text" Text="80%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-81">
+        <T AttributeName="Text" Text="81%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-82">
+        <T AttributeName="Text" Text="82%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-83">
+        <T AttributeName="Text" Text="83%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-84">
+        <T AttributeName="Text" Text="84%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-85">
+        <T AttributeName="Text" Text="85%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-86">
+        <T AttributeName="Text" Text="86%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-87">
+        <T AttributeName="Text" Text="87%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-88">
+        <T AttributeName="Text" Text="88%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-89">
+        <T AttributeName="Text" Text="89%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-90">
+        <T AttributeName="Text" Text="90%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-91">
+        <T AttributeName="Text" Text="91%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-92">
+        <T AttributeName="Text" Text="92%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-93">
+        <T AttributeName="Text" Text="93%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-94">
+        <T AttributeName="Text" Text="94%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-95">
+        <T AttributeName="Text" Text="95%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-96">
+        <T AttributeName="Text" Text="96%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-97">
+        <T AttributeName="Text" Text="97%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-98">
+        <T AttributeName="Text" Text="98%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-99">
+        <T AttributeName="Text" Text="99%" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fbrightness.5Fvalue_EN-100">
+        <T AttributeName="Text" Text="100%(255)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstaircase.5Flight.5Foperation_EN-0">
+        <T AttributeName="Text" Text="Start with &quot;1&quot;,Stop with &quot;0&quot;" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstaircase.5Flight.5Foperation_EN-1">
+        <T AttributeName="Text" Text="Start with &quot;1&quot;,Invalid with &quot;0&quot;" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstaircase.5Flight.5Foperation_EN-2">
+        <T AttributeName="Text" Text="Start with &quot;1/0&quot;,Can't stop" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fflashing.5Foperation_EN-0">
+        <T AttributeName="Text" Text="Start with &quot;1&quot;,Stop with &quot;0&quot;" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fflashing.5Foperation_EN-1">
+        <T AttributeName="Text" Text="Start with &quot;0&quot;,Stop with &quot;1&quot;" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fflashing.5Foperation_EN-2">
+        <T AttributeName="Text" Text="Start with &quot;1/0&quot;,Can't stop" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-64">
+        <T AttributeName="Text" Text="Not allocate" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-0">
+        <T AttributeName="Text" Text="Scene NO.01" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-1">
+        <T AttributeName="Text" Text="Scene NO.02" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-2">
+        <T AttributeName="Text" Text="Scene NO.03" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-3">
+        <T AttributeName="Text" Text="Scene NO.04" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-4">
+        <T AttributeName="Text" Text="Scene NO.05" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-5">
+        <T AttributeName="Text" Text="Scene NO.06" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-6">
+        <T AttributeName="Text" Text="Scene NO.07" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-7">
+        <T AttributeName="Text" Text="Scene NO.08" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-8">
+        <T AttributeName="Text" Text="Scene NO.09" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-9">
+        <T AttributeName="Text" Text="Scene NO.10" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-10">
+        <T AttributeName="Text" Text="Scene NO.11" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-11">
+        <T AttributeName="Text" Text="Scene NO.12" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-12">
+        <T AttributeName="Text" Text="Scene NO.13" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-13">
+        <T AttributeName="Text" Text="Scene NO.14" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-14">
+        <T AttributeName="Text" Text="Scene NO.15" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-15">
+        <T AttributeName="Text" Text="Scene NO.16" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-16">
+        <T AttributeName="Text" Text="Scene NO.17" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-17">
+        <T AttributeName="Text" Text="Scene NO.18" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-18">
+        <T AttributeName="Text" Text="Scene NO.19" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-19">
+        <T AttributeName="Text" Text="Scene NO.20" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-20">
+        <T AttributeName="Text" Text="Scene NO.21" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-21">
+        <T AttributeName="Text" Text="Scene NO.22" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-22">
+        <T AttributeName="Text" Text="Scene NO.23" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-23">
+        <T AttributeName="Text" Text="Scene NO.24" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-24">
+        <T AttributeName="Text" Text="Scene NO.25" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-25">
+        <T AttributeName="Text" Text="Scene NO.26" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-26">
+        <T AttributeName="Text" Text="Scene NO.27" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-27">
+        <T AttributeName="Text" Text="Scene NO.28" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-28">
+        <T AttributeName="Text" Text="Scene NO.29" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-29">
+        <T AttributeName="Text" Text="Scene NO.30" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-30">
+        <T AttributeName="Text" Text="Scene NO.31" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-31">
+        <T AttributeName="Text" Text="Scene NO.32" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-32">
+        <T AttributeName="Text" Text="Scene NO.33" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-33">
+        <T AttributeName="Text" Text="Scene NO.34" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-34">
+        <T AttributeName="Text" Text="Scene NO.35" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-35">
+        <T AttributeName="Text" Text="Scene NO.36" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-36">
+        <T AttributeName="Text" Text="Scene NO.37" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-37">
+        <T AttributeName="Text" Text="Scene NO.38" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-38">
+        <T AttributeName="Text" Text="Scene NO.39" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-39">
+        <T AttributeName="Text" Text="Scene NO.40" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-40">
+        <T AttributeName="Text" Text="Scene NO.41" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-41">
+        <T AttributeName="Text" Text="Scene NO.42" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-42">
+        <T AttributeName="Text" Text="Scene NO.43" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-43">
+        <T AttributeName="Text" Text="Scene NO.44" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-44">
+        <T AttributeName="Text" Text="Scene NO.45" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-45">
+        <T AttributeName="Text" Text="Scene NO.46" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-46">
+        <T AttributeName="Text" Text="Scene NO.47" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-47">
+        <T AttributeName="Text" Text="Scene NO.48" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-48">
+        <T AttributeName="Text" Text="Scene NO.49" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-49">
+        <T AttributeName="Text" Text="Scene NO.50" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-50">
+        <T AttributeName="Text" Text="Scene NO.51" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-51">
+        <T AttributeName="Text" Text="Scene NO.52" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-52">
+        <T AttributeName="Text" Text="Scene NO.53" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-53">
+        <T AttributeName="Text" Text="Scene NO.54" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-54">
+        <T AttributeName="Text" Text="Scene NO.55" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-55">
+        <T AttributeName="Text" Text="Scene NO.56" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-56">
+        <T AttributeName="Text" Text="Scene NO.57" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-57">
+        <T AttributeName="Text" Text="Scene NO.58" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-58">
+        <T AttributeName="Text" Text="Scene NO.59" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-59">
+        <T AttributeName="Text" Text="Scene NO.60" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-60">
+        <T AttributeName="Text" Text="Scene NO.61" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-61">
+        <T AttributeName="Text" Text="Scene NO.62" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-62">
+        <T AttributeName="Text" Text="Scene NO.63" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fscene.5Fallocate_EN-63">
+        <T AttributeName="Text" Text="Scene NO.64" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fsequence.5Frun.5Fmode_EN-0">
+        <T AttributeName="Text" Text="FWD" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fsequence.5Frun.5Fmode_EN-1">
+        <T AttributeName="Text" Text="REW" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fsequence.5Frun.5Fmode_EN-2">
+        <T AttributeName="Text" Text="RANDOM" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fsequence.5Foperation.5Fmode_EN-0">
+        <T AttributeName="Text" Text="Start with &quot;1&quot;,Stop with &quot;0&quot;" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fsequence.5Foperation.5Fmode_EN-1">
+        <T AttributeName="Text" Text="Start with &quot;0&quot;,Stop with &quot;1&quot;" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fsequence.5Foperation.5Fmode_EN-2">
+        <T AttributeName="Text" Text="Start with &quot;1/0&quot;,Can't stop" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fsequence.5Fcontrol.5Fmode_EN-0">
+        <T AttributeName="Text" Text="Single" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fsequence.5Fcontrol.5Fmode_EN-1">
+        <T AttributeName="Text" Text="Cycle" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-64">
+        <T AttributeName="Text" Text="Invalid" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-0">
+        <T AttributeName="Text" Text="Scene NO.01" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-1">
+        <T AttributeName="Text" Text="Scene NO.02" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-2">
+        <T AttributeName="Text" Text="Scene NO.03" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-3">
+        <T AttributeName="Text" Text="Scene NO.04" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-4">
+        <T AttributeName="Text" Text="Scene NO.05" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-5">
+        <T AttributeName="Text" Text="Scene NO.06" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-6">
+        <T AttributeName="Text" Text="Scene NO.07" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-7">
+        <T AttributeName="Text" Text="Scene NO.08" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-8">
+        <T AttributeName="Text" Text="Scene NO.09" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-9">
+        <T AttributeName="Text" Text="Scene NO.10" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-10">
+        <T AttributeName="Text" Text="Scene NO.11" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-11">
+        <T AttributeName="Text" Text="Scene NO.12" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-12">
+        <T AttributeName="Text" Text="Scene NO.13" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-13">
+        <T AttributeName="Text" Text="Scene NO.14" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-14">
+        <T AttributeName="Text" Text="Scene NO.15" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-15">
+        <T AttributeName="Text" Text="Scene NO.16" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-16">
+        <T AttributeName="Text" Text="Scene NO.17" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-17">
+        <T AttributeName="Text" Text="Scene NO.18" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-18">
+        <T AttributeName="Text" Text="Scene NO.19" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-19">
+        <T AttributeName="Text" Text="Scene NO.20" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-20">
+        <T AttributeName="Text" Text="Scene NO.21" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-21">
+        <T AttributeName="Text" Text="Scene NO.22" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-22">
+        <T AttributeName="Text" Text="Scene NO.23" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-23">
+        <T AttributeName="Text" Text="Scene NO.24" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-24">
+        <T AttributeName="Text" Text="Scene NO.25" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-25">
+        <T AttributeName="Text" Text="Scene NO.26" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-26">
+        <T AttributeName="Text" Text="Scene NO.27" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-27">
+        <T AttributeName="Text" Text="Scene NO.28" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-28">
+        <T AttributeName="Text" Text="Scene NO.29" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-29">
+        <T AttributeName="Text" Text="Scene NO.30" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-30">
+        <T AttributeName="Text" Text="Scene NO.31" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-31">
+        <T AttributeName="Text" Text="Scene NO.32" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-32">
+        <T AttributeName="Text" Text="Scene NO.33" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-33">
+        <T AttributeName="Text" Text="Scene NO.34" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-34">
+        <T AttributeName="Text" Text="Scene NO.35" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-35">
+        <T AttributeName="Text" Text="Scene NO.36" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-36">
+        <T AttributeName="Text" Text="Scene NO.37" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-37">
+        <T AttributeName="Text" Text="Scene NO.38" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-38">
+        <T AttributeName="Text" Text="Scene NO.39" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-39">
+        <T AttributeName="Text" Text="Scene NO.40" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-40">
+        <T AttributeName="Text" Text="Scene NO.41" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-41">
+        <T AttributeName="Text" Text="Scene NO.42" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-42">
+        <T AttributeName="Text" Text="Scene NO.43" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-43">
+        <T AttributeName="Text" Text="Scene NO.44" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-44">
+        <T AttributeName="Text" Text="Scene NO.45" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-45">
+        <T AttributeName="Text" Text="Scene NO.46" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-46">
+        <T AttributeName="Text" Text="Scene NO.47" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-47">
+        <T AttributeName="Text" Text="Scene NO.48" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-48">
+        <T AttributeName="Text" Text="Scene NO.49" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-49">
+        <T AttributeName="Text" Text="Scene NO.50" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-50">
+        <T AttributeName="Text" Text="Scene NO.51" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-51">
+        <T AttributeName="Text" Text="Scene NO.52" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-52">
+        <T AttributeName="Text" Text="Scene NO.53" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-53">
+        <T AttributeName="Text" Text="Scene NO.54" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-54">
+        <T AttributeName="Text" Text="Scene NO.55" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-55">
+        <T AttributeName="Text" Text="Scene NO.56" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-56">
+        <T AttributeName="Text" Text="Scene NO.57" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-57">
+        <T AttributeName="Text" Text="Scene NO.58" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-58">
+        <T AttributeName="Text" Text="Scene NO.59" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-59">
+        <T AttributeName="Text" Text="Scene NO.60" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-60">
+        <T AttributeName="Text" Text="Scene NO.61" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-61">
+        <T AttributeName="Text" Text="Scene NO.62" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-62">
+        <T AttributeName="Text" Text="Scene NO.63" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fstep.5Fconfig_EN-63">
+        <T AttributeName="Text" Text="Scene NO.64" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fthreshold.5Foperate_EN-0">
+        <T AttributeName="Text" Text="Unchange" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fthreshold.5Foperate_EN-1">
+        <T AttributeName="Text" Text="ON" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fthreshold.5Foperate_EN-2">
+        <T AttributeName="Text" Text="OFF" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fpwm.5Fcontrol.5Fvalue_EN-0">
+        <T AttributeName="Text" Text="1bit pwm(&quot;ON&quot;-start,&quot;OFF&quot;-stop)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fpwm.5Fcontrol.5Fvalue_EN-1">
+        <T AttributeName="Text" Text="1byte(&quot;255&quot;-ON,&quot;0&quot;-OFF,other valve)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fheat.5Fposition.5Fof.5Fvalve_EN-0">
+        <T AttributeName="Text" Text="0%(OFF)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fheat.5Fposition.5Fof.5Fvalve_EN-1">
+        <T AttributeName="Text" Text="10%(26)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fheat.5Fposition.5Fof.5Fvalve_EN-2">
+        <T AttributeName="Text" Text="20%(51)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fheat.5Fposition.5Fof.5Fvalve_EN-3">
+        <T AttributeName="Text" Text="30%(77)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fheat.5Fposition.5Fof.5Fvalve_EN-4">
+        <T AttributeName="Text" Text="40%(102)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fheat.5Fposition.5Fof.5Fvalve_EN-5">
+        <T AttributeName="Text" Text="50%(128)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fheat.5Fposition.5Fof.5Fvalve_EN-6">
+        <T AttributeName="Text" Text="60%(153)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fheat.5Fposition.5Fof.5Fvalve_EN-7">
+        <T AttributeName="Text" Text="70%(179)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fheat.5Fposition.5Fof.5Fvalve_EN-8">
+        <T AttributeName="Text" Text="80%(204)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fheat.5Fposition.5Fof.5Fvalve_EN-9">
+        <T AttributeName="Text" Text="90%(230)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fheat.5Fposition.5Fof.5Fvalve_EN-10">
+        <T AttributeName="Text" Text="100%(ON)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fheat.5Frecovery_EN-0">
+        <T AttributeName="Text" Text="NO" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fheat.5Frecovery_EN-1">
+        <T AttributeName="Text" Text="Defined valve" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_PT-e.5Fheat.5Frecovery_EN-2">
+        <T AttributeName="Text" Text="Recovery" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-0">
+        <T AttributeName="Text" Text="General" />
+        <T AttributeName="FunctionText" Text="Send cycles" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-1">
+        <T AttributeName="Text" Text="General" />
+        <T AttributeName="FunctionText" Text="Sequence 1" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-2">
+        <T AttributeName="Text" Text="General" />
+        <T AttributeName="FunctionText" Text="Sequence 2" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-3">
+        <T AttributeName="Text" Text="General" />
+        <T AttributeName="FunctionText" Text="Sequence 3" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-4">
+        <T AttributeName="Text" Text="General" />
+        <T AttributeName="FunctionText" Text="Sequence 4" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-5">
+        <T AttributeName="Text" Text="General" />
+        <T AttributeName="FunctionText" Text="Sequence 5" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-6">
+        <T AttributeName="Text" Text="General" />
+        <T AttributeName="FunctionText" Text="null" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-7">
+        <T AttributeName="Text" Text="General" />
+        <T AttributeName="FunctionText" Text="null" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-8">
+        <T AttributeName="Text" Text="General" />
+        <T AttributeName="FunctionText" Text="null" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-9">
+        <T AttributeName="Text" Text="General" />
+        <T AttributeName="FunctionText" Text="null" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-10">
+        <T AttributeName="Text" Text="Output A" />
+        <T AttributeName="FunctionText" Text="Channel output" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-11">
+        <T AttributeName="Text" Text="Output A" />
+        <T AttributeName="FunctionText" Text="Relative dimming(4bit)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-12">
+        <T AttributeName="Text" Text="Output A" />
+        <T AttributeName="FunctionText" Text="Absolute dimming(8bit)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-13">
+        <T AttributeName="Text" Text="Output A" />
+        <T AttributeName="FunctionText" Text="Respone state(1bit)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-14">
+        <T AttributeName="Text" Text="Output A" />
+        <T AttributeName="FunctionText" Text="Respone state(1byte)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-15">
+        <T AttributeName="Text" Text="Output A" />
+        <T AttributeName="FunctionText" Text="R/W total ON time" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-16">
+        <T AttributeName="Text" Text="Output A" />
+        <T AttributeName="FunctionText" Text="Alarm when total ON time out" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-17">
+        <T AttributeName="Text" Text="Output A" />
+        <T AttributeName="FunctionText" Text="Temperature alarm" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-18">
+        <T AttributeName="Text" Text="Output A" />
+        <T AttributeName="FunctionText" Text="Read temperature" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-19">
+        <T AttributeName="Text" Text="Output A" />
+        <T AttributeName="FunctionText" Text="Staircase light" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-20">
+        <T AttributeName="Text" Text="Output A" />
+        <T AttributeName="FunctionText" Text="Change staircase light time" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-21">
+        <T AttributeName="Text" Text="Output A" />
+        <T AttributeName="FunctionText" Text="Warning staircase light" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-22">
+        <T AttributeName="Text" Text="Output A" />
+        <T AttributeName="FunctionText" Text="Flashing" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-23">
+        <T AttributeName="Text" Text="Output A" />
+        <T AttributeName="FunctionText" Text="Scene(8bit)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-24">
+        <T AttributeName="Text" Text="Output A" />
+        <T AttributeName="FunctionText" Text="Scene dimming(4bit)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-25">
+        <T AttributeName="Text" Text="Output A" />
+        <T AttributeName="FunctionText" Text="Threshold input" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-26">
+        <T AttributeName="Text" Text="Output A" />
+        <T AttributeName="FunctionText" Text="Change threshold 1" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-27">
+        <T AttributeName="Text" Text="Output A" />
+        <T AttributeName="FunctionText" Text="Change threshold 2" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-28">
+        <T AttributeName="Text" Text="Output A" />
+        <T AttributeName="FunctionText" Text="Heat with 1bit control" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-28_R-17123">
+        <T AttributeName="FunctionText" Text="Heat with 1byte control" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-29">
+        <T AttributeName="Text" Text="Output A" />
+        <T AttributeName="FunctionText" Text="Forced position" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-30">
+        <T AttributeName="Text" Text="Output B" />
+        <T AttributeName="FunctionText" Text="Channel output" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-31">
+        <T AttributeName="Text" Text="Output B" />
+        <T AttributeName="FunctionText" Text="Relative dimming(4bit)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-32">
+        <T AttributeName="Text" Text="Output B" />
+        <T AttributeName="FunctionText" Text="Absolute dimming(8bit)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-33">
+        <T AttributeName="Text" Text="Output B" />
+        <T AttributeName="FunctionText" Text="Respone state(1bit)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-34">
+        <T AttributeName="Text" Text="Output B" />
+        <T AttributeName="FunctionText" Text="Respone state(1byte)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-35">
+        <T AttributeName="Text" Text="Output B" />
+        <T AttributeName="FunctionText" Text="R/W total ON time" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-36">
+        <T AttributeName="Text" Text="Output B" />
+        <T AttributeName="FunctionText" Text="Alarm when total ON time out" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-37">
+        <T AttributeName="Text" Text="Output B" />
+        <T AttributeName="FunctionText" Text="Temperature alarm" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-38">
+        <T AttributeName="Text" Text="Output B" />
+        <T AttributeName="FunctionText" Text="Read temperature" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-39">
+        <T AttributeName="Text" Text="Output B" />
+        <T AttributeName="FunctionText" Text="Staircase light" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-40">
+        <T AttributeName="Text" Text="Output B" />
+        <T AttributeName="FunctionText" Text="Change staircase light time" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-41">
+        <T AttributeName="Text" Text="Output B" />
+        <T AttributeName="FunctionText" Text="Warning staircase light" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-42">
+        <T AttributeName="Text" Text="Output B" />
+        <T AttributeName="FunctionText" Text="Flashing" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-43">
+        <T AttributeName="Text" Text="Output B" />
+        <T AttributeName="FunctionText" Text="Scene(8bit)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-44">
+        <T AttributeName="Text" Text="Output B" />
+        <T AttributeName="FunctionText" Text="Scene dimming(4bit)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-45">
+        <T AttributeName="Text" Text="Output B" />
+        <T AttributeName="FunctionText" Text="Threshold input" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-46">
+        <T AttributeName="Text" Text="Output B" />
+        <T AttributeName="FunctionText" Text="Change threshold 1" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-47">
+        <T AttributeName="Text" Text="Output B" />
+        <T AttributeName="FunctionText" Text="Change threshold 2" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-48">
+        <T AttributeName="Text" Text="Output B" />
+        <T AttributeName="FunctionText" Text="Heat with 1bit control" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-48_R-17423">
+        <T AttributeName="FunctionText" Text="Heat with 1byte control" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-49">
+        <T AttributeName="Text" Text="Output B" />
+        <T AttributeName="FunctionText" Text="Forced position" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-50">
+        <T AttributeName="Text" Text="Output C" />
+        <T AttributeName="FunctionText" Text="Channel output" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-51">
+        <T AttributeName="Text" Text="Output C" />
+        <T AttributeName="FunctionText" Text="Relative dimming(4bit)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-52">
+        <T AttributeName="Text" Text="Output C" />
+        <T AttributeName="FunctionText" Text="Absolute dimming(8bit)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-53">
+        <T AttributeName="Text" Text="Output C" />
+        <T AttributeName="FunctionText" Text="Respone state(1bit)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-54">
+        <T AttributeName="Text" Text="Output C" />
+        <T AttributeName="FunctionText" Text="Respone state(1byte)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-55">
+        <T AttributeName="Text" Text="Output C" />
+        <T AttributeName="FunctionText" Text="R/W total ON time" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-56">
+        <T AttributeName="Text" Text="Output C" />
+        <T AttributeName="FunctionText" Text="Alarm when total ON time out" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-57">
+        <T AttributeName="Text" Text="Output C" />
+        <T AttributeName="FunctionText" Text="Temperature alarm" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-58">
+        <T AttributeName="Text" Text="Output C" />
+        <T AttributeName="FunctionText" Text="Read temperature" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-59">
+        <T AttributeName="Text" Text="Output C" />
+        <T AttributeName="FunctionText" Text="Staircase light" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-60">
+        <T AttributeName="Text" Text="Output C" />
+        <T AttributeName="FunctionText" Text="Change staircase light time" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-61">
+        <T AttributeName="Text" Text="Output C" />
+        <T AttributeName="FunctionText" Text="Warning staircase light" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-62">
+        <T AttributeName="Text" Text="Output C" />
+        <T AttributeName="FunctionText" Text="Flashing" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-63">
+        <T AttributeName="Text" Text="Output C" />
+        <T AttributeName="FunctionText" Text="Scene(8bit)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-64">
+        <T AttributeName="Text" Text="Output C" />
+        <T AttributeName="FunctionText" Text="Scene dimming(4bit)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-65">
+        <T AttributeName="Text" Text="Output C" />
+        <T AttributeName="FunctionText" Text="Threshold input" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-66">
+        <T AttributeName="Text" Text="Output C" />
+        <T AttributeName="FunctionText" Text="Change threshold 1" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-67">
+        <T AttributeName="Text" Text="Output C" />
+        <T AttributeName="FunctionText" Text="Change threshold 2" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-68">
+        <T AttributeName="Text" Text="Output C" />
+        <T AttributeName="FunctionText" Text="Heat with 1bit control" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-68_R-17723">
+        <T AttributeName="FunctionText" Text="Heat with 1byte control" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-69">
+        <T AttributeName="Text" Text="Output C" />
+        <T AttributeName="FunctionText" Text="Forced position" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-70">
+        <T AttributeName="Text" Text="Output D" />
+        <T AttributeName="FunctionText" Text="Channel output" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-71">
+        <T AttributeName="Text" Text="Output D" />
+        <T AttributeName="FunctionText" Text="Relative dimming(4bit)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-72">
+        <T AttributeName="Text" Text="Output D" />
+        <T AttributeName="FunctionText" Text="Absolute dimming(8bit)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-73">
+        <T AttributeName="Text" Text="Output D" />
+        <T AttributeName="FunctionText" Text="Respone state(1bit)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-74">
+        <T AttributeName="Text" Text="Output D" />
+        <T AttributeName="FunctionText" Text="Respone state(1byte)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-75">
+        <T AttributeName="Text" Text="Output D" />
+        <T AttributeName="FunctionText" Text="R/W total ON time" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-76">
+        <T AttributeName="Text" Text="Output D" />
+        <T AttributeName="FunctionText" Text="Alarm when total ON time out" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-77">
+        <T AttributeName="Text" Text="Output D" />
+        <T AttributeName="FunctionText" Text="Temperature alarm" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-78">
+        <T AttributeName="Text" Text="Output D" />
+        <T AttributeName="FunctionText" Text="Read temperature" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-79">
+        <T AttributeName="Text" Text="Output D" />
+        <T AttributeName="FunctionText" Text="Staircase light" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-80">
+        <T AttributeName="Text" Text="Output D" />
+        <T AttributeName="FunctionText" Text="Change staircase light time" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-81">
+        <T AttributeName="Text" Text="Output D" />
+        <T AttributeName="FunctionText" Text="Warning staircase light" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-82">
+        <T AttributeName="Text" Text="Output D" />
+        <T AttributeName="FunctionText" Text="Flashing" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-83">
+        <T AttributeName="Text" Text="Output D" />
+        <T AttributeName="FunctionText" Text="Scene(8bit)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-84">
+        <T AttributeName="Text" Text="Output D" />
+        <T AttributeName="FunctionText" Text="Scene dimming(4bit)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-85">
+        <T AttributeName="Text" Text="Output D" />
+        <T AttributeName="FunctionText" Text="Threshold input" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-86">
+        <T AttributeName="Text" Text="Output D" />
+        <T AttributeName="FunctionText" Text="Change threshold 1" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-87">
+        <T AttributeName="Text" Text="Output D" />
+        <T AttributeName="FunctionText" Text="Change threshold 2" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-88">
+        <T AttributeName="Text" Text="Output D" />
+        <T AttributeName="FunctionText" Text="Heat with 1bit control" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-88_R-18023">
+        <T AttributeName="FunctionText" Text="Heat with 1byte control" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_O-89">
+        <T AttributeName="Text" Text="Output D" />
+        <T AttributeName="FunctionText" Text="Forced position" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-10">
+        <T AttributeName="Text" Text="General" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1000">
+        <T AttributeName="Text" Text="System delay operation after recovery(2..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1001">
+        <T AttributeName="Text" Text="Cycle send general telegram(1..65535s,0-invalid)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-21">
+        <T AttributeName="Text" Text="NULL" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1002">
+        <T AttributeName="Text" Text="Power grid voltage" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1003">
+        <T AttributeName="Text" Text="Enable sequence 1" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1004">
+        <T AttributeName="Text" Text="Enable sequence 2" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1005">
+        <T AttributeName="Text" Text="Enable sequence 3" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1006">
+        <T AttributeName="Text" Text="Enable sequence 4" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1007">
+        <T AttributeName="Text" Text="Enable sequence 5" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-11">
+        <T AttributeName="Text" Text="G:sequence 1" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1008">
+        <T AttributeName="Text" Text="Operaton mode of the sequence 1" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1009">
+        <T AttributeName="Text" Text="Control mode of the sequence 1" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1010">
+        <T AttributeName="Text" Text="Runing mode of the sequence 1" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1012">
+        <T AttributeName="Text" Text="Runing time(0..255 hours,0h&amp;0m-unlimited)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1013">
+        <T AttributeName="Text" Text="Runing time(0..59 mins,0h&amp;0m-unlimited)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1014">
+        <T AttributeName="Text" Text="Position after running time out" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-12">
+        <T AttributeName="Text" Text="Total 24 steps,configuration as following:" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1021">
+        <T AttributeName="Text" Text="&gt;&gt;Step 1 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1022">
+        <T AttributeName="Text" Text="Time for step 1 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1023">
+        <T AttributeName="Text" Text="Time for step 1 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1024">
+        <T AttributeName="Text" Text="&gt;&gt;Step 2 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1025">
+        <T AttributeName="Text" Text="Time for step 2 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1026">
+        <T AttributeName="Text" Text="Time for step 2 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1027">
+        <T AttributeName="Text" Text="&gt;&gt;Step 3 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1028">
+        <T AttributeName="Text" Text="Time for step 3 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1029">
+        <T AttributeName="Text" Text="Time for step 3 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1030">
+        <T AttributeName="Text" Text="&gt;&gt;Step 4 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1031">
+        <T AttributeName="Text" Text="Time for step 4 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1032">
+        <T AttributeName="Text" Text="Time for step 4 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1033">
+        <T AttributeName="Text" Text="&gt;&gt;Step 5 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1034">
+        <T AttributeName="Text" Text="Time for step 5 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1035">
+        <T AttributeName="Text" Text="Time for step 5 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1036">
+        <T AttributeName="Text" Text="&gt;&gt;Step 6 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1037">
+        <T AttributeName="Text" Text="Time for step 6 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1038">
+        <T AttributeName="Text" Text="Time for step 6 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1039">
+        <T AttributeName="Text" Text="&gt;&gt;Step 7 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1040">
+        <T AttributeName="Text" Text="Time for step 7 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1041">
+        <T AttributeName="Text" Text="Time for step 7 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1042">
+        <T AttributeName="Text" Text="&gt;&gt;Step 8 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1043">
+        <T AttributeName="Text" Text="Time for step 8 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1044">
+        <T AttributeName="Text" Text="Time for step 8 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1045">
+        <T AttributeName="Text" Text="&gt;&gt;Step 9 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1046">
+        <T AttributeName="Text" Text="Time for step 9 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1047">
+        <T AttributeName="Text" Text="Time for step 9 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1048">
+        <T AttributeName="Text" Text="&gt;&gt;Step 10 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1049">
+        <T AttributeName="Text" Text="Time for step 10 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1050">
+        <T AttributeName="Text" Text="Time for step 10 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1051">
+        <T AttributeName="Text" Text="&gt;&gt;Step 11 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1052">
+        <T AttributeName="Text" Text="Time for step 11 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1053">
+        <T AttributeName="Text" Text="Time for step 11 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1054">
+        <T AttributeName="Text" Text="&gt;&gt;Step 12 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1055">
+        <T AttributeName="Text" Text="Time for step 12 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1056">
+        <T AttributeName="Text" Text="Time for step 12 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1057">
+        <T AttributeName="Text" Text="&gt;&gt;Step 13 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1058">
+        <T AttributeName="Text" Text="Time for step 13 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1059">
+        <T AttributeName="Text" Text="Time for step 13 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1060">
+        <T AttributeName="Text" Text="&gt;&gt;Step 14 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1061">
+        <T AttributeName="Text" Text="Time for step 14 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1062">
+        <T AttributeName="Text" Text="Time for step 14 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1063">
+        <T AttributeName="Text" Text="&gt;&gt;Step 15 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1064">
+        <T AttributeName="Text" Text="Time for step 15 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1065">
+        <T AttributeName="Text" Text="Time for step 15 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1066">
+        <T AttributeName="Text" Text="&gt;&gt;Step 16 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1067">
+        <T AttributeName="Text" Text="Time for step 16 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1068">
+        <T AttributeName="Text" Text="Time for step 16 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1069">
+        <T AttributeName="Text" Text="&gt;&gt;Step 17 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1070">
+        <T AttributeName="Text" Text="Time for step 17 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1071">
+        <T AttributeName="Text" Text="Time for step 17 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1072">
+        <T AttributeName="Text" Text="&gt;&gt;Step 18 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1073">
+        <T AttributeName="Text" Text="Time for step 18 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1074">
+        <T AttributeName="Text" Text="Time for step 18 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1075">
+        <T AttributeName="Text" Text="&gt;&gt;Step 19 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1076">
+        <T AttributeName="Text" Text="Time for step 19 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1077">
+        <T AttributeName="Text" Text="Time for step 19 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1078">
+        <T AttributeName="Text" Text="&gt;&gt;Step 20 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1079">
+        <T AttributeName="Text" Text="Time for step 20 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1080">
+        <T AttributeName="Text" Text="Time for step 20 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1081">
+        <T AttributeName="Text" Text="&gt;&gt;Step 21 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1082">
+        <T AttributeName="Text" Text="Time for step 21 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1083">
+        <T AttributeName="Text" Text="Time for step 21 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1084">
+        <T AttributeName="Text" Text="&gt;&gt;Step 22 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1085">
+        <T AttributeName="Text" Text="Time for step 22 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1086">
+        <T AttributeName="Text" Text="Time for step 22 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1087">
+        <T AttributeName="Text" Text="&gt;&gt;Step 23 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1088">
+        <T AttributeName="Text" Text="Time for step 23 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1089">
+        <T AttributeName="Text" Text="Time for step 23 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1090">
+        <T AttributeName="Text" Text="&gt;&gt;Step 24 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1091">
+        <T AttributeName="Text" Text="Time for step 24 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1092">
+        <T AttributeName="Text" Text="Time for step 24 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-13">
+        <T AttributeName="Text" Text="G:sequence 2" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1093">
+        <T AttributeName="Text" Text="Operaton mode of the sequence 2" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1094">
+        <T AttributeName="Text" Text="Control mode of the sequence 2" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1095">
+        <T AttributeName="Text" Text="Runing mode of the sequence 2" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1097">
+        <T AttributeName="Text" Text="Runing time(0..255 hours,0h&amp;0m-unlimited)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1098">
+        <T AttributeName="Text" Text="Runing time(0..59 mins,0h&amp;0m-unlimited)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1099">
+        <T AttributeName="Text" Text="Position after running time out" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-14">
+        <T AttributeName="Text" Text="Total 24 steps,configuration as following:" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1106">
+        <T AttributeName="Text" Text="&gt;&gt;Step 1 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1107">
+        <T AttributeName="Text" Text="Time for step 1 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1108">
+        <T AttributeName="Text" Text="Time for step 1 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1109">
+        <T AttributeName="Text" Text="&gt;&gt;Step 2 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1110">
+        <T AttributeName="Text" Text="Time for step 2 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1111">
+        <T AttributeName="Text" Text="Time for step 2 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1112">
+        <T AttributeName="Text" Text="&gt;&gt;Step 3 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1113">
+        <T AttributeName="Text" Text="Time for step 3 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1114">
+        <T AttributeName="Text" Text="Time for step 3 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1115">
+        <T AttributeName="Text" Text="&gt;&gt;Step 4 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1116">
+        <T AttributeName="Text" Text="Time for step 4 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1117">
+        <T AttributeName="Text" Text="Time for step 4 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1118">
+        <T AttributeName="Text" Text="&gt;&gt;Step 5 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1119">
+        <T AttributeName="Text" Text="Time for step 5 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1120">
+        <T AttributeName="Text" Text="Time for step 5 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1121">
+        <T AttributeName="Text" Text="&gt;&gt;Step 6 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1122">
+        <T AttributeName="Text" Text="Time for step 6 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1123">
+        <T AttributeName="Text" Text="Time for step 6 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1124">
+        <T AttributeName="Text" Text="&gt;&gt;Step 7 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1125">
+        <T AttributeName="Text" Text="Time for step 7 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1126">
+        <T AttributeName="Text" Text="Time for step 7 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1127">
+        <T AttributeName="Text" Text="&gt;&gt;Step 8 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1128">
+        <T AttributeName="Text" Text="Time for step 8 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1129">
+        <T AttributeName="Text" Text="Time for step 8 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1130">
+        <T AttributeName="Text" Text="&gt;&gt;Step 9 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1131">
+        <T AttributeName="Text" Text="Time for step 9 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1132">
+        <T AttributeName="Text" Text="Time for step 9 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1133">
+        <T AttributeName="Text" Text="&gt;&gt;Step 10 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1134">
+        <T AttributeName="Text" Text="Time for step 10 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1135">
+        <T AttributeName="Text" Text="Time for step 10 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1136">
+        <T AttributeName="Text" Text="&gt;&gt;Step 11 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1137">
+        <T AttributeName="Text" Text="Time for step 11 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1138">
+        <T AttributeName="Text" Text="Time for step 11 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1139">
+        <T AttributeName="Text" Text="&gt;&gt;Step 12 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1140">
+        <T AttributeName="Text" Text="Time for step 12 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1141">
+        <T AttributeName="Text" Text="Time for step 12 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1142">
+        <T AttributeName="Text" Text="&gt;&gt;Step 13 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1143">
+        <T AttributeName="Text" Text="Time for step 13 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1144">
+        <T AttributeName="Text" Text="Time for step 13 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1145">
+        <T AttributeName="Text" Text="&gt;&gt;Step 14 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1146">
+        <T AttributeName="Text" Text="Time for step 14 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1147">
+        <T AttributeName="Text" Text="Time for step 14 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1148">
+        <T AttributeName="Text" Text="&gt;&gt;Step 15 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1149">
+        <T AttributeName="Text" Text="Time for step 15 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1150">
+        <T AttributeName="Text" Text="Time for step 15 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1151">
+        <T AttributeName="Text" Text="&gt;&gt;Step 16 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1152">
+        <T AttributeName="Text" Text="Time for step 16 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1153">
+        <T AttributeName="Text" Text="Time for step 16 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1154">
+        <T AttributeName="Text" Text="&gt;&gt;Step 17 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1155">
+        <T AttributeName="Text" Text="Time for step 17 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1156">
+        <T AttributeName="Text" Text="Time for step 17 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1157">
+        <T AttributeName="Text" Text="&gt;&gt;Step 18 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1158">
+        <T AttributeName="Text" Text="Time for step 18 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1159">
+        <T AttributeName="Text" Text="Time for step 18 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1160">
+        <T AttributeName="Text" Text="&gt;&gt;Step 19 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1161">
+        <T AttributeName="Text" Text="Time for step 19 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1162">
+        <T AttributeName="Text" Text="Time for step 19 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1163">
+        <T AttributeName="Text" Text="&gt;&gt;Step 20 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1164">
+        <T AttributeName="Text" Text="Time for step 20 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1165">
+        <T AttributeName="Text" Text="Time for step 20 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1166">
+        <T AttributeName="Text" Text="&gt;&gt;Step 21 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1167">
+        <T AttributeName="Text" Text="Time for step 21 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1168">
+        <T AttributeName="Text" Text="Time for step 21 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1169">
+        <T AttributeName="Text" Text="&gt;&gt;Step 22 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1170">
+        <T AttributeName="Text" Text="Time for step 22 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1171">
+        <T AttributeName="Text" Text="Time for step 22 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1172">
+        <T AttributeName="Text" Text="&gt;&gt;Step 23 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1173">
+        <T AttributeName="Text" Text="Time for step 23 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1174">
+        <T AttributeName="Text" Text="Time for step 23 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1175">
+        <T AttributeName="Text" Text="&gt;&gt;Step 24 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1176">
+        <T AttributeName="Text" Text="Time for step 24 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1177">
+        <T AttributeName="Text" Text="Time for step 24 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-15">
+        <T AttributeName="Text" Text="G:sequence 3" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1178">
+        <T AttributeName="Text" Text="Operaton mode of the sequence 3" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1179">
+        <T AttributeName="Text" Text="Control mode of the sequence 3" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1180">
+        <T AttributeName="Text" Text="Runing mode of the sequence 3" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1182">
+        <T AttributeName="Text" Text="Runing time(0..255 hours,0h&amp;0m-unlimited)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1183">
+        <T AttributeName="Text" Text="Runing time(0..59 mins,0h&amp;0m-unlimited)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1184">
+        <T AttributeName="Text" Text="Position after running time out" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-16">
+        <T AttributeName="Text" Text="Total 24 steps,configuration as following:" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1191">
+        <T AttributeName="Text" Text="&gt;&gt;Step 1 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1192">
+        <T AttributeName="Text" Text="Time for step 1 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1193">
+        <T AttributeName="Text" Text="Time for step 1 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1194">
+        <T AttributeName="Text" Text="&gt;&gt;Step 2 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1195">
+        <T AttributeName="Text" Text="Time for step 2 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1196">
+        <T AttributeName="Text" Text="Time for step 2 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1197">
+        <T AttributeName="Text" Text="&gt;&gt;Step 3 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1198">
+        <T AttributeName="Text" Text="Time for step 3 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1199">
+        <T AttributeName="Text" Text="Time for step 3 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1200">
+        <T AttributeName="Text" Text="&gt;&gt;Step 4 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1201">
+        <T AttributeName="Text" Text="Time for step 4 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1202">
+        <T AttributeName="Text" Text="Time for step 4 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1203">
+        <T AttributeName="Text" Text="&gt;&gt;Step 5 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1204">
+        <T AttributeName="Text" Text="Time for step 5 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1205">
+        <T AttributeName="Text" Text="Time for step 5 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1206">
+        <T AttributeName="Text" Text="&gt;&gt;Step 6 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1207">
+        <T AttributeName="Text" Text="Time for step 6 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1208">
+        <T AttributeName="Text" Text="Time for step 6 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1209">
+        <T AttributeName="Text" Text="&gt;&gt;Step 7 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1210">
+        <T AttributeName="Text" Text="Time for step 7 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1211">
+        <T AttributeName="Text" Text="Time for step 7 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1212">
+        <T AttributeName="Text" Text="&gt;&gt;Step 8 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1213">
+        <T AttributeName="Text" Text="Time for step 8 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1214">
+        <T AttributeName="Text" Text="Time for step 8 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1215">
+        <T AttributeName="Text" Text="&gt;&gt;Step 9 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1216">
+        <T AttributeName="Text" Text="Time for step 9 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1217">
+        <T AttributeName="Text" Text="Time for step 9 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1218">
+        <T AttributeName="Text" Text="&gt;&gt;Step 10 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1219">
+        <T AttributeName="Text" Text="Time for step 10 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1220">
+        <T AttributeName="Text" Text="Time for step 10 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1221">
+        <T AttributeName="Text" Text="&gt;&gt;Step 11 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1222">
+        <T AttributeName="Text" Text="Time for step 11 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1223">
+        <T AttributeName="Text" Text="Time for step 11 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1224">
+        <T AttributeName="Text" Text="&gt;&gt;Step 12 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1225">
+        <T AttributeName="Text" Text="Time for step 12 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1226">
+        <T AttributeName="Text" Text="Time for step 12 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1227">
+        <T AttributeName="Text" Text="&gt;&gt;Step 13 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1228">
+        <T AttributeName="Text" Text="Time for step 13 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1229">
+        <T AttributeName="Text" Text="Time for step 13 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1230">
+        <T AttributeName="Text" Text="&gt;&gt;Step 14 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1231">
+        <T AttributeName="Text" Text="Time for step 14 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1232">
+        <T AttributeName="Text" Text="Time for step 14 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1233">
+        <T AttributeName="Text" Text="&gt;&gt;Step 15 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1234">
+        <T AttributeName="Text" Text="Time for step 15 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1235">
+        <T AttributeName="Text" Text="Time for step 15 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1236">
+        <T AttributeName="Text" Text="&gt;&gt;Step 16 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1237">
+        <T AttributeName="Text" Text="Time for step 16 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1238">
+        <T AttributeName="Text" Text="Time for step 16 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1239">
+        <T AttributeName="Text" Text="&gt;&gt;Step 17 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1240">
+        <T AttributeName="Text" Text="Time for step 17 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1241">
+        <T AttributeName="Text" Text="Time for step 17 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1242">
+        <T AttributeName="Text" Text="&gt;&gt;Step 18 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1243">
+        <T AttributeName="Text" Text="Time for step 18 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1244">
+        <T AttributeName="Text" Text="Time for step 18 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1245">
+        <T AttributeName="Text" Text="&gt;&gt;Step 19 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1246">
+        <T AttributeName="Text" Text="Time for step 19 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1247">
+        <T AttributeName="Text" Text="Time for step 19 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1248">
+        <T AttributeName="Text" Text="&gt;&gt;Step 20 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1249">
+        <T AttributeName="Text" Text="Time for step 20 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1250">
+        <T AttributeName="Text" Text="Time for step 20 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1251">
+        <T AttributeName="Text" Text="&gt;&gt;Step 21 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1252">
+        <T AttributeName="Text" Text="Time for step 21 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1253">
+        <T AttributeName="Text" Text="Time for step 21 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1254">
+        <T AttributeName="Text" Text="&gt;&gt;Step 22 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1255">
+        <T AttributeName="Text" Text="Time for step 22 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1256">
+        <T AttributeName="Text" Text="Time for step 22 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1257">
+        <T AttributeName="Text" Text="&gt;&gt;Step 23 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1258">
+        <T AttributeName="Text" Text="Time for step 23 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1259">
+        <T AttributeName="Text" Text="Time for step 23 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1260">
+        <T AttributeName="Text" Text="&gt;&gt;Step 24 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1261">
+        <T AttributeName="Text" Text="Time for step 24 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1262">
+        <T AttributeName="Text" Text="Time for step 24 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-17">
+        <T AttributeName="Text" Text="G:sequence 4" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1263">
+        <T AttributeName="Text" Text="Operaton mode of the sequence 4" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1264">
+        <T AttributeName="Text" Text="Control mode of the sequence 4" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1265">
+        <T AttributeName="Text" Text="Runing mode of the sequence 4" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1267">
+        <T AttributeName="Text" Text="Runing time(0..255 hours,0h&amp;0m-unlimited)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1268">
+        <T AttributeName="Text" Text="Runing time(0..59 mins,0h&amp;0m-unlimited)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1269">
+        <T AttributeName="Text" Text="Position after running time out" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-18">
+        <T AttributeName="Text" Text="Total 24 steps,configuration as following:" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1276">
+        <T AttributeName="Text" Text="&gt;&gt;Step 1 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1277">
+        <T AttributeName="Text" Text="Time for step 1 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1278">
+        <T AttributeName="Text" Text="Time for step 1 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1279">
+        <T AttributeName="Text" Text="&gt;&gt;Step 2 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1280">
+        <T AttributeName="Text" Text="Time for step 2 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1281">
+        <T AttributeName="Text" Text="Time for step 2 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1282">
+        <T AttributeName="Text" Text="&gt;&gt;Step 3 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1283">
+        <T AttributeName="Text" Text="Time for step 3 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1284">
+        <T AttributeName="Text" Text="Time for step 3 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1285">
+        <T AttributeName="Text" Text="&gt;&gt;Step 4 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1286">
+        <T AttributeName="Text" Text="Time for step 4 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1287">
+        <T AttributeName="Text" Text="Time for step 4 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1288">
+        <T AttributeName="Text" Text="&gt;&gt;Step 5 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1289">
+        <T AttributeName="Text" Text="Time for step 5 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1290">
+        <T AttributeName="Text" Text="Time for step 5 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1291">
+        <T AttributeName="Text" Text="&gt;&gt;Step 6 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1292">
+        <T AttributeName="Text" Text="Time for step 6 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1293">
+        <T AttributeName="Text" Text="Time for step 6 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1294">
+        <T AttributeName="Text" Text="&gt;&gt;Step 7 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1295">
+        <T AttributeName="Text" Text="Time for step 7 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1296">
+        <T AttributeName="Text" Text="Time for step 7 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1297">
+        <T AttributeName="Text" Text="&gt;&gt;Step 8 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1298">
+        <T AttributeName="Text" Text="Time for step 8 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1299">
+        <T AttributeName="Text" Text="Time for step 8 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1300">
+        <T AttributeName="Text" Text="&gt;&gt;Step 9 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1301">
+        <T AttributeName="Text" Text="Time for step 9 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1302">
+        <T AttributeName="Text" Text="Time for step 9 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1303">
+        <T AttributeName="Text" Text="&gt;&gt;Step 10 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1304">
+        <T AttributeName="Text" Text="Time for step 10 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1305">
+        <T AttributeName="Text" Text="Time for step 10 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1306">
+        <T AttributeName="Text" Text="&gt;&gt;Step 11 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1307">
+        <T AttributeName="Text" Text="Time for step 11 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1308">
+        <T AttributeName="Text" Text="Time for step 11 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1309">
+        <T AttributeName="Text" Text="&gt;&gt;Step 12 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1310">
+        <T AttributeName="Text" Text="Time for step 12 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1311">
+        <T AttributeName="Text" Text="Time for step 12 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1312">
+        <T AttributeName="Text" Text="&gt;&gt;Step 13 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1313">
+        <T AttributeName="Text" Text="Time for step 13 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1314">
+        <T AttributeName="Text" Text="Time for step 13 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1315">
+        <T AttributeName="Text" Text="&gt;&gt;Step 14 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1316">
+        <T AttributeName="Text" Text="Time for step 14 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1317">
+        <T AttributeName="Text" Text="Time for step 14 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1318">
+        <T AttributeName="Text" Text="&gt;&gt;Step 15 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1319">
+        <T AttributeName="Text" Text="Time for step 15 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1320">
+        <T AttributeName="Text" Text="Time for step 15 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1321">
+        <T AttributeName="Text" Text="&gt;&gt;Step 16 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1322">
+        <T AttributeName="Text" Text="Time for step 16 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1323">
+        <T AttributeName="Text" Text="Time for step 16 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1324">
+        <T AttributeName="Text" Text="&gt;&gt;Step 17 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1325">
+        <T AttributeName="Text" Text="Time for step 17 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1326">
+        <T AttributeName="Text" Text="Time for step 17 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1327">
+        <T AttributeName="Text" Text="&gt;&gt;Step 18 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1328">
+        <T AttributeName="Text" Text="Time for step 18 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1329">
+        <T AttributeName="Text" Text="Time for step 18 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1330">
+        <T AttributeName="Text" Text="&gt;&gt;Step 19 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1331">
+        <T AttributeName="Text" Text="Time for step 19 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1332">
+        <T AttributeName="Text" Text="Time for step 19 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1333">
+        <T AttributeName="Text" Text="&gt;&gt;Step 20 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1334">
+        <T AttributeName="Text" Text="Time for step 20 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1335">
+        <T AttributeName="Text" Text="Time for step 20 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1336">
+        <T AttributeName="Text" Text="&gt;&gt;Step 21 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1337">
+        <T AttributeName="Text" Text="Time for step 21 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1338">
+        <T AttributeName="Text" Text="Time for step 21 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1339">
+        <T AttributeName="Text" Text="&gt;&gt;Step 22 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1340">
+        <T AttributeName="Text" Text="Time for step 22 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1341">
+        <T AttributeName="Text" Text="Time for step 22 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1342">
+        <T AttributeName="Text" Text="&gt;&gt;Step 23 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1343">
+        <T AttributeName="Text" Text="Time for step 23 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1344">
+        <T AttributeName="Text" Text="Time for step 23 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1345">
+        <T AttributeName="Text" Text="&gt;&gt;Step 24 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1346">
+        <T AttributeName="Text" Text="Time for step 24 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1347">
+        <T AttributeName="Text" Text="Time for step 24 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-19">
+        <T AttributeName="Text" Text="G:sequence 5" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1348">
+        <T AttributeName="Text" Text="Operaton mode of the sequence 5" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1349">
+        <T AttributeName="Text" Text="Control mode of the sequence 5" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1350">
+        <T AttributeName="Text" Text="Runing mode of the sequence 5" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1352">
+        <T AttributeName="Text" Text="Runing time(0..255 hours,0h&amp;0m-unlimited)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1353">
+        <T AttributeName="Text" Text="Runing time(0..59 mins,0h&amp;0m-unlimited)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1354">
+        <T AttributeName="Text" Text="Position after running time out" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-20">
+        <T AttributeName="Text" Text="Total 24 steps,configuration as following:" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1361">
+        <T AttributeName="Text" Text="&gt;&gt;Step 1 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1362">
+        <T AttributeName="Text" Text="Time for step 1 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1363">
+        <T AttributeName="Text" Text="Time for step 1 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1364">
+        <T AttributeName="Text" Text="&gt;&gt;Step 2 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1365">
+        <T AttributeName="Text" Text="Time for step 2 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1366">
+        <T AttributeName="Text" Text="Time for step 2 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1367">
+        <T AttributeName="Text" Text="&gt;&gt;Step 3 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1368">
+        <T AttributeName="Text" Text="Time for step 3 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1369">
+        <T AttributeName="Text" Text="Time for step 3 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1370">
+        <T AttributeName="Text" Text="&gt;&gt;Step 4 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1371">
+        <T AttributeName="Text" Text="Time for step 4 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1372">
+        <T AttributeName="Text" Text="Time for step 4 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1373">
+        <T AttributeName="Text" Text="&gt;&gt;Step 5 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1374">
+        <T AttributeName="Text" Text="Time for step 5 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1375">
+        <T AttributeName="Text" Text="Time for step 5 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1376">
+        <T AttributeName="Text" Text="&gt;&gt;Step 6 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1377">
+        <T AttributeName="Text" Text="Time for step 6 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1378">
+        <T AttributeName="Text" Text="Time for step 6 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1379">
+        <T AttributeName="Text" Text="&gt;&gt;Step 7 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1380">
+        <T AttributeName="Text" Text="Time for step 7 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1381">
+        <T AttributeName="Text" Text="Time for step 7 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1382">
+        <T AttributeName="Text" Text="&gt;&gt;Step 8 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1383">
+        <T AttributeName="Text" Text="Time for step 8 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1384">
+        <T AttributeName="Text" Text="Time for step 8 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1385">
+        <T AttributeName="Text" Text="&gt;&gt;Step 9 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1386">
+        <T AttributeName="Text" Text="Time for step 9 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1387">
+        <T AttributeName="Text" Text="Time for step 9 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1388">
+        <T AttributeName="Text" Text="&gt;&gt;Step 10 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1389">
+        <T AttributeName="Text" Text="Time for step 10 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1390">
+        <T AttributeName="Text" Text="Time for step 10 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1391">
+        <T AttributeName="Text" Text="&gt;&gt;Step 11 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1392">
+        <T AttributeName="Text" Text="Time for step 11 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1393">
+        <T AttributeName="Text" Text="Time for step 11 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1394">
+        <T AttributeName="Text" Text="&gt;&gt;Step 12 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1395">
+        <T AttributeName="Text" Text="Time for step 12 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1396">
+        <T AttributeName="Text" Text="Time for step 12 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1397">
+        <T AttributeName="Text" Text="&gt;&gt;Step 13 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1398">
+        <T AttributeName="Text" Text="Time for step 13 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1399">
+        <T AttributeName="Text" Text="Time for step 13 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1400">
+        <T AttributeName="Text" Text="&gt;&gt;Step 14 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1401">
+        <T AttributeName="Text" Text="Time for step 14 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1402">
+        <T AttributeName="Text" Text="Time for step 14 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1403">
+        <T AttributeName="Text" Text="&gt;&gt;Step 15 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1404">
+        <T AttributeName="Text" Text="Time for step 15 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1405">
+        <T AttributeName="Text" Text="Time for step 15 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1406">
+        <T AttributeName="Text" Text="&gt;&gt;Step 16 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1407">
+        <T AttributeName="Text" Text="Time for step 16 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1408">
+        <T AttributeName="Text" Text="Time for step 16 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1409">
+        <T AttributeName="Text" Text="&gt;&gt;Step 17 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1410">
+        <T AttributeName="Text" Text="Time for step 17 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1411">
+        <T AttributeName="Text" Text="Time for step 17 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1412">
+        <T AttributeName="Text" Text="&gt;&gt;Step 18 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1413">
+        <T AttributeName="Text" Text="Time for step 18 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1414">
+        <T AttributeName="Text" Text="Time for step 18 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1415">
+        <T AttributeName="Text" Text="&gt;&gt;Step 19 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1416">
+        <T AttributeName="Text" Text="Time for step 19 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1417">
+        <T AttributeName="Text" Text="Time for step 19 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1418">
+        <T AttributeName="Text" Text="&gt;&gt;Step 20 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1419">
+        <T AttributeName="Text" Text="Time for step 20 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1420">
+        <T AttributeName="Text" Text="Time for step 20 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1421">
+        <T AttributeName="Text" Text="&gt;&gt;Step 21 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1422">
+        <T AttributeName="Text" Text="Time for step 21 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1423">
+        <T AttributeName="Text" Text="Time for step 21 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1424">
+        <T AttributeName="Text" Text="&gt;&gt;Step 22 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1425">
+        <T AttributeName="Text" Text="Time for step 22 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1426">
+        <T AttributeName="Text" Text="Time for step 22 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1427">
+        <T AttributeName="Text" Text="&gt;&gt;Step 23 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1428">
+        <T AttributeName="Text" Text="Time for step 23 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1429">
+        <T AttributeName="Text" Text="Time for step 23 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1430">
+        <T AttributeName="Text" Text="&gt;&gt;Step 24 configuration" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1431">
+        <T AttributeName="Text" Text="Time for step 24 (0..65535s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-1432">
+        <T AttributeName="Text" Text="Time for step 24 (0..999ms)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-22">
+        <T AttributeName="Text" Text="Channel A" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2000">
+        <T AttributeName="Text" Text="The response of channel state(1bit)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2001">
+        <T AttributeName="Text" Text="The response of channel state(1byte)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2002">
+        <T AttributeName="Text" Text="Statistics total ON time to allow(0..65535h=7.4years)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2003">
+        <T AttributeName="Text" Text="Alarm when time out(1..65535h,0-invalid)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2004">
+        <T AttributeName="Text" Text="Transmit telegram interval when alarm(1..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2005">
+        <T AttributeName="Text" Text="The status after bus voltage recovery" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2006">
+        <T AttributeName="Text" Text="Brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2007">
+        <T AttributeName="Text" Text="Over temperature protection" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2008">
+        <T AttributeName="Text" Text="Compare temperature for alarm base(Degrees Celsius)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2008_R-2009">
+        <T AttributeName="Text" Text="Compare temperature for OFF base(Degrees Celsius)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2008_R-2010">
+        <T AttributeName="Text" Text="Compare temperature for reduce power base(Degrees Celsius)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2011">
+        <T AttributeName="Text" Text="Reduce the relative power value(-x%/5C)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2012">
+        <T AttributeName="Text" Text="Alarm temperature(Degrees Celsius)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2014">
+        <T AttributeName="Text" Text="Alarm temperature time interval(1..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2017">
+        <T AttributeName="Text" Text="Read temperature(Degrees Celsius)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2018">
+        <T AttributeName="Text" Text="Maximum level" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2019">
+        <T AttributeName="Text" Text="Upper threshold level" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2020">
+        <T AttributeName="Text" Text="Lower threshold level" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2021">
+        <T AttributeName="Text" Text="Dimming minimum level" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2022">
+        <T AttributeName="Text" Text="Show the function page ==&gt;&gt;" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-30">
+        <T AttributeName="Text" Text="A&gt;dimming config" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2023">
+        <T AttributeName="Text" Text="Switching ON fade time(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2024">
+        <T AttributeName="Text" Text="Switching OFF fade time(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2025">
+        <T AttributeName="Text" Text="Enable relative dimming" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2026">
+        <T AttributeName="Text" Text="-Relative(4bits) dimming fade time(brightness0%..100%/2..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2027">
+        <T AttributeName="Text" Text="-Relative dimming is saved as the brightness of the switch" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2028">
+        <T AttributeName="Text" Text="Enable absolute dimming" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2029">
+        <T AttributeName="Text" Text="-Absolute(1byte) dimming fade time(brightness0%..100%/0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2030">
+        <T AttributeName="Text" Text="-Absolute dimming is saved as the brightness of the switch" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-31">
+        <T AttributeName="Text" Text="A:function" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2031">
+        <T AttributeName="Text" Text="Enable function &quot;staircase light&quot;" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2032">
+        <T AttributeName="Text" Text="Enable function &quot;flashing&quot;" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2033">
+        <T AttributeName="Text" Text="Enable function &quot;scene&quot;" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2034">
+        <T AttributeName="Text" Text="Enable function &quot;threshold&quot;" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2035">
+        <T AttributeName="Text" Text="Enable function &quot;heating&quot;" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-32">
+        <T AttributeName="Text" Text="NOTE:Recommend to only use a function for a channel." />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-33">
+        <T AttributeName="Text" Text="A:staircase light" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2036">
+        <T AttributeName="Text" Text="Staircase light operation" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2037">
+        <T AttributeName="Text" Text="Brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2038">
+        <T AttributeName="Text" Text="Fade time of brighter(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2039">
+        <T AttributeName="Text" Text="Fade time of darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2040">
+        <T AttributeName="Text" Text="Duration time for brightness(0..255min)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2041">
+        <T AttributeName="Text" Text="Duration time for brightness(0..59sec)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2042">
+        <T AttributeName="Text" Text="Change staircase light time via bus" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2043">
+        <T AttributeName="Text" Text="Warning staircase light via bus" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-34">
+        <T AttributeName="Text" Text="A:flashing" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2044">
+        <T AttributeName="Text" Text="Flashing operation" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2045">
+        <T AttributeName="Text" Text="Brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2046">
+        <T AttributeName="Text" Text="Fade time of brighter(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2047">
+        <T AttributeName="Text" Text="Fade time of darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2048">
+        <T AttributeName="Text" Text="Duration time for brightness(0..255min)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2049">
+        <T AttributeName="Text" Text="Duration time for brightness(0..59sec)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2050">
+        <T AttributeName="Text" Text="Duration time for darkness(0..255min)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2051">
+        <T AttributeName="Text" Text="Duration time for darkness(0..59sec)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2052">
+        <T AttributeName="Text" Text="Flashing number(1..255,0-Unlimited)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2053">
+        <T AttributeName="Text" Text="Brightness after achieves the flashing number" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-35">
+        <T AttributeName="Text" Text="A:scene" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2054">
+        <T AttributeName="Text" Text="Fade time of scene dimming(2..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-36">
+        <T AttributeName="Text" Text="Total 10 scenes,configuration as following:" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2055">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2056">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2057">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2058">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2059">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2060">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2061">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2062">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2063">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2064">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2065">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2066">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2067">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2068">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2069">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2070">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2071">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2072">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2073">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2074">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2075">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2076">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2077">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2078">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2079">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2080">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2081">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2082">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2083">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2084">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-37">
+        <T AttributeName="Text" Text="A:threshold" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2085">
+        <T AttributeName="Text" Text="Brightness value for switch ON of threshold" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2086">
+        <T AttributeName="Text" Text="Fade time for switch ON of threshold(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2087">
+        <T AttributeName="Text" Text="Fade time for switch OFF of threshold(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2088">
+        <T AttributeName="Text" Text="Threshold 1 value is(0..255)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2089">
+        <T AttributeName="Text" Text="Threshold 2 value is(0..255)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2090">
+        <T AttributeName="Text" Text="Input value&lt;Lower threshold" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2091">
+        <T AttributeName="Text" Text="Lower threshold&lt;=Input value&lt;=Upper threshold" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2092">
+        <T AttributeName="Text" Text="Input value&gt;Upper threshold" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2093">
+        <T AttributeName="Text" Text="Change threshold 1 via bus" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2094">
+        <T AttributeName="Text" Text="Change threshold 2 via bus" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-38">
+        <T AttributeName="Text" Text="A:heating" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2095">
+        <T AttributeName="Text" Text="Brightness value for switch ON of heating" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2096">
+        <T AttributeName="Text" Text="Fade time for switch ON of heating(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2097">
+        <T AttributeName="Text" Text="Fade time for switch OFF of heating(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2098">
+        <T AttributeName="Text" Text="PWM cycle time set(1..65535min)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2099">
+        <T AttributeName="Text" Text="PWM cycle time set(0..59sec)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2100">
+        <T AttributeName="Text" Text="Control telegram is received as" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2101">
+        <T AttributeName="Text" Text="The scale of ON" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2102">
+        <T AttributeName="Text" Text="Running automatically after bus voltage recovery" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2103">
+        <T AttributeName="Text" Text="-Position of the valve" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2104">
+        <T AttributeName="Text" Text="Forced position of PWM" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-2105">
+        <T AttributeName="Text" Text="-Valve of PWM" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-23">
+        <T AttributeName="Text" Text="Channel B" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3000">
+        <T AttributeName="Text" Text="The response of channel state(1bit)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3001">
+        <T AttributeName="Text" Text="The response of channel state(1byte)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3002">
+        <T AttributeName="Text" Text="Statistics total ON time to allow(0..65535h=7.4years)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3003">
+        <T AttributeName="Text" Text="Alarm when time out(1..65535h,0-invalid)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3004">
+        <T AttributeName="Text" Text="Transmit telegram interval when alarm(1..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3005">
+        <T AttributeName="Text" Text="The status after bus voltage recovery" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3006">
+        <T AttributeName="Text" Text="Brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3007">
+        <T AttributeName="Text" Text="Over temperature protection" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3008">
+        <T AttributeName="Text" Text="Compare temperature for alarm base(Degrees Celsius)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3008_R-3009">
+        <T AttributeName="Text" Text="Compare temperature for OFF base(Degrees Celsius)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3008_R-3010">
+        <T AttributeName="Text" Text="Compare temperature for reduce power base(Degrees Celsius)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3011">
+        <T AttributeName="Text" Text="Reduce the relative power value(-x%/5C)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3012">
+        <T AttributeName="Text" Text="Alarm temperature(Degrees Celsius)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3014">
+        <T AttributeName="Text" Text="Alarm temperature time interval(1..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3017">
+        <T AttributeName="Text" Text="Read temperature(Degrees Celsius)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3018">
+        <T AttributeName="Text" Text="Maximum level" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3019">
+        <T AttributeName="Text" Text="Upper threshold level" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3020">
+        <T AttributeName="Text" Text="Lower threshold level" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3021">
+        <T AttributeName="Text" Text="Dimming minimum level" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3022">
+        <T AttributeName="Text" Text="Show the function page ==&gt;&gt;" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-60">
+        <T AttributeName="Text" Text="B&gt;dimming config" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3023">
+        <T AttributeName="Text" Text="Switching ON fade time(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3024">
+        <T AttributeName="Text" Text="Switching OFF fade time(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3025">
+        <T AttributeName="Text" Text="Enable relative dimming" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3026">
+        <T AttributeName="Text" Text="-Relative(4bits) dimming fade time(brightness0%..100%/2..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3027">
+        <T AttributeName="Text" Text="-Relative dimming is saved as the brightness of the switch" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3028">
+        <T AttributeName="Text" Text="Enable absolute dimming" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3029">
+        <T AttributeName="Text" Text="-Absolute(1byte) dimming fade time(brightness0%..100%/0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3030">
+        <T AttributeName="Text" Text="-Absolute dimming is saved as the brightness of the switch" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-61">
+        <T AttributeName="Text" Text="B:function" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3031">
+        <T AttributeName="Text" Text="Enable function &quot;staircase light&quot;" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3032">
+        <T AttributeName="Text" Text="Enable function &quot;flashing&quot;" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3033">
+        <T AttributeName="Text" Text="Enable function &quot;scene&quot;" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3034">
+        <T AttributeName="Text" Text="Enable function &quot;threshold&quot;" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3035">
+        <T AttributeName="Text" Text="Enable function &quot;heating&quot;" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-62">
+        <T AttributeName="Text" Text="NOTE:Recommend to only use a function for a channel." />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-63">
+        <T AttributeName="Text" Text="B:staircase light" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3036">
+        <T AttributeName="Text" Text="Staircase light operation" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3037">
+        <T AttributeName="Text" Text="Brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3038">
+        <T AttributeName="Text" Text="Fade time of brighter(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3039">
+        <T AttributeName="Text" Text="Fade time of darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3040">
+        <T AttributeName="Text" Text="Duration time for brightness(0..255min)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3041">
+        <T AttributeName="Text" Text="Duration time for brightness(0..59sec)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3042">
+        <T AttributeName="Text" Text="Change staircase light time via bus" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3043">
+        <T AttributeName="Text" Text="Warning staircase light via bus" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-64">
+        <T AttributeName="Text" Text="B:flashing" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3044">
+        <T AttributeName="Text" Text="Flashing operation" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3045">
+        <T AttributeName="Text" Text="Brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3046">
+        <T AttributeName="Text" Text="Fade time of brighter(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3047">
+        <T AttributeName="Text" Text="Fade time of darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3048">
+        <T AttributeName="Text" Text="Duration time for brightness(0..255min)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3049">
+        <T AttributeName="Text" Text="Duration time for brightness(0..59sec)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3050">
+        <T AttributeName="Text" Text="Duration time for darkness(0..255min)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3051">
+        <T AttributeName="Text" Text="Duration time for darkness(0..59sec)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3052">
+        <T AttributeName="Text" Text="Flashing number(1..255,0-Unlimited)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3053">
+        <T AttributeName="Text" Text="Brightness after achieves the flashing number" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-65">
+        <T AttributeName="Text" Text="B:scene" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3054">
+        <T AttributeName="Text" Text="Fade time of scene dimming(2..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-66">
+        <T AttributeName="Text" Text="Total 10 scenes,configuration as following:" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3055">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3056">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3057">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3058">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3059">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3060">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3061">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3062">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3063">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3064">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3065">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3066">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3067">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3068">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3069">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3070">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3071">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3072">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3073">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3074">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3075">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3076">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3077">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3078">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3079">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3080">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3081">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3082">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3083">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3084">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-67">
+        <T AttributeName="Text" Text="B:threshold" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3085">
+        <T AttributeName="Text" Text="Brightness value for switch ON of threshold" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3086">
+        <T AttributeName="Text" Text="Fade time for switch ON of threshold(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3087">
+        <T AttributeName="Text" Text="Fade time for switch OFF of threshold(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3088">
+        <T AttributeName="Text" Text="Threshold 1 value is(0..255)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3089">
+        <T AttributeName="Text" Text="Threshold 2 value is(0..255)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3090">
+        <T AttributeName="Text" Text="Input value&lt;Lower threshold" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3091">
+        <T AttributeName="Text" Text="Lower threshold&lt;=Input value&lt;=Upper threshold" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3092">
+        <T AttributeName="Text" Text="Input value&gt;Upper threshold" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3093">
+        <T AttributeName="Text" Text="Change threshold 1 via bus" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3094">
+        <T AttributeName="Text" Text="Change threshold 2 via bus" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-68">
+        <T AttributeName="Text" Text="B:heating" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3095">
+        <T AttributeName="Text" Text="Brightness value for switch ON of heating" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3096">
+        <T AttributeName="Text" Text="Fade time for switch ON of heating(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3097">
+        <T AttributeName="Text" Text="Fade time for switch OFF of heating(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3098">
+        <T AttributeName="Text" Text="PWM cycle time set(1..65535min)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3099">
+        <T AttributeName="Text" Text="PWM cycle time set(0..59sec)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3100">
+        <T AttributeName="Text" Text="Control telegram is received as" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3101">
+        <T AttributeName="Text" Text="The scale of ON" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3102">
+        <T AttributeName="Text" Text="Running automatically after bus voltage recovery" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3103">
+        <T AttributeName="Text" Text="-Position of the valve" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3104">
+        <T AttributeName="Text" Text="Forced position of PWM" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-3105">
+        <T AttributeName="Text" Text="-Valve of PWM" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-24">
+        <T AttributeName="Text" Text="Channel C" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4000">
+        <T AttributeName="Text" Text="The response of channel state(1bit)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4001">
+        <T AttributeName="Text" Text="The response of channel state(1byte)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4002">
+        <T AttributeName="Text" Text="Statistics total ON time to allow(0..65535h=7.4years)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4003">
+        <T AttributeName="Text" Text="Alarm when time out(1..65535h,0-invalid)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4004">
+        <T AttributeName="Text" Text="Transmit telegram interval when alarm(1..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4005">
+        <T AttributeName="Text" Text="The status after bus voltage recovery" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4006">
+        <T AttributeName="Text" Text="Brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4007">
+        <T AttributeName="Text" Text="Over temperature protection" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4008">
+        <T AttributeName="Text" Text="Compare temperature for alarm base(Degrees Celsius)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4008_R-4009">
+        <T AttributeName="Text" Text="Compare temperature for OFF base(Degrees Celsius)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4008_R-4010">
+        <T AttributeName="Text" Text="Compare temperature for reduce power base(Degrees Celsius)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4011">
+        <T AttributeName="Text" Text="Reduce the relative power value(-x%/5C)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4012">
+        <T AttributeName="Text" Text="Alarm temperature(Degrees Celsius)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4014">
+        <T AttributeName="Text" Text="Alarm temperature time interval(1..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4017">
+        <T AttributeName="Text" Text="Read temperature(Degrees Celsius)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4018">
+        <T AttributeName="Text" Text="Maximum level" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4019">
+        <T AttributeName="Text" Text="Upper threshold level" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4020">
+        <T AttributeName="Text" Text="Lower threshold level" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4021">
+        <T AttributeName="Text" Text="Dimming minimum level" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4022">
+        <T AttributeName="Text" Text="Show the function page ==&gt;&gt;" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-90">
+        <T AttributeName="Text" Text="C&gt;dimming config" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4023">
+        <T AttributeName="Text" Text="Switching ON fade time(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4024">
+        <T AttributeName="Text" Text="Switching OFF fade time(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4025">
+        <T AttributeName="Text" Text="Enable relative dimming" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4026">
+        <T AttributeName="Text" Text="-Relative(4bits) dimming fade time(brightness0%..100%/2..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4027">
+        <T AttributeName="Text" Text="-Relative dimming is saved as the brightness of the switch" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4028">
+        <T AttributeName="Text" Text="Enable absolute dimming" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4029">
+        <T AttributeName="Text" Text="-Absolute(1byte) dimming fade time(brightness0%..100%/0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4030">
+        <T AttributeName="Text" Text="-Absolute dimming is saved as the brightness of the switch" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-91">
+        <T AttributeName="Text" Text="C:function" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4031">
+        <T AttributeName="Text" Text="Enable function &quot;staircase light&quot;" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4032">
+        <T AttributeName="Text" Text="Enable function &quot;flashing&quot;" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4033">
+        <T AttributeName="Text" Text="Enable function &quot;scene&quot;" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4034">
+        <T AttributeName="Text" Text="Enable function &quot;threshold&quot;" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4035">
+        <T AttributeName="Text" Text="Enable function &quot;heating&quot;" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-92">
+        <T AttributeName="Text" Text="NOTE:Recommend to only use a function for a channel." />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-93">
+        <T AttributeName="Text" Text="C:staircase light" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4036">
+        <T AttributeName="Text" Text="Staircase light operation" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4037">
+        <T AttributeName="Text" Text="Brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4038">
+        <T AttributeName="Text" Text="Fade time of brighter(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4039">
+        <T AttributeName="Text" Text="Fade time of darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4040">
+        <T AttributeName="Text" Text="Duration time for brightness(0..255min)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4041">
+        <T AttributeName="Text" Text="Duration time for brightness(0..59sec)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4042">
+        <T AttributeName="Text" Text="Change staircase light time via bus" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4043">
+        <T AttributeName="Text" Text="Warning staircase light via bus" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-94">
+        <T AttributeName="Text" Text="C:flashing" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4044">
+        <T AttributeName="Text" Text="Flashing operation" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4045">
+        <T AttributeName="Text" Text="Brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4046">
+        <T AttributeName="Text" Text="Fade time of brighter(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4047">
+        <T AttributeName="Text" Text="Fade time of darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4048">
+        <T AttributeName="Text" Text="Duration time for brightness(0..255min)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4049">
+        <T AttributeName="Text" Text="Duration time for brightness(0..59sec)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4050">
+        <T AttributeName="Text" Text="Duration time for darkness(0..255min)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4051">
+        <T AttributeName="Text" Text="Duration time for darkness(0..59sec)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4052">
+        <T AttributeName="Text" Text="Flashing number(1..255,0-Unlimited)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4053">
+        <T AttributeName="Text" Text="Brightness after achieves the flashing number" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-95">
+        <T AttributeName="Text" Text="C:scene" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4054">
+        <T AttributeName="Text" Text="Fade time of scene dimming(2..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-96">
+        <T AttributeName="Text" Text="Total 10 scenes,configuration as following:" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4055">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4056">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4057">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4058">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4059">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4060">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4061">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4062">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4063">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4064">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4065">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4066">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4067">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4068">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4069">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4070">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4071">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4072">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4073">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4074">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4075">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4076">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4077">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4078">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4079">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4080">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4081">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4082">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4083">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4084">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-97">
+        <T AttributeName="Text" Text="C:threshold" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4085">
+        <T AttributeName="Text" Text="Brightness value for switch ON of threshold" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4086">
+        <T AttributeName="Text" Text="Fade time for switch ON of threshold(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4087">
+        <T AttributeName="Text" Text="Fade time for switch OFF of threshold(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4088">
+        <T AttributeName="Text" Text="Threshold 1 value is(0..255)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4089">
+        <T AttributeName="Text" Text="Threshold 2 value is(0..255)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4090">
+        <T AttributeName="Text" Text="Input value&lt;Lower threshold" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4091">
+        <T AttributeName="Text" Text="Lower threshold&lt;=Input value&lt;=Upper threshold" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4092">
+        <T AttributeName="Text" Text="Input value&gt;Upper threshold" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4093">
+        <T AttributeName="Text" Text="Change threshold 1 via bus" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4094">
+        <T AttributeName="Text" Text="Change threshold 2 via bus" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-98">
+        <T AttributeName="Text" Text="C:heating" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4095">
+        <T AttributeName="Text" Text="Brightness value for switch ON of heating" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4096">
+        <T AttributeName="Text" Text="Fade time for switch ON of heating(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4097">
+        <T AttributeName="Text" Text="Fade time for switch OFF of heating(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4098">
+        <T AttributeName="Text" Text="PWM cycle time set(1..65535min)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4099">
+        <T AttributeName="Text" Text="PWM cycle time set(0..59sec)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4100">
+        <T AttributeName="Text" Text="Control telegram is received as" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4101">
+        <T AttributeName="Text" Text="The scale of ON" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4102">
+        <T AttributeName="Text" Text="Running automatically after bus voltage recovery" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4103">
+        <T AttributeName="Text" Text="-Position of the valve" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4104">
+        <T AttributeName="Text" Text="Forced position of PWM" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-4105">
+        <T AttributeName="Text" Text="-Valve of PWM" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-25">
+        <T AttributeName="Text" Text="Channel D" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5000">
+        <T AttributeName="Text" Text="The response of channel state(1bit)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5001">
+        <T AttributeName="Text" Text="The response of channel state(1byte)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5002">
+        <T AttributeName="Text" Text="Statistics total ON time to allow(0..65535h=7.4years)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5003">
+        <T AttributeName="Text" Text="Alarm when time out(1..65535h,0-invalid)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5004">
+        <T AttributeName="Text" Text="Transmit telegram interval when alarm(1..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5005">
+        <T AttributeName="Text" Text="The status after bus voltage recovery" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5006">
+        <T AttributeName="Text" Text="Brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5007">
+        <T AttributeName="Text" Text="Over temperature protection" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5008">
+        <T AttributeName="Text" Text="Compare temperature for alarm base(Degrees Celsius)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5008_R-5009">
+        <T AttributeName="Text" Text="Compare temperature for OFF base(Degrees Celsius)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5008_R-5010">
+        <T AttributeName="Text" Text="Compare temperature for reduce power base(Degrees Celsius)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5011">
+        <T AttributeName="Text" Text="Reduce the relative power value(-x%/5C)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5012">
+        <T AttributeName="Text" Text="Alarm temperature(Degrees Celsius)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5014">
+        <T AttributeName="Text" Text="Alarm temperature time interval(1..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5017">
+        <T AttributeName="Text" Text="Read temperature(Degrees Celsius)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5018">
+        <T AttributeName="Text" Text="Maximum level" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5019">
+        <T AttributeName="Text" Text="Upper threshold level" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5020">
+        <T AttributeName="Text" Text="Lower threshold level" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5021">
+        <T AttributeName="Text" Text="Dimming minimum level" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5022">
+        <T AttributeName="Text" Text="Show the function page ==&gt;&gt;" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-120">
+        <T AttributeName="Text" Text="D&gt;dimming config" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5023">
+        <T AttributeName="Text" Text="Switching ON fade time(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5024">
+        <T AttributeName="Text" Text="Switching OFF fade time(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5025">
+        <T AttributeName="Text" Text="Enable relative dimming" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5026">
+        <T AttributeName="Text" Text="-Relative(4bits) dimming fade time(brightness0%..100%/2..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5027">
+        <T AttributeName="Text" Text="-Relative dimming is saved as the brightness of the switch" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5028">
+        <T AttributeName="Text" Text="Enable absolute dimming" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5029">
+        <T AttributeName="Text" Text="-Absolute(1byte) dimming fade time(brightness0%..100%/0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5030">
+        <T AttributeName="Text" Text="-Absolute dimming is saved as the brightness of the switch" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-121">
+        <T AttributeName="Text" Text="D:function" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5031">
+        <T AttributeName="Text" Text="Enable function &quot;staircase light&quot;" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5032">
+        <T AttributeName="Text" Text="Enable function &quot;flashing&quot;" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5033">
+        <T AttributeName="Text" Text="Enable function &quot;scene&quot;" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5034">
+        <T AttributeName="Text" Text="Enable function &quot;threshold&quot;" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5035">
+        <T AttributeName="Text" Text="Enable function &quot;heating&quot;" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-122">
+        <T AttributeName="Text" Text="NOTE:Recommend to only use a function for a channel." />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-123">
+        <T AttributeName="Text" Text="D:staircase light" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5036">
+        <T AttributeName="Text" Text="Staircase light operation" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5037">
+        <T AttributeName="Text" Text="Brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5038">
+        <T AttributeName="Text" Text="Fade time of brighter(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5039">
+        <T AttributeName="Text" Text="Fade time of darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5040">
+        <T AttributeName="Text" Text="Duration time for brightness(0..255min)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5041">
+        <T AttributeName="Text" Text="Duration time for brightness(0..59sec)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5042">
+        <T AttributeName="Text" Text="Change staircase light time via bus" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5043">
+        <T AttributeName="Text" Text="Warning staircase light via bus" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-124">
+        <T AttributeName="Text" Text="D:flashing" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5044">
+        <T AttributeName="Text" Text="Flashing operation" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5045">
+        <T AttributeName="Text" Text="Brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5046">
+        <T AttributeName="Text" Text="Fade time of brighter(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5047">
+        <T AttributeName="Text" Text="Fade time of darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5048">
+        <T AttributeName="Text" Text="Duration time for brightness(0..255min)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5049">
+        <T AttributeName="Text" Text="Duration time for brightness(0..59sec)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5050">
+        <T AttributeName="Text" Text="Duration time for darkness(0..255min)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5051">
+        <T AttributeName="Text" Text="Duration time for darkness(0..59sec)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5052">
+        <T AttributeName="Text" Text="Flashing number(1..255,0-Unlimited)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5053">
+        <T AttributeName="Text" Text="Brightness after achieves the flashing number" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-125">
+        <T AttributeName="Text" Text="D:scene" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5054">
+        <T AttributeName="Text" Text="Fade time of scene dimming(2..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-126">
+        <T AttributeName="Text" Text="Total 10 scenes,configuration as following:" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5055">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5056">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5057">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5058">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5059">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5060">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5061">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5062">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5063">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5064">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5065">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5066">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5067">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5068">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5069">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5070">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5071">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5072">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5073">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5074">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5075">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5076">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5077">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5078">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5079">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5080">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5081">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5082">
+        <T AttributeName="Text" Text="&gt;&gt;Output assigned to(scene 1..64 )" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5083">
+        <T AttributeName="Text" Text="Output brightness value" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5084">
+        <T AttributeName="Text" Text="Fade time for brighter/darker(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-127">
+        <T AttributeName="Text" Text="D:threshold" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5085">
+        <T AttributeName="Text" Text="Brightness value for switch ON of threshold" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5086">
+        <T AttributeName="Text" Text="Fade time for switch ON of threshold(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5087">
+        <T AttributeName="Text" Text="Fade time for switch OFF of threshold(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5088">
+        <T AttributeName="Text" Text="Threshold 1 value is(0..255)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5089">
+        <T AttributeName="Text" Text="Threshold 2 value is(0..255)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5090">
+        <T AttributeName="Text" Text="Input value&lt;Lower threshold" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5091">
+        <T AttributeName="Text" Text="Lower threshold&lt;=Input value&lt;=Upper threshold" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5092">
+        <T AttributeName="Text" Text="Input value&gt;Upper threshold" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5093">
+        <T AttributeName="Text" Text="Change threshold 1 via bus" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5094">
+        <T AttributeName="Text" Text="Change threshold 2 via bus" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-128">
+        <T AttributeName="Text" Text="D:heating" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5095">
+        <T AttributeName="Text" Text="Brightness value for switch ON of heating" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5096">
+        <T AttributeName="Text" Text="Fade time for switch ON of heating(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5097">
+        <T AttributeName="Text" Text="Fade time for switch OFF of heating(0..255s)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5098">
+        <T AttributeName="Text" Text="PWM cycle time set(1..65535min)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5099">
+        <T AttributeName="Text" Text="PWM cycle time set(0..59sec)" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5100">
+        <T AttributeName="Text" Text="Control telegram is received as" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5101">
+        <T AttributeName="Text" Text="The scale of ON" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5102">
+        <T AttributeName="Text" Text="Running automatically after bus voltage recovery" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5103">
+        <T AttributeName="Text" Text="-Position of the valve" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5104">
+        <T AttributeName="Text" Text="Forced position of PWM" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91_P-5105">
+        <T AttributeName="Text" Text="-Valve of PWM" />
+      </TE>
+      <TE RefId="M-0073_A-2076-10-6B91">
+        <T AttributeName="Name" Text="Dimmer 4fold TRIAC Actuator" />
+      </TE>
+    </TU>
+  </L>
+</LS>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GAs>
+  <GRs>
+    <GR Id="P-0441-0_GR-1" RangeStart="1" RangeEnd="2047" Name="oswietlenie" Puid="11">
+      <GR Id="P-0441-0_GR-2" RangeStart="1" RangeEnd="255" Name="sec1" Puid="12">
+        <GA Id="P-0441-0_GA-1" Address="1" Name="test" DatapointType="DPST-1-1" Puid="13" />
+        <GA Id="P-0441-0_GA-2" Address="2" Name="test fb" DatapointType="DPST-1-1" Puid="14" />
+        <GA Id="P-0441-0_GA-9" Address="4" Name="relations dimming" DatapointType="DPST-3-7" Puid="28" />
+      </GR>
+    </GR>
+    <GR Id="P-0441-0_GR-4" RangeStart="2048" RangeEnd="4095" Name="roleta" Puid="17">
+      <GR Id="P-0441-0_GR-5" RangeStart="2048" RangeEnd="2303" Name="test" Puid="18">
+        <GA Id="P-0441-0_GA-10" Address="2048" Name="Rolety zew gora " DatapointType="DPST-1-8" Puid="29" />
+        <GA Id="P-0441-0_GA-11" Address="2049" Name="Rolety zew dol" DatapointType="DPST-1-8" Puid="30" />
+        <GA Id="P-0441-0_GA-12" Address="2050" Name="Rolety wew gora" DatapointType="DPST-1-8" Puid="31" />
+        <GA Id="P-0441-0_GA-13" Address="2051" Name="Rolety wew dol " DatapointType="DPST-1-8" Puid="32" />
+      </GR>
+    </GR>
+  </GRs>
+</GAs>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BPs>
+  <BP Type="Building" Id="P-0608-0_BP-1" Name="duze mieszkanie" Puid="6">
+    <BP Type="BuildingPart" Id="P-0608-0_BP-2" Name="strefa1" Puid="7" />
+  </BP>
+</BPs>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<H>
+  <H Id="M-0107_H-ITR524.2D16A-1" Name="24-Channel Combo Output Module" SerialNumber="ITR524-16A" VersionNumber="1" BusCurrent="20" HasIndividualAddress="true" HasApplicationProgram="true">
+    <Prods>
+      <Prod Id="M-0107_H-ITR524.2D16A-1_P-ITR524.2D16A" Text="24-Channel Combo Output Module" OrderNumber="ITR524-16A" IsRailMounted="true" WidthInMillimeter="247" DefaultLanguage="en-US" Hash="lR+TeSyVibsJ2JmehtVCKswxk3c=">
+        <RI RegistrationStatus="Certified" RegistrationDate="2014-11-20" RegistrationSignature="slF/8/oHKNbpOJ2axdgvZPDDR0op42y22hD4JSosMswFuTLv6V8G0S1+vFvDdr+IWhBq9yoNwgOE+jFibeH8qgK2DKbekuqsh2+cBqNgG0niqXH/TZKfyfh6VjfQiV40DdtRI95PprfoNv+ixtbE7snGUOyTcEYKuDCNGK6KIPM=" />
+      </Prod>
+    </Prods>
+    <H2Ps>
+      <H2P Id="M-0107_H-ITR524.2D16A-1_HP-020C-01-41B3" MediumTypes="MT-0" Hash="ujeoN1kbnZBJcOTC8bHhvkaAPV4=">
+        <APR RefId="M-0107_A-020C-01-41B3" />
+        <RI RegistrationStatus="Certified" RegistrationNumber="2014/11863" RegistrationDate="2014-11-20" RegistrationSignature="ABVM8nP3ifhZF9MwlIORoN0n9tCyYHVDxqhEuJHu3lLmQ4T1FyowFYShSB86gcej9+fQUCKjX2cv9S4xoZ+d0Kh0GxxnauASGLNWgMaorqqSGfh+HXHGQUr/5Nrmvx9QEc2JD/JVaEX8zrcHgZ9zXcJOssknZMR0BKc/W8z2jss=" />
+      </H2P>
+    </H2Ps>
+  </H>
+  <H Id="M-0107_H-ITR516.2D16A-1" Name="16-Channel Combo Output Module" SerialNumber="ITR516-16A" VersionNumber="1" BusCurrent="20" HasIndividualAddress="true" HasApplicationProgram="true">
+    <Prods>
+      <Prod Id="M-0107_H-ITR516.2D16A-1_P-ITR516.2D16A" Text="16-Channel Combo Output Module" OrderNumber="ITR516-16A" IsRailMounted="true" WidthInMillimeter="171" VisibleDescription="16-Channel Combo Output Module" DefaultLanguage="en-US" Hash="1siKZli02iRPtdlyS20XA9ddRt4=">
+        <RI RegistrationStatus="Certified" RegistrationDate="2014-11-20" RegistrationSignature="opLT9Izmp3HsJj7JjV+GeOc+hk3IH2utzBsV8EYkZuR06lisDueLkBCGmpbV8ToARdaJsCV9e2xL/B4VTgjOM5/DxzHgo9SPOoUYRP+h9NSi3+ObAPcmCo+9nS9ey/4KLXyEtNWg0qEZ5Gjng1Bc8ifXD9HQOeFYJptwT++xrtw=" />
+      </Prod>
+    </Prods>
+    <H2Ps>
+      <H2P Id="M-0107_H-ITR516.2D16A-1_HP-0204-01-14BD" MediumTypes="MT-0" Hash="W3XfyHZF/AKYbKpfXeKOmYeHaWQ=">
+        <APR RefId="M-0107_A-0204-01-14BD" />
+        <RI RegistrationStatus="Certified" RegistrationNumber="2014/11865" RegistrationDate="2014-11-20" RegistrationSignature="ZHibHMVqvuTJcFQr7lA+wCiJHcpaaPOcud/o5ZEBDhbhQlNI/qP10NSNy0JC/3wxDlntOV08CISBuKDXfTRPE3EpBEbA3+JEuUoQivW9czpWt9x57zQMTrputjgCdERprbSRMXgMyQKUo7ecV0QPU2I1ZnIxzSF2Tx04GaEvaWg=" />
+      </H2P>
+    </H2Ps>
+  </H>
+</H>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<C>
+  <CatSec Id="M-0107_CS-5" Name="Combo" Number="5" VisibleDescription="" DefaultLanguage="en-US">
+    <CatSec Id="M-0107_CS-5-5.2E12" Name="12-Channel Outputs" Number="5.12" VisibleDescription="" DefaultLanguage="en-US">
+      <CITEM Id="M-0107_H-ITR512.2D16A-1_HP-0200-01-DFC0_CI-ITR512.2D16A-512" Name="ITR512-16A - 12-Channel Combo Output Module" Number="512" VisibleDescription="ITR512-16A - 12-Channel Combo Output Module" ProductRefId="M-0107_H-ITR512.2D16A-1_P-ITR512.2D16A" Hardware2ProgramRefId="M-0107_H-ITR512.2D16A-1_HP-0200-01-DFC0" DefaultLanguage="en-US" />
+    </CatSec>
+    <CatSec Id="M-0107_CS-5-5.2E24" Name="24-Channel Outputs" Number="5.24" VisibleDescription="" DefaultLanguage="en-US">
+      <CITEM Id="M-0107_H-ITR524.2D16A-1_HP-020C-01-41B3_CI-ITR524.2D16A-512" Name="ITR524-16A - 24-Channel Combo Output Module" Number="512" VisibleDescription="ITR524-16A - 24-Channel Combo Output Module" ProductRefId="M-0107_H-ITR524.2D16A-1_P-ITR524.2D16A" Hardware2ProgramRefId="M-0107_H-ITR524.2D16A-1_HP-020C-01-41B3" DefaultLanguage="en-US" />
+    </CatSec>
+  </CatSec>
+</C>

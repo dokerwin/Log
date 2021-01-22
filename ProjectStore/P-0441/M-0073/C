@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<C>
+  <CatSec Id="M-0073_CS-12" Name="System devices" Number="12" VisibleDescription="" DefaultLanguage="en-US">
+    <CatSec Id="M-0073_CS-12-112" Name="Couplers" Number="112" VisibleDescription="" DefaultLanguage="en-US">
+      <CITEM Id="M-0073_H-M.2FIP.20RT.201408.20GW01-0-O0072_HP-3010-10-45CD-O0072_CI-M.2FIP.20RT.201408.20GW01-1" Name="M/KNX IP Router" Number="1" VisibleDescription="HDL KNX net/IP Router Gateway" ProductRefId="M-0073_H-M.2FIP.20RT.201408.20GW01-0-O0072_P-M.2FIP.20RT.201408.20GW01" Hardware2ProgramRefId="M-0073_H-M.2FIP.20RT.201408.20GW01-0-O0072_HP-3010-10-45CD-O0072" DefaultLanguage="en-US" />
+    </CatSec>
+  </CatSec>
+  <CatSec Id="M-0073_CS-F1" Name="Products" Number="F1" VisibleDescription="" DefaultLanguage="en-US">
+    <CatSec Id="M-0073_CS-F1-F2" Name="RGBW dimmer" Number="F2" VisibleDescription="" DefaultLanguage="en-US">
+      <CITEM Id="M-0073_H-M.2FDL04.201311.20D008-16_HP-2076-10-6B91_CI-M.2FDL04.201311.20D008-0" Name="Dimmer 4fold TRIAC Actuator" Number="0" ProductRefId="M-0073_H-M.2FDL04.201311.20D008-16_P-M.2FDL04.201311.20D008" Hardware2ProgramRefId="M-0073_H-M.2FDL04.201311.20D008-16_HP-2076-10-6B91" DefaultLanguage="en-US" />
+      <CITEM Id="M-0073_H-M.2FDRGBW4.201504.20D10-10_HP-2120-10-835F_CI-M.2FDRGBW4.201504.20D10-0" Name="RGBW 4fold Driver(V1.0)" Number="0" VisibleDescription="HDL RGBW 4fold PWM Driver - KNX" ProductRefId="M-0073_H-M.2FDRGBW4.201504.20D10-10_P-M.2FDRGBW4.201504.20D10" Hardware2ProgramRefId="M-0073_H-M.2FDRGBW4.201504.20D10-10_HP-2120-10-835F" DefaultLanguage="en-US" />
+    </CatSec>
+  </CatSec>
+</C>

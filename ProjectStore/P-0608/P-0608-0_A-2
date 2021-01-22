@@ -1,0 +1,1341 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Area Id="P-0608-0_A-2" Address="1" Name="New area" Puid="3">
+  <Line Id="P-0608-0_L-2" Address="0" Name="Main line" MediumTypeRefId="MT-5" Puid="4" />
+  <Line Id="P-0608-0_L-3" Address="1" Name="New line" MediumTypeRefId="MT-0" Puid="5">
+    <DI Id="P-0608-0_DI-1" Address="0" Name="" ProductRefId="M-0073_H-M.2FIP.20RT.201408.20GW01-0-O0072_P-M.2FIP.20RT.201408.20GW01" Hardware2ProgramRefId="M-0073_H-M.2FIP.20RT.201408.20GW01-0-O0072_HP-3010-10-45CD-O0072" Comment="" Description="" IndividualAddressLoaded="true" MediumConfigLoaded="true" IsCommunicationObjectVisibilityCalculated="true" LastModified="2020-12-16T06:48:58.8135486Z" LastDownload="2020-12-16T06:48:58.8035537Z" ReadMaxRoutingAPDULength="240" Puid="8" />
+    <DI Id="P-0608-0_DI-2" Address="1" Name="" ProductRefId="M-0107_H-ITR524.2D16A-1_P-ITR524.2D16A" Hardware2ProgramRefId="M-0107_H-ITR524.2D16A-1_HP-020C-01-41B3" Comment="" Description="" SerialNumber="AQcBABax" ApplicationProgramLoaded="true" CommunicationPartLoaded="true" IndividualAddressLoaded="true" MediumConfigLoaded="true" ParametersLoaded="true" IsCommunicationObjectVisibilityCalculated="true" LastModified="2020-12-16T07:02:10.8821359Z" LastDownload="2020-12-16T07:02:10.875141Z" Puid="9">
+      <CIs>
+        <CI RefId="M-0107_A-020C-01-41B3_O-31_R-34" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-30_R-37" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-21_R-42" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-23_R-43" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-24_R-44" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-25_R-45" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-26_R-46" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-22_R-47" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-29_R-51" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-44_R-3939" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-35_R-3940" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-37_R-3941" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-36_R-3942" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-43_R-3943" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-45_R-3947" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-58_R-3949" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-59_R-3953" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-49_R-3954" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-51_R-3955" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-50_R-3956" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-57_R-3957" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-38_R-3958" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-39_R-3959" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-40_R-3960" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-52_R-3961" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-53_R-3963" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-54_R-3964" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-72_R-3966" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-73_R-3969" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-63_R-3970" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-65_R-3971" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-64_R-3972" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-71_R-3973" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-66_R-3974" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-67_R-3975" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-68_R-3976" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-86_R-3978" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-87_R-3982" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-77_R-3983" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-79_R-3985" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-78_R-3986" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-85_R-3987" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-80_R-3988" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-81_R-3989" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-82_R-3990" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-100_R-3992" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-101_R-3996" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-91_R-3997" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-93_R-3998" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-92_R-3999" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-99_R-4000" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-94_R-4001" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-95_R-4002" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-96_R-4003" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-114_R-4007" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-115_R-4011" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-105_R-4012" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-107_R-4013" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-106_R-4014" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-113_R-4015" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-108_R-4016" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-109_R-4017" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-110_R-4018" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-128_R-4020" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-129_R-4024" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-119_R-4025" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-121_R-4026" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-120_R-4027" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-127_R-4029" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-122_R-4030" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-123_R-4031" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-124_R-4032" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-142_R-4034" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-143_R-4038" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-133_R-4039" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-135_R-4040" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-134_R-4041" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-141_R-4042" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-136_R-4043" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-137_R-4044" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-138_R-4045" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-156_R-4047" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-157_R-4051" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-147_R-4055" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-149_R-4056" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-148_R-4057" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-155_R-4058" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-150_R-4059" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-151_R-4060" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-152_R-4061" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-170_R-4063" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-171_R-4067" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-161_R-4068" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-163_R-4069" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-162_R-4070" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-169_R-4071" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-164_R-4072" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-165_R-4073" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-166_R-4074" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-184_R-4076" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-185_R-4079" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-175_R-4080" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-177_R-4081" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-176_R-4082" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-183_R-4083" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-178_R-4084" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-179_R-4085" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-180_R-4086" IsActive="true" />
+      </CIs>
+    </DI>
+    <DI Id="P-0608-0_DI-3" Address="2" Name="" ProductRefId="M-0107_H-ITR524.2D16A-1_P-ITR524.2D16A" Hardware2ProgramRefId="M-0107_H-ITR524.2D16A-1_HP-020C-01-41B3" Comment="" Description="" SerialNumber="AQcBABcH" ApplicationProgramLoaded="true" CommunicationPartLoaded="true" IndividualAddressLoaded="true" MediumConfigLoaded="true" ParametersLoaded="true" IsCommunicationObjectVisibilityCalculated="true" LastModified="2020-12-23T07:03:17.0337061Z" LastDownload="2020-12-23T07:03:17.0287184Z" Puid="10">
+      <CIs>
+        <CI RefId="M-0107_A-020C-01-41B3_O-31_R-34" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-30_R-37" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-21_R-42" DatapointType="DPST-1-8" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-2" />
+            <Rcv GroupAddressRefId="P-0608-0_GA-3" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-23_R-43" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-24_R-44" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-25_R-45" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-26_R-46" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-22_R-47" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-29_R-51" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-44_R-3939" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-35_R-3940" DatapointType="DPST-1-8" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-2" />
+            <Rcv GroupAddressRefId="P-0608-0_GA-3" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-37_R-3941" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-36_R-3942" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-43_R-3943" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-45_R-3947" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-58_R-3949" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-59_R-3953" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-49_R-3954" DatapointType="DPST-1-8" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-2" />
+            <Rcv GroupAddressRefId="P-0608-0_GA-3" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-51_R-3955" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-50_R-3956" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-57_R-3957" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-38_R-3958" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-39_R-3959" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-40_R-3960" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-52_R-3961" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-53_R-3963" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-54_R-3964" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-72_R-3966" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-73_R-3969" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-63_R-3970" DatapointType="DPST-1-8" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-2" />
+            <Rcv GroupAddressRefId="P-0608-0_GA-3" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-65_R-3971" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-64_R-3972" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-71_R-3973" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-66_R-3974" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-67_R-3975" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-68_R-3976" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-86_R-3978" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-87_R-3982" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-77_R-3983" DatapointType="DPST-1-8" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-2" />
+            <Rcv GroupAddressRefId="P-0608-0_GA-3" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-79_R-3985" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-78_R-3986" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-85_R-3987" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-80_R-3988" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-81_R-3989" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-82_R-3990" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-100_R-3992" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-101_R-3996" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-91_R-3997" DatapointType="DPST-1-8" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-2" />
+            <Rcv GroupAddressRefId="P-0608-0_GA-3" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-93_R-3998" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-92_R-3999" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-99_R-4000" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-94_R-4001" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-95_R-4002" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-96_R-4003" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-114_R-4007" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-115_R-4011" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-105_R-4012" DatapointType="DPST-1-8" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-2" />
+            <Rcv GroupAddressRefId="P-0608-0_GA-3" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-107_R-4013" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-106_R-4014" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-113_R-4015" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-108_R-4016" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-109_R-4017" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-110_R-4018" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-128_R-4020" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-129_R-4024" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-119_R-4025" DatapointType="DPST-1-8" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-2" />
+            <Rcv GroupAddressRefId="P-0608-0_GA-3" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-121_R-4026" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-120_R-4027" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-127_R-4029" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-122_R-4030" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-123_R-4031" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-124_R-4032" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-142_R-4034" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-143_R-4038" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-133_R-4039" DatapointType="DPST-1-8" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-2" />
+            <Rcv GroupAddressRefId="P-0608-0_GA-3" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-135_R-4040" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-134_R-4041" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-141_R-4042" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-136_R-4043" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-137_R-4044" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-138_R-4045" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-156_R-4047" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-157_R-4051" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-147_R-4055" DatapointType="DPST-1-8" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-2" />
+            <Rcv GroupAddressRefId="P-0608-0_GA-3" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-149_R-4056" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-148_R-4057" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-155_R-4058" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-150_R-4059" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-151_R-4060" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-152_R-4061" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-170_R-4063" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-171_R-4067" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-161_R-4068" DatapointType="DPST-1-8" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-2" />
+            <Rcv GroupAddressRefId="P-0608-0_GA-3" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-163_R-4069" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-162_R-4070" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-169_R-4071" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-164_R-4072" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-165_R-4073" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-166_R-4074" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-184_R-4076" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-185_R-4079" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-175_R-4080" DatapointType="DPST-1-8" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-2" />
+            <Rcv GroupAddressRefId="P-0608-0_GA-3" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-177_R-4081" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-176_R-4082" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-183_R-4083" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-178_R-4084" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-179_R-4085" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-180_R-4086" IsActive="true" />
+      </CIs>
+    </DI>
+    <DI Id="P-0608-0_DI-4" Address="3" Name="" ProductRefId="M-0107_H-ITR524.2D16A-1_P-ITR524.2D16A" Hardware2ProgramRefId="M-0107_H-ITR524.2D16A-1_HP-020C-01-41B3" Comment="" Description="" SerialNumber="AQcBABao" ApplicationProgramLoaded="true" CommunicationPartLoaded="true" IndividualAddressLoaded="true" MediumConfigLoaded="true" ParametersLoaded="true" IsCommunicationObjectVisibilityCalculated="true" LastModified="2020-12-23T06:58:03.2726474Z" LastDownload="2020-12-23T06:58:03.2656314Z" Puid="11">
+      <PIs>
+        <PI RefId="M-0107_A-020C-01-41B3_P-6_R-6" Value="0" />
+        <PI RefId="M-0107_A-020C-01-41B3_P-8_R-8" Value="0" />
+        <PI RefId="M-0107_A-020C-01-41B3_P-10_R-68" Value="0" />
+        <PI RefId="M-0107_A-020C-01-41B3_P-896_R-896" Value="0" />
+        <PI RefId="M-0107_A-020C-01-41B3_P-916_R-916" Value="0" />
+        <PI RefId="M-0107_A-020C-01-41B3_P-932_R-1169" Value="0" />
+        <PI RefId="M-0107_A-020C-01-41B3_P-1232_R-1232" Value="0" />
+        <PI RefId="M-0107_A-020C-01-41B3_P-130_R-1481" Value="0" />
+        <PI RefId="M-0107_A-020C-01-41B3_P-1236_R-1236" Value="0" />
+        <PI RefId="M-0107_A-020C-01-41B3_P-1242_R-1242" Value="0" />
+        <PI RefId="M-0107_A-020C-01-41B3_P-1412_R-1412" Value="0" />
+        <PI RefId="M-0107_A-020C-01-41B3_P-1424_R-1759" Value="0" />
+        <PI RefId="M-0107_A-020C-01-41B3_P-130_R-130" Value="0" />
+      </PIs>
+      <CIs>
+        <CI RefId="M-0107_A-020C-01-41B3_O-21_R-22" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-22_R-23" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-23_R-24" DatapointType="DPST-1-1" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-1" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-24_R-25" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-31_R-34" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-30_R-37" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-21_R-42" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-23_R-43" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-24_R-44" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-25_R-45" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-26_R-46" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-22_R-47" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-29_R-51" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-30_R-272" DatapointType="DPST-1-1" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-1" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-31_R-419" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-29_R-420" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-28_R-1221" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-37_R-1238" DatapointType="DPST-1-1" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-1" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-38_R-1244" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-36_R-1251" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-35_R-1263" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-105_R-1305" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-44_R-1319" DatapointType="DPST-1-1" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-1" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-45_R-1327" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-43_R-1336" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-63_R-1350" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-107_R-1439" DatapointType="DPST-1-1" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-1" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-65_R-1455" DatapointType="DPST-1-1" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-1" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-108_R-1463" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-51_R-1468" DatapointType="DPST-1-1" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-1" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-66_R-1478" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-52_R-1481" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-106_R-1488" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-50_R-1495" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-64_R-1502" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-112_R-1736" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-58_R-1737" DatapointType="DPST-1-1" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-1" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-59_R-1759" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-70_R-1765" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-57_R-1782" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-42_R-1790" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-49_R-1792" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-56_R-1794" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-114_R-1810" DatapointType="DPST-1-1" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-1" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-72_R-1814" DatapointType="DPST-1-1" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-1" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-115_R-1833" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-73_R-1836" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-113_R-1856" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-71_R-2100" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-119_R-2248" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-77_R-2266" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-79_R-2314" DatapointType="DPST-1-1" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-1" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-121_R-2317" DatapointType="DPST-1-1" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-1" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-80_R-2337" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-122_R-2340" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-78_R-2360" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-120_R-2363" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-126_R-2523" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-84_R-2545" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-128_R-2591" DatapointType="DPST-1-1" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-1" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-86_R-2599" DatapointType="DPST-1-1" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-1" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-129_R-2614" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-87_R-2624" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-127_R-2637" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-85_R-2649" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-133_R-2698" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-135_R-2701" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-136_R-2702" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-134_R-2703" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-133_R-2832" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-91_R-2886" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-135_R-2899" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-136_R-2921" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-134_R-2944" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-93_R-2955" DatapointType="DPST-1-1" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-1" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-94_R-2985" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-92_R-3015" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-140_R-3080" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-142_R-3258" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-143_R-3282" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-141_R-3304" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-98_R-3346" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-147_R-3440" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-100_R-3445" DatapointType="DPST-1-1" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-1" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-101_R-3485" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-149_R-3507" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-99_R-3525" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-150_R-3530" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-148_R-3552" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-154_R-3919" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-44_R-3939" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-35_R-3940" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-37_R-3941" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-36_R-3942" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-43_R-3943" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-45_R-3947" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-58_R-3949" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-59_R-3953" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-49_R-3954" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-51_R-3955" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-50_R-3956" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-57_R-3957" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-38_R-3958" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-39_R-3959" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-40_R-3960" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-52_R-3961" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-53_R-3963" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-54_R-3964" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-72_R-3966" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-73_R-3969" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-63_R-3970" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-65_R-3971" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-64_R-3972" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-71_R-3973" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-66_R-3974" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-67_R-3975" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-68_R-3976" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-86_R-3978" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-87_R-3982" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-77_R-3983" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-156_R-3984" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-79_R-3985" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-78_R-3986" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-85_R-3987" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-80_R-3988" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-81_R-3989" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-82_R-3990" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-100_R-3992" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-101_R-3996" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-91_R-3997" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-93_R-3998" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-92_R-3999" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-99_R-4000" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-94_R-4001" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-95_R-4002" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-96_R-4003" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-157_R-4006" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-114_R-4007" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-115_R-4011" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-105_R-4012" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-107_R-4013" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-106_R-4014" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-113_R-4015" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-108_R-4016" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-109_R-4017" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-110_R-4018" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-128_R-4020" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-129_R-4024" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-119_R-4025" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-121_R-4026" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-120_R-4027" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-155_R-4028" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-127_R-4029" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-122_R-4030" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-123_R-4031" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-124_R-4032" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-142_R-4034" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-143_R-4038" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-133_R-4039" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-135_R-4040" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-134_R-4041" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-141_R-4042" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-136_R-4043" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-137_R-4044" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-138_R-4045" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-156_R-4047" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-157_R-4051" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-147_R-4055" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-149_R-4056" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-148_R-4057" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-155_R-4058" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-150_R-4059" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-151_R-4060" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-152_R-4061" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-170_R-4063" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-171_R-4067" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-161_R-4068" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-163_R-4069" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-162_R-4070" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-169_R-4071" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-164_R-4072" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-165_R-4073" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-166_R-4074" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-184_R-4076" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-185_R-4079" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-175_R-4080" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-177_R-4081" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-176_R-4082" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-183_R-4083" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-178_R-4084" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-179_R-4085" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-180_R-4086" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-161_R-4161" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-59_R-4187" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-58_R-4188" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-49_R-4189" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-51_R-4190" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-50_R-4191" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-57_R-4192" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-52_R-4193" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-53_R-4194" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-54_R-4195" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-59_R-4214" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-58_R-4215" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-49_R-4216" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-51_R-4217" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-50_R-4218" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-57_R-4219" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-52_R-4220" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-53_R-4221" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-54_R-4222" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-163_R-4226" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-45_R-4241" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-44_R-4242" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-35_R-4243" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-37_R-4244" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-36_R-4245" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-43_R-4246" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-38_R-4247" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-164_R-4248" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-39_R-4249" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-40_R-4250" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-162_R-4270" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-101_R-4337" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-100_R-4338" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-91_R-4339" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-93_R-4340" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-92_R-4341" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-99_R-4342" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-94_R-4343" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-95_R-4344" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-96_R-4345" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-87_R-4364" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-86_R-4365" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-77_R-4366" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-79_R-4367" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-78_R-4368" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-85_R-4369" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-80_R-4370" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-81_R-4371" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-101_R-4376" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-100_R-4377" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-91_R-4378" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-93_R-4379" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-92_R-4380" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-99_R-4381" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-94_R-4382" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-95_R-4383" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-96_R-4384" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-168_R-4403" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-170_R-4468" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-171_R-4490" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-169_R-4512" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-143_R-4532" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-142_R-4533" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-133_R-4534" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-135_R-4535" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-134_R-4539" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-141_R-4540" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-136_R-4541" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-137_R-4542" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-138_R-4543" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-129_R-4548" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-128_R-4549" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-119_R-4550" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-121_R-4551" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-120_R-4552" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-127_R-4553" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-122_R-4554" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-123_R-4555" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-124_R-4556" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-143_R-4574" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-142_R-4575" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-133_R-4576" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-135_R-4577" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-134_R-4578" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-141_R-4579" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-136_R-4580" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-137_R-4581" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-138_R-4582" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-175_R-4645" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-185_R-4669" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-184_R-4670" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-175_R-4671" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-177_R-4672" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-176_R-4673" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-183_R-4674" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-178_R-4675" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-179_R-4676" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-180_R-4677" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-171_R-4682" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-170_R-4683" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-161_R-4684" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-163_R-4685" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-162_R-4686" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-169_R-4687" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-164_R-4689" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-165_R-4690" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-166_R-4691" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-185_R-4709" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-177_R-4710" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-184_R-4711" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-175_R-4712" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-177_R-4713" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-176_R-4714" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-183_R-4715" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-178_R-4716" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-179_R-4717" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-180_R-4718" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-178_R-4732" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-176_R-4754" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-82_R-4857" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-182_R-4887" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-184_R-4952" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-185_R-4974" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-183_R-4996" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-140_R-5118" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-142_R-5121" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-143_R-5122" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-141_R-5123" IsActive="false" />
+      </CIs>
+    </DI>
+    <DI Id="P-0608-0_DI-5" Address="4" Name="" ProductRefId="M-0107_H-ITR524.2D16A-1_P-ITR524.2D16A" Hardware2ProgramRefId="M-0107_H-ITR524.2D16A-1_HP-020C-01-41B3" Comment="" Description="" SerialNumber="AQcBABag" ApplicationProgramLoaded="true" CommunicationPartLoaded="true" IndividualAddressLoaded="true" MediumConfigLoaded="true" ParametersLoaded="true" IsCommunicationObjectVisibilityCalculated="true" LastModified="2020-12-23T06:57:33.9791217Z" LastDownload="2020-12-23T06:57:33.9721491Z" Puid="12">
+      <PIs>
+        <PI RefId="M-0107_A-020C-01-41B3_P-6_R-6" Value="0" />
+        <PI RefId="M-0107_A-020C-01-41B3_P-8_R-8" Value="0" />
+        <PI RefId="M-0107_A-020C-01-41B3_P-10_R-68" Value="0" />
+        <PI RefId="M-0107_A-020C-01-41B3_P-896_R-896" Value="0" />
+        <PI RefId="M-0107_A-020C-01-41B3_P-916_R-916" Value="0" />
+        <PI RefId="M-0107_A-020C-01-41B3_P-932_R-1169" Value="0" />
+        <PI RefId="M-0107_A-020C-01-41B3_P-1232_R-1232" Value="0" />
+        <PI RefId="M-0107_A-020C-01-41B3_P-1424_R-1759" Value="0" />
+        <PI RefId="M-0107_A-020C-01-41B3_P-130_R-130" Value="0" />
+        <PI RefId="M-0107_A-020C-01-41B3_P-1236_R-1236" Value="0" />
+        <PI RefId="M-0107_A-020C-01-41B3_P-1242_R-1242" Value="0" />
+        <PI RefId="M-0107_A-020C-01-41B3_P-1412_R-1412" Value="0" />
+      </PIs>
+      <CIs>
+        <CI RefId="M-0107_A-020C-01-41B3_O-21_R-22" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-22_R-23" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-23_R-24" DatapointType="DPST-1-1" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-1" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-24_R-25" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-31_R-34" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-30_R-37" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-21_R-42" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-23_R-43" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-24_R-44" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-25_R-45" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-26_R-46" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-22_R-47" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-29_R-51" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-30_R-272" DatapointType="DPST-1-1" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-1" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-31_R-419" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-29_R-420" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-28_R-1221" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-37_R-1238" DatapointType="DPST-1-1" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-1" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-38_R-1244" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-36_R-1251" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-35_R-1263" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-105_R-1305" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-44_R-1319" DatapointType="DPST-1-1" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-1" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-45_R-1327" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-43_R-1336" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-63_R-1350" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-107_R-1439" DatapointType="DPST-1-1" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-1" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-65_R-1455" DatapointType="DPST-1-1" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-1" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-108_R-1463" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-51_R-1468" DatapointType="DPST-1-1" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-1" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-66_R-1478" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-52_R-1481" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-106_R-1488" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-50_R-1495" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-64_R-1502" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-112_R-1736" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-58_R-1737" DatapointType="DPST-1-1" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-1" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-59_R-1759" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-70_R-1765" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-57_R-1782" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-42_R-1790" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-49_R-1792" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-56_R-1794" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-114_R-1810" DatapointType="DPST-1-1" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-1" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-72_R-1814" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-115_R-1833" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-73_R-1836" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-113_R-1856" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-71_R-2100" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-119_R-2248" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-77_R-2266" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-79_R-2314" DatapointType="DPST-1-1" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-1" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-121_R-2317" DatapointType="DPST-1-1" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-1" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-80_R-2337" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-122_R-2340" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-78_R-2360" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-120_R-2363" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-126_R-2523" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-84_R-2545" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-128_R-2591" DatapointType="DPST-1-1" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-1" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-86_R-2599" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-129_R-2614" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-87_R-2624" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-127_R-2637" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-85_R-2649" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-133_R-2832" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-91_R-2886" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-135_R-2899" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-136_R-2921" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-134_R-2944" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-93_R-2955" DatapointType="DPST-1-1" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-1" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-020C-01-41B3_O-94_R-2985" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-92_R-3015" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-140_R-3080" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-142_R-3258" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-143_R-3282" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-141_R-3304" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-98_R-3346" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-147_R-3440" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-100_R-3445" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-101_R-3485" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-149_R-3507" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-99_R-3525" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-150_R-3530" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-148_R-3552" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-154_R-3919" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-44_R-3939" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-35_R-3940" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-37_R-3941" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-36_R-3942" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-43_R-3943" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-45_R-3947" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-58_R-3949" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-59_R-3953" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-49_R-3954" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-51_R-3955" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-50_R-3956" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-57_R-3957" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-38_R-3958" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-39_R-3959" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-40_R-3960" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-52_R-3961" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-53_R-3963" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-54_R-3964" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-72_R-3966" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-73_R-3969" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-63_R-3970" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-65_R-3971" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-64_R-3972" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-71_R-3973" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-66_R-3974" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-67_R-3975" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-68_R-3976" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-86_R-3978" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-87_R-3982" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-77_R-3983" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-156_R-3984" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-79_R-3985" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-78_R-3986" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-85_R-3987" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-80_R-3988" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-81_R-3989" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-82_R-3990" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-100_R-3992" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-101_R-3996" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-91_R-3997" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-93_R-3998" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-92_R-3999" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-99_R-4000" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-94_R-4001" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-95_R-4002" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-96_R-4003" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-157_R-4006" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-114_R-4007" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-115_R-4011" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-105_R-4012" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-107_R-4013" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-106_R-4014" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-113_R-4015" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-108_R-4016" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-109_R-4017" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-110_R-4018" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-128_R-4020" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-129_R-4024" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-119_R-4025" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-121_R-4026" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-120_R-4027" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-155_R-4028" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-127_R-4029" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-122_R-4030" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-123_R-4031" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-124_R-4032" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-142_R-4034" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-143_R-4038" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-133_R-4039" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-135_R-4040" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-134_R-4041" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-141_R-4042" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-136_R-4043" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-137_R-4044" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-138_R-4045" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-156_R-4047" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-157_R-4051" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-147_R-4055" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-149_R-4056" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-148_R-4057" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-155_R-4058" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-150_R-4059" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-151_R-4060" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-152_R-4061" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-170_R-4063" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-171_R-4067" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-161_R-4068" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-163_R-4069" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-162_R-4070" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-169_R-4071" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-164_R-4072" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-165_R-4073" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-166_R-4074" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-184_R-4076" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-185_R-4079" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-175_R-4080" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-177_R-4081" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-176_R-4082" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-183_R-4083" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-178_R-4084" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-179_R-4085" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-180_R-4086" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-161_R-4161" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-59_R-4187" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-58_R-4188" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-49_R-4189" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-51_R-4190" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-50_R-4191" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-57_R-4192" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-52_R-4193" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-53_R-4194" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-54_R-4195" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-59_R-4214" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-58_R-4215" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-49_R-4216" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-51_R-4217" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-50_R-4218" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-57_R-4219" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-52_R-4220" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-53_R-4221" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-54_R-4222" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-163_R-4226" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-45_R-4241" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-44_R-4242" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-35_R-4243" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-37_R-4244" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-36_R-4245" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-43_R-4246" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-38_R-4247" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-164_R-4248" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-39_R-4249" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-40_R-4250" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-162_R-4270" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-101_R-4337" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-100_R-4338" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-91_R-4339" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-93_R-4340" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-92_R-4341" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-99_R-4342" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-94_R-4343" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-95_R-4344" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-96_R-4345" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-87_R-4364" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-86_R-4365" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-77_R-4366" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-79_R-4367" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-78_R-4368" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-85_R-4369" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-80_R-4370" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-81_R-4371" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-101_R-4376" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-100_R-4377" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-91_R-4378" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-93_R-4379" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-92_R-4380" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-99_R-4381" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-94_R-4382" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-95_R-4383" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-96_R-4384" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-168_R-4403" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-170_R-4468" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-171_R-4490" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-169_R-4512" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-143_R-4532" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-142_R-4533" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-133_R-4534" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-135_R-4535" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-134_R-4539" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-141_R-4540" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-136_R-4541" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-137_R-4542" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-138_R-4543" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-129_R-4548" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-128_R-4549" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-119_R-4550" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-121_R-4551" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-120_R-4552" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-127_R-4553" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-122_R-4554" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-123_R-4555" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-124_R-4556" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-143_R-4574" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-142_R-4575" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-133_R-4576" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-135_R-4577" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-134_R-4578" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-141_R-4579" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-136_R-4580" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-137_R-4581" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-138_R-4582" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-175_R-4645" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-185_R-4669" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-184_R-4670" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-175_R-4671" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-177_R-4672" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-176_R-4673" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-183_R-4674" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-178_R-4675" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-179_R-4676" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-180_R-4677" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-171_R-4682" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-170_R-4683" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-161_R-4684" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-163_R-4685" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-162_R-4686" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-169_R-4687" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-164_R-4689" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-165_R-4690" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-166_R-4691" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-185_R-4709" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-177_R-4710" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-184_R-4711" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-175_R-4712" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-177_R-4713" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-176_R-4714" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-183_R-4715" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-178_R-4716" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-179_R-4717" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-180_R-4718" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-178_R-4732" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-176_R-4754" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-82_R-4857" IsActive="false" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-182_R-4887" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-184_R-4952" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-185_R-4974" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-020C-01-41B3_O-183_R-4996" IsActive="true" />
+      </CIs>
+    </DI>
+    <DI Id="P-0608-0_DI-6" Address="5" Name="" ProductRefId="M-0004_H-4.20.2F.202094A-1_P-2094A" Hardware2ProgramRefId="M-0004_H-4.20.2F.202094A-1_HP-1072-01-41D6-O000A" Comment="" Description="" ApplicationProgramLoaded="true" CommunicationPartLoaded="true" IndividualAddressLoaded="true" MediumConfigLoaded="true" ParametersLoaded="true" IsCommunicationObjectVisibilityCalculated="true" LastModified="2020-12-23T07:03:24.0562937Z" LastDownload="2020-12-23T07:03:24.0522974Z" Puid="13">
+      <PIs>
+        <PI RefId="M-0004_A-1072-01-41D6-O000A_UP-480_R-480" Value="2" />
+        <PI RefId="M-0004_A-1072-01-41D6-O000A_UP-460_R-460" Value="2" />
+        <PI RefId="M-0004_A-1072-01-41D6-O000A_UP-536_R-536" Value="2" />
+        <PI RefId="M-0004_A-1072-01-41D6-O000A_UP-358_R-358" Value="2" />
+        <PI RefId="M-0004_A-1072-01-41D6-O000A_UP-551_R-551" Value="2" />
+        <PI RefId="M-0004_A-1072-01-41D6-O000A_UP-616_R-616" Value="2" />
+        <PI RefId="M-0004_A-1072-01-41D6-O000A_UP-593_R-593" Value="127" />
+        <PI RefId="M-0004_A-1072-01-41D6-O000A_UP-583_R-583" Value="3" />
+        <PI RefId="M-0004_A-1072-01-41D6-O000A_P-97_R-97" Value="0" />
+        <PI RefId="M-0004_A-1072-01-41D6-O000A_UP-513_R-513" Value="2" />
+        <PI RefId="M-0004_A-1072-01-41D6-O000A_UP-582_R-582" Value="2" />
+        <PI RefId="M-0004_A-1072-01-41D6-O000A_UP-397_R-397" Value="2" />
+        <PI RefId="M-0004_A-1072-01-41D6-O000A_P-392_R-392" Value="2" />
+        <PI RefId="M-0004_A-1072-01-41D6-O000A_UP-398_R-398" Value="2" />
+      </PIs>
+      <CIs>
+        <CI RefId="M-0004_A-1072-01-41D6-O000A_O-16_R-242" IsActive="true" />
+        <CI RefId="M-0004_A-1072-01-41D6-O000A_O-0_R-243" ReadFlag="Enabled" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-1" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0004_A-1072-01-41D6-O000A_O-1_R-244" IsActive="false" />
+        <CI RefId="M-0004_A-1072-01-41D6-O000A_O-2_R-245" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-2" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0004_A-1072-01-41D6-O000A_O-3_R-246" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-3" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0004_A-1072-01-41D6-O000A_O-4_R-247" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-4" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0004_A-1072-01-41D6-O000A_O-5_R-248" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-6" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0004_A-1072-01-41D6-O000A_O-6_R-249" ReadFlag="Enabled" IsActive="true" />
+        <CI RefId="M-0004_A-1072-01-41D6-O000A_O-7_R-250" IsActive="true" />
+        <CI RefId="M-0004_A-1072-01-41D6-O000A_O-9_R-252" ReadFlag="Enabled" WriteFlag="Enabled" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-7" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0004_A-1072-01-41D6-O000A_O-14_R-257" ReadFlag="Enabled" WriteFlag="Enabled" IsActive="false" />
+        <CI RefId="M-0004_A-1072-01-41D6-O000A_O-15_R-258" IsActive="false" />
+        <CI RefId="M-0004_A-1072-01-41D6-O000A_O-1_R-262" IsActive="true" />
+        <CI RefId="M-0004_A-1072-01-41D6-O000A_O-6_R-277" IsActive="false" />
+        <CI RefId="M-0004_A-1072-01-41D6-O000A_O-7_R-280" IsActive="false" />
+      </CIs>
+    </DI>
+    <DI Id="P-0608-0_DI-7" Address="6" Name="" ProductRefId="M-0107_H-ITR516.2D16A-1_P-ITR516.2D16A" Hardware2ProgramRefId="M-0107_H-ITR516.2D16A-1_HP-0204-01-14BD" Comment="" Description="" SerialNumber="AQcA4A4C" ApplicationProgramLoaded="true" CommunicationPartLoaded="true" IndividualAddressLoaded="true" MediumConfigLoaded="true" ParametersLoaded="true" IsCommunicationObjectVisibilityCalculated="true" LastModified="2020-12-23T06:56:23.814794Z" LastDownload="2020-12-23T06:56:23.8107996Z" Puid="19">
+      <PIs>
+        <PI RefId="M-0107_A-0204-01-14BD_P-896_R-896" Value="0" />
+        <PI RefId="M-0107_A-0204-01-14BD_P-1424_R-1433" Value="0" />
+        <PI RefId="M-0107_A-0204-01-14BD_UP-13923_R-20806" Value="23" />
+        <PI RefId="M-0107_A-0204-01-14BD_UP-13925_R-20807" Value="22" />
+      </PIs>
+      <CIs>
+        <CI RefId="M-0107_A-0204-01-14BD_O-28_R-2" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-21_R-42" DatapointType="DPST-1-8" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-4" />
+            <Rcv GroupAddressRefId="P-0608-0_GA-6" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-0204-01-14BD_O-23_R-43" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-24_R-44" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-25_R-45" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-26_R-46" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-22_R-47" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-32_R-154" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-33_R-346" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-86_R-1262" IsActive="false" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-81_R-1265" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-92_R-1268" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-94_R-1270" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-152_R-1326" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-153_R-1327" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-68_R-2297" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-73_R-2298" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-61_R-2299" DatapointType="DPST-1-8" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-4" />
+            <Rcv GroupAddressRefId="P-0608-0_GA-6" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-0204-01-14BD_O-63_R-2300" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-62_R-2301" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-72_R-2302" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-64_R-2303" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-65_R-2304" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-66_R-2305" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-48_R-2334" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-53_R-2335" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-41_R-2336" DatapointType="DPST-1-8" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-4" />
+            <Rcv GroupAddressRefId="P-0608-0_GA-6" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-0204-01-14BD_O-43_R-2337" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-42_R-2338" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-52_R-2339" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-44_R-2340" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-45_R-2341" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-46_R-2342" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-81_R-2595" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-83_R-2596" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-82_R-2597" IsActive="false" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-84_R-2598" IsActive="false" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-85_R-2599" IsActive="false" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-83_R-2600" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-84_R-2601" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-82_R-2602" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-88_R-2624" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-93_R-2625" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-91_R-2675" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-93_R-2677" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-92_R-2678" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-108_R-2769" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-113_R-2770" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-101_R-2771" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-103_R-2772" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-102_R-2773" IsActive="false" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-112_R-2774" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-104_R-2775" IsActive="false" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-105_R-2776" IsActive="false" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-106_R-2777" IsActive="false" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-128_R-2781" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-133_R-2782" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-121_R-2783" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-123_R-2784" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-122_R-2785" IsActive="false" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-132_R-2786" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-124_R-2787" IsActive="false" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-125_R-2788" IsActive="false" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-126_R-2789" IsActive="false" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-128_R-3699" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-133_R-3700" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-121_R-3701" DatapointType="DPST-1-8" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-4" />
+            <Rcv GroupAddressRefId="P-0608-0_GA-6" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-0204-01-14BD_O-123_R-3702" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-122_R-3703" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-132_R-3704" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-124_R-3734" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-125_R-3735" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-126_R-3736" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-108_R-3757" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-113_R-3758" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-101_R-3759" DatapointType="DPST-1-8" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-4" />
+            <Rcv GroupAddressRefId="P-0608-0_GA-6" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-0204-01-14BD_O-103_R-3760" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-102_R-3761" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-112_R-3762" DatapointType="DPST-5-1" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-104_R-3766" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-105_R-3767" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-106_R-3768" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-148_R-3872" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-141_R-3873" DatapointType="DPST-1-8" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-4" />
+            <Rcv GroupAddressRefId="P-0608-0_GA-6" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-0204-01-14BD_O-143_R-3874" DatapointType="DPST-1-8" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-142_R-3875" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-144_R-3876" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-145_R-3877" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-146_R-3878" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-161_R-3974" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-163_R-3977" DatapointType="DPST-1-1" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-1" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-0204-01-14BD_O-164_R-3978" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-162_R-3979" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-171_R-4054" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-173_R-4057" DatapointType="DPST-1-1" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-1" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0107_A-0204-01-14BD_O-174_R-4058" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-172_R-4059" IsActive="true" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-168_R-4158" DatapointType="DPST-1-1" IsActive="false" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-173_R-4159" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-161_R-4160" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-163_R-4161" DatapointType="DPST-1-8" IsActive="false" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-162_R-4162" IsActive="false" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-172_R-4163" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-164_R-4164" IsActive="false" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-165_R-4165" IsActive="false" />
+        <CI RefId="M-0107_A-0204-01-14BD_O-166_R-4166" IsActive="false" />
+      </CIs>
+    </DI>
+    <DI Id="P-0608-0_DI-8" Address="7" Name="" ProductRefId="M-0073_H-M.2FDL04.201311.20D008-16_P-M.2FDL04.201311.20D008" Hardware2ProgramRefId="M-0073_H-M.2FDL04.201311.20D008-16_HP-2076-10-6B91" Comment="" Description="" SerialNumber="////////" ApplicationProgramLoaded="true" CommunicationPartLoaded="true" IndividualAddressLoaded="true" MediumConfigLoaded="true" ParametersLoaded="true" IsCommunicationObjectVisibilityCalculated="true" LastModified="2020-12-23T06:56:45.0474803Z" LastDownload="2020-12-23T06:56:45.0426497Z" Puid="23">
+      <PIs>
+        <PI RefId="M-0073_A-2076-10-6B91_P-2023_R-2023" Value="2" />
+        <PI RefId="M-0073_A-2076-10-6B91_P-2024_R-2024" Value="2" />
+      </PIs>
+      <CIs>
+        <CI RefId="M-0073_A-2076-10-6B91_O-0_R-17000" DatapointType="DPST-1-3" IsActive="true" />
+        <CI RefId="M-0073_A-2076-10-6B91_O-1_R-17001" DatapointType="DPST-1-10" IsActive="false" />
+        <CI RefId="M-0073_A-2076-10-6B91_O-2_R-17002" DatapointType="DPST-1-10" IsActive="false" />
+        <CI RefId="M-0073_A-2076-10-6B91_O-10_R-17100" DatapointType="DPST-1-1" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-1" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0073_A-2076-10-6B91_O-11_R-17101" DatapointType="DPST-3-7" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-7" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0073_A-2076-10-6B91_O-12_R-17102" DatapointType="DPST-5-1" IsActive="false" />
+        <CI RefId="M-0073_A-2076-10-6B91_O-30_R-17400" DatapointType="DPST-1-1" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-1" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0073_A-2076-10-6B91_O-31_R-17401" DatapointType="DPST-3-7" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-7" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0073_A-2076-10-6B91_O-50_R-17700" DatapointType="DPST-1-1" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-1" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0073_A-2076-10-6B91_O-51_R-17701" DatapointType="DPST-3-7" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-7" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0073_A-2076-10-6B91_O-70_R-18000" DatapointType="DPST-1-1" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-1" />
+          </Cs>
+        </CI>
+        <CI RefId="M-0073_A-2076-10-6B91_O-71_R-18001" DatapointType="DPST-3-7" IsActive="true">
+          <Cs>
+            <S GroupAddressRefId="P-0608-0_GA-7" />
+          </Cs>
+        </CI>
+      </CIs>
+    </DI>
+  </Line>
+</Area>

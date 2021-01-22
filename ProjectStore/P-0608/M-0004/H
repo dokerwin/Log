@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<H>
+  <H Id="M-0004_H-4.20.2F.202094A-1" Name="Tastsensor 4fach Universal mit Alarmmeldung" SerialNumber="4 / 2094A" VersionNumber="1" IsAccessory="0" HasIndividualAddress="1" HasApplicationProgram="1" HasApplicationProgram2="0" IsPowerSupply="0" IsChoke="0" IsCoupler="0" IsPowerLineRepeater="0" IsPowerLineSignalFilter="0" IsCable="0" NonRegRelevantDataVersion="0" IsIPEnabled="0">
+    <Prods>
+      <Prod Id="M-0004_H-4.20.2F.202094A-1_P-2094A" Text="Tastsensor 4fach Universal mit Alarmmeldung" OrderNumber="2094A" IsRailMounted="0" DefaultLanguage="de-DE" Hash="VhgkAIPR7RE0ejkWj8+TycIkjyI=" NonRegRelevantDataVersion="0">
+        <RI RegistrationStatus="Registered" RegistrationSignature="rbO7cFKDqKBGMa4KgV0JTxNdvy9PfclPi1Xhvyn2Y4fj4vNxqMxeNo9pblkQZT+6043gGvRL6RmE1MN08W/rOOhYyvD/sIiMeXUZjjz/0B/LzsZoGWJBupihCJzcNHdgL+wOSlmYodY2HGMyr6hGKfXUreiDsUlVXlEZZ9uhe00=" />
+      </Prod>
+    </Prods>
+    <H2Ps>
+      <H2P Id="M-0004_H-4.20.2F.202094A-1_HP-1072-01-41D6-O000A" MediumTypes="MT-0" Hash="Wu2rCkHl9HLrED/8m5Y2Hp1Uh/8=">
+        <APR RefId="M-0004_A-1072-01-41D6-O000A" />
+        <RI RegistrationSignature="Fz2hCSF0/OTtxDaMrLMUk+dD9nOtf/fcbc6rWJdI9aSU/9s/8j85AJHKvUllBzO8u08w3/lxpxCBHoJEeFXZUlmwHCLGH6izH7af3JnuCXRjPo0FBJynKjxD9PT8m0DuJd+qYxpRAySZ3kkrynlI6183DXOsWJcyv/sJZCtiF6Q=" OriginalRegistrationNumber="1999/3704" RegistrationNumber="1999/3707" RegistrationStatus="Registered" />
+      </H2P>
+    </H2Ps>
+  </H>
+</H>

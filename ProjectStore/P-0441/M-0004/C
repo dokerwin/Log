@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<C>
+  <CatSec Id="M-0004_CS-PB" Name="Taster" Number="PB" DefaultLanguage="de-DE">
+    <CatSec Id="M-0004_CS-PB-P4" Name="Poussoir, 4 voies" Number="P4" VisibleDescription="" DefaultLanguage="fr-FR" NonRegRelevantDataVersion="0">
+      <CITEM Id="M-0004_H-4.20.2F.202094A-1_HP-1072-01-41D6-O000A_CI-2094A-1" Name="Tastsensor 4fach Universal mit Alarmmeld" Number="1" ProductRefId="M-0004_H-4.20.2F.202094A-1_P-2094A" Hardware2ProgramRefId="M-0004_H-4.20.2F.202094A-1_HP-1072-01-41D6-O000A" DefaultLanguage="de-DE" NonRegRelevantDataVersion="0" />
+    </CatSec>
+  </CatSec>
+  <CatSec Id="M-0004_CS-OU" Name="Ausgabe" Number="OU" VisibleDescription="" DefaultLanguage="de-DE" NonRegRelevantDataVersion="0">
+    <CatSec Id="M-0004_CS-OU-B4" Name="Binärausgang, 4fach " Number="B4" VisibleDescription="" DefaultLanguage="en-US" NonRegRelevantDataVersion="0">
+      <CITEM Id="M-0004_H-4.20.2F.2F.202134.2E16CREG-1-O000A_HP-2062-01-E60D-O000A_CI-2134.2E16CREG-1" Name="Schaltaktor 4fach 16A C-Last REG" Number="1" VisibleDescription="Schalten RM, VK, ZF 206201" ProductRefId="M-0004_H-4.20.2F.2F.202134.2E16CREG-1-O000A_P-2134.2E16CREG" Hardware2ProgramRefId="M-0004_H-4.20.2F.2F.202134.2E16CREG-1-O000A_HP-2062-01-E60D-O000A" DefaultLanguage="de-DE" NonRegRelevantDataVersion="0" />
+    </CatSec>
+  </CatSec>
+</C>
