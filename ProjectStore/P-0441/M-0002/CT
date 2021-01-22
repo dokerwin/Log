@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LS>
+  <L Identifier="ru-RU">
+    <TU RefId="M-0002_CS-OU">
+      <TE RefId="M-0002_CS-OU">
+        <T AttributeName="Name" Text="Выход" />
+      </TE>
+    </TU>
+    <TU RefId="M-0002_CS-OU-B4">
+      <TE RefId="M-0002_CS-OU-B4">
+        <T AttributeName="Name" Text="Бинарный выход, 4-канальный" />
+      </TE>
+    </TU>
+    <TU RefId="M-0002_H-2CDG.20110.20152.20R0011-1_HP-A088-32-BD97_CI-2CDG.20110.20152.20R0011-2">
+      <TE RefId="M-0002_H-2CDG.20110.20152.20R0011-1_HP-A088-32-BD97_CI-2CDG.20110.20152.20R0011-2">
+        <T AttributeName="Name" Text="SA/S4.6.1.1 Активатор, 4-кан., 6A, MDRC" />
+        <T AttributeName="VisibleDescription" Text="Переключение 4-кан. 6A/3.2b" />
+      </TE>
+    </TU>
+  </L>
+</LS>

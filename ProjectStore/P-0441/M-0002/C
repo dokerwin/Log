@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<C>
+  <CatSec Id="M-0002_CS-OU" Name="Ausgabe" Number="OU" DefaultLanguage="de-DE" NonRegRelevantDataVersion="0">
+    <CatSec Id="M-0002_CS-OU-B4" Name="Binary output, 4-fold" Number="B4" VisibleDescription="&#xD;&#xA;        " DefaultLanguage="en-US" NonRegRelevantDataVersion="0">
+      <CITEM Id="M-0002_H-2CDG.20110.20152.20R0011-1_HP-A088-32-BD97_CI-2CDG.20110.20152.20R0011-2" Name="SA/S4.6.1.1 Switch Actuator,4-fold,6A,MDRC" Number="2" VisibleDescription="Switch 4f 6A/3.2b" ProductRefId="M-0002_H-2CDG.20110.20152.20R0011-1_P-2CDG.20110.20152.20R0011" Hardware2ProgramRefId="M-0002_H-2CDG.20110.20152.20R0011-1_HP-A088-32-BD97" DefaultLanguage="en-US" NonRegRelevantDataVersion="0" />
+    </CatSec>
+  </CatSec>
+</C>

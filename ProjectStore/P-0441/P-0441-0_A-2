@@ -911,5 +911,18 @@
         <CI RefId="M-0004_A-2062-01-E60D-O000A_O-3_R-4" IsActive="true" />
       </CIs>
     </DI>
+    <DI Id="P-0441-0_DI-10" Address="9" Name="" ProductRefId="M-0002_H-2CDG.20110.20152.20R0011-1_P-2CDG.20110.20152.20R0011" Hardware2ProgramRefId="M-0002_H-2CDG.20110.20152.20R0011-1_HP-A088-32-BD97" Comment="" Description="" IsCommunicationObjectVisibilityCalculated="true" LastModified="2021-01-22T16:26:36.0398309Z" Puid="35">
+      <CIs>
+        <CI RefId="M-0002_A-A088-32-BD97_O-0_R-6274" DatapointType="DPST-1-2" IsActive="true" />
+        <CI RefId="M-0002_A-A088-32-BD97_O-30_R-6639" DatapointType="DPST-1-1 DPST-1-1" IsActive="true" />
+        <CI RefId="M-0002_A-A088-32-BD97_O-49_R-6662" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0002_A-A088-32-BD97_O-50_R-6744" DatapointType="DPST-1-1 DPST-1-1" IsActive="true" />
+        <CI RefId="M-0002_A-A088-32-BD97_O-69_R-6767" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0002_A-A088-32-BD97_O-10_R-6820" DatapointType="DPST-1-1 DPST-1-1" IsActive="true" />
+        <CI RefId="M-0002_A-A088-32-BD97_O-29_R-6839" DatapointType="DPST-1-1" IsActive="true" />
+        <CI RefId="M-0002_A-A088-32-BD97_O-70_R-6846" DatapointType="DPST-1-1 DPST-1-1" IsActive="true" />
+        <CI RefId="M-0002_A-A088-32-BD97_O-89_R-6874" DatapointType="DPST-1-1" IsActive="true" />
+      </CIs>
+    </DI>
   </Line>
 </Area>

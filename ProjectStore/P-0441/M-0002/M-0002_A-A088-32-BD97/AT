@@ -1,0 +1,2373 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LS>
+  <L Identifier="ru-RU">
+    <TU RefId="M-0002_A-A088-32-BD97">
+      <TE RefId="M-0002_A-A088-32-BD97">
+        <T AttributeName="Name" Text="Переключение 4-кан. 6A/3.2b" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-0">
+        <T AttributeName="Text" Text="Общее" />
+        <T AttributeName="FunctionText" Text="В работе" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-1">
+        <T AttributeName="Text" Text="Общее" />
+        <T AttributeName="FunctionText" Text="Приоритет безопасности 1" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-10">
+        <T AttributeName="Text" Text="Выход А" />
+        <T AttributeName="FunctionText" Text="Знач. управл. воздейств. (ШИМ)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-11">
+        <T AttributeName="Text" Text="Выход А" />
+        <T AttributeName="FunctionText" Text="Включить промывку вентиля" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-12">
+        <T AttributeName="Text" Text="Выход А" />
+        <T AttributeName="FunctionText" Text="Статус Промывки вентиля" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-13">
+        <T AttributeName="Text" Text="Выход А" />
+        <T AttributeName="FunctionText" Text="Сбой РТП" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-14">
+        <T AttributeName="Text" Text="Выход А" />
+        <T AttributeName="FunctionText" Text="Принудительное управление" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-15">
+        <T AttributeName="Text" Text="Выход А" />
+        <T AttributeName="FunctionText" Text="Статус Hагрева" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-16">
+        <T AttributeName="Text" Text="Выход А" />
+        <T AttributeName="FunctionText" Text="Настроить предустановку 1/2" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-17">
+        <T AttributeName="Text" Text="Выход А" />
+        <T AttributeName="FunctionText" Text="8-битная сцена" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-18">
+        <T AttributeName="Text" Text="Выход А" />
+        <T AttributeName="FunctionText" Text="Логическая связь 1" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-19">
+        <T AttributeName="Text" Text="Выход А" />
+        <T AttributeName="FunctionText" Text="Логическая связь 2" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-2">
+        <T AttributeName="Text" Text="Общее" />
+        <T AttributeName="FunctionText" Text="Приоритет безопасности 2" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-20">
+        <T AttributeName="Text" Text="Выход А" />
+        <T AttributeName="FunctionText" Text="Принудительное управление" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-21">
+        <T AttributeName="Text" Text="Выход А" />
+        <T AttributeName="FunctionText" Text="Вход порогового значения" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-22">
+        <T AttributeName="Text" Text="Выход А" />
+        <T AttributeName="FunctionText" Text="Изменить пороговое значение 1" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-23">
+        <T AttributeName="Text" Text="Dummy" />
+        <T AttributeName="FunctionText" Text="Dummy" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-24">
+        <T AttributeName="Text" Text="Dummy" />
+        <T AttributeName="FunctionText" Text="Dummy" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-29">
+        <T AttributeName="Text" Text="Выход А" />
+        <T AttributeName="FunctionText" Text="Статус Переключения" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-3">
+        <T AttributeName="Text" Text="Общее" />
+        <T AttributeName="FunctionText" Text="Приоритет безопасности 3" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-30">
+        <T AttributeName="Text" Text="Выход B" />
+        <T AttributeName="FunctionText" Text="Знач. управл. воздейств. (ШИМ)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-31">
+        <T AttributeName="Text" Text="Выход B" />
+        <T AttributeName="FunctionText" Text="Включить промывку вентиля" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-32">
+        <T AttributeName="Text" Text="Выход B" />
+        <T AttributeName="FunctionText" Text="Статус Промывки вентиля" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-33">
+        <T AttributeName="Text" Text="Выход B" />
+        <T AttributeName="FunctionText" Text="Сбой РТП" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-34">
+        <T AttributeName="Text" Text="Выход B" />
+        <T AttributeName="FunctionText" Text="Принудительное управление" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-35">
+        <T AttributeName="Text" Text="Выход B" />
+        <T AttributeName="FunctionText" Text="Статус Hагрева" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-36">
+        <T AttributeName="Text" Text="Выход B" />
+        <T AttributeName="FunctionText" Text="Настроить предустановку 1/2" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-37">
+        <T AttributeName="Text" Text="Выход B" />
+        <T AttributeName="FunctionText" Text="8-битная сцена" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-38">
+        <T AttributeName="Text" Text="Выход B" />
+        <T AttributeName="FunctionText" Text="Логическая связь 1" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-39">
+        <T AttributeName="Text" Text="Выход B" />
+        <T AttributeName="FunctionText" Text="Логическая связь 2" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-4">
+        <T AttributeName="Text" Text="Объект 4" />
+        <T AttributeName="FunctionText" Text="Dummy" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-40">
+        <T AttributeName="Text" Text="Выход B" />
+        <T AttributeName="FunctionText" Text="Принудительное управление" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-41">
+        <T AttributeName="Text" Text="Выход B" />
+        <T AttributeName="FunctionText" Text="Вход порогового значения" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-42">
+        <T AttributeName="Text" Text="Выход B" />
+        <T AttributeName="FunctionText" Text="Изменить пороговое значение 1" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-43">
+        <T AttributeName="Text" Text="Dummy" />
+        <T AttributeName="FunctionText" Text="Dummy" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-44">
+        <T AttributeName="Text" Text="Dummy" />
+        <T AttributeName="FunctionText" Text="Dummy" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-49">
+        <T AttributeName="Text" Text="Выход B" />
+        <T AttributeName="FunctionText" Text="Статус Переключения" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-5">
+        <T AttributeName="Text" Text="Объект 5" />
+        <T AttributeName="FunctionText" Text="Dummy" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-50">
+        <T AttributeName="Text" Text="Выход C" />
+        <T AttributeName="FunctionText" Text="Знач. управл. воздейств. (ШИМ)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-51">
+        <T AttributeName="Text" Text="Выход C" />
+        <T AttributeName="FunctionText" Text="Включить промывку вентиля" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-52">
+        <T AttributeName="Text" Text="Выход C" />
+        <T AttributeName="FunctionText" Text="Статус Промывки вентиля" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-53">
+        <T AttributeName="Text" Text="Выход C" />
+        <T AttributeName="FunctionText" Text="Сбой РТП" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-54">
+        <T AttributeName="Text" Text="Выход C" />
+        <T AttributeName="FunctionText" Text="Принудительное управление" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-55">
+        <T AttributeName="Text" Text="Выход C" />
+        <T AttributeName="FunctionText" Text="Статус Hагрева" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-56">
+        <T AttributeName="Text" Text="Выход C" />
+        <T AttributeName="FunctionText" Text="Настроить предустановку 1/2" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-57">
+        <T AttributeName="Text" Text="Выход C" />
+        <T AttributeName="FunctionText" Text="8-битная сцена" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-58">
+        <T AttributeName="Text" Text="Выход C" />
+        <T AttributeName="FunctionText" Text="Логическая связь 1" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-59">
+        <T AttributeName="Text" Text="Выход C" />
+        <T AttributeName="FunctionText" Text="Логическая связь 2" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-6">
+        <T AttributeName="Text" Text="Объект 6" />
+        <T AttributeName="FunctionText" Text="Dummy" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-60">
+        <T AttributeName="Text" Text="Выход C" />
+        <T AttributeName="FunctionText" Text="Принудительное управление" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-61">
+        <T AttributeName="Text" Text="Выход C" />
+        <T AttributeName="FunctionText" Text="Вход порогового значения" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-62">
+        <T AttributeName="Text" Text="Выход C" />
+        <T AttributeName="FunctionText" Text="Изменить пороговое значение 1" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-63">
+        <T AttributeName="Text" Text="Dummy" />
+        <T AttributeName="FunctionText" Text="Dummy" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-64">
+        <T AttributeName="Text" Text="Dummy" />
+        <T AttributeName="FunctionText" Text="Dummy" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-69">
+        <T AttributeName="Text" Text="Выход C" />
+        <T AttributeName="FunctionText" Text="Статус Переключения" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-7">
+        <T AttributeName="Text" Text="Объект 7" />
+        <T AttributeName="FunctionText" Text="Dummy" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-70">
+        <T AttributeName="Text" Text="Выход D" />
+        <T AttributeName="FunctionText" Text="Переключение" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-71">
+        <T AttributeName="Text" Text="Выход D" />
+        <T AttributeName="FunctionText" Text="Длительно ВКЛ." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-72">
+        <T AttributeName="Text" Text="Выход D" />
+        <T AttributeName="FunctionText" Text="Блокировать функцию &quot;Время&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-73">
+        <T AttributeName="Text" Text="Выход D" />
+        <T AttributeName="FunctionText" Text="Длительность лестн. освещ." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-74">
+        <T AttributeName="Text" Text="Выход D" />
+        <T AttributeName="FunctionText" Text="Предупреждение лестн. освещ." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-75">
+        <T AttributeName="Text" Text="Выход D" />
+        <T AttributeName="FunctionText" Text="Вызвать предустановку 1/2" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-76">
+        <T AttributeName="Text" Text="Выход D" />
+        <T AttributeName="FunctionText" Text="Настроить предустановку 1/2" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-77">
+        <T AttributeName="Text" Text="Выход D" />
+        <T AttributeName="FunctionText" Text="8-битная сцена" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-78">
+        <T AttributeName="Text" Text="Выход D" />
+        <T AttributeName="FunctionText" Text="Логическая связь 1" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-79">
+        <T AttributeName="Text" Text="Выход D" />
+        <T AttributeName="FunctionText" Text="Логическая связь 2" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-8">
+        <T AttributeName="Text" Text="Объект 8" />
+        <T AttributeName="FunctionText" Text="Dummy" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-80">
+        <T AttributeName="Text" Text="Выход D" />
+        <T AttributeName="FunctionText" Text="Принудительное управление" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-81">
+        <T AttributeName="Text" Text="Выход D" />
+        <T AttributeName="FunctionText" Text="Вход порогового значения" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-82">
+        <T AttributeName="Text" Text="Выход D" />
+        <T AttributeName="FunctionText" Text="Изменить пороговое значение 1" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-83">
+        <T AttributeName="Text" Text="Dummy" />
+        <T AttributeName="FunctionText" Text="Dummy" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-84">
+        <T AttributeName="Text" Text="Dummy" />
+        <T AttributeName="FunctionText" Text="Dummy" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-89">
+        <T AttributeName="Text" Text="Выход D" />
+        <T AttributeName="FunctionText" Text="Статус Переключения" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-9">
+        <T AttributeName="Text" Text="Объект 9" />
+        <T AttributeName="FunctionText" Text="Dummy" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSchwellDatentyp_EN-2">
+        <T AttributeName="Text" Text="1 байт (0...255)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSchwellDatentyp_EN-3">
+        <T AttributeName="Text" Text="2 байта (0..65 535)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSchwellHystereseJaNein_EN-1">
+        <T AttributeName="Text" Text="да" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSchwellHystereseJaNein_EN-2">
+        <T AttributeName="Text" Text="нет" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSchwellVerhAusgang_EN-2">
+        <T AttributeName="Text" Text="неизменно" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSchwellVerhAusgang_EN-1">
+        <T AttributeName="Text" Text="ВКЛ." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSchwellVerhAusgang_EN-0">
+        <T AttributeName="Text" Text="ВЫКЛ." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSpülzyklus_EN-0">
+        <T AttributeName="Text" Text="нет" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSpülzyklus_EN-1440">
+        <T AttributeName="Text" Text="один раз в день" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSpülzyklus_EN-10080">
+        <T AttributeName="Text" Text="один раз в неделю" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSpülzyklus_EN-43200">
+        <T AttributeName="Text" Text="один раз в месяц" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FStatus.20invertieren_EN-0">
+        <T AttributeName="Text" Text="1 = закрыт, 0 = открыт" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FStatus.20invertieren_EN-1">
+        <T AttributeName="Text" Text="0 = закрыт, 1 = открыт" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FStatus.20senden.20bei_EN-0">
+        <T AttributeName="Text" Text="нет" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FStatus.20senden.20bei_EN-1">
+        <T AttributeName="Text" Text="при изменении" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FStatus.20senden.20bei_EN-3">
+        <T AttributeName="Text" Text="всегда" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-64">
+        <T AttributeName="Text" Text="нет сцены" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-0">
+        <T AttributeName="Text" Text="Сцена 1" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-1">
+        <T AttributeName="Text" Text="Сцена 2" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-2">
+        <T AttributeName="Text" Text="Сцена 3" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-3">
+        <T AttributeName="Text" Text="Сцена 4" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-4">
+        <T AttributeName="Text" Text="Сцена 5" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-5">
+        <T AttributeName="Text" Text="Сцена 6" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-6">
+        <T AttributeName="Text" Text="Сцена 7" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-7">
+        <T AttributeName="Text" Text="Сцена 8" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-8">
+        <T AttributeName="Text" Text="Сцена 9" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-9">
+        <T AttributeName="Text" Text="Сцена 10" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-10">
+        <T AttributeName="Text" Text="Сцена 11" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-11">
+        <T AttributeName="Text" Text="Сцена 12" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-12">
+        <T AttributeName="Text" Text="Сцена 13" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-13">
+        <T AttributeName="Text" Text="Сцена 14" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-14">
+        <T AttributeName="Text" Text="Сцена 15" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-15">
+        <T AttributeName="Text" Text="Сцена 16" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-16">
+        <T AttributeName="Text" Text="Сцена 17" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-17">
+        <T AttributeName="Text" Text="Сцена 18" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-18">
+        <T AttributeName="Text" Text="Сцена 19" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-19">
+        <T AttributeName="Text" Text="Сцена 20" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-20">
+        <T AttributeName="Text" Text="Сцена 21" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-21">
+        <T AttributeName="Text" Text="Сцена 22" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-22">
+        <T AttributeName="Text" Text="Сцена 23" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-23">
+        <T AttributeName="Text" Text="Сцена 24" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-24">
+        <T AttributeName="Text" Text="Сцена 25" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-25">
+        <T AttributeName="Text" Text="Сцена 26" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-26">
+        <T AttributeName="Text" Text="Сцена 27" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-27">
+        <T AttributeName="Text" Text="Сцена 28" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-28">
+        <T AttributeName="Text" Text="Сцена 29" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-29">
+        <T AttributeName="Text" Text="Сцена 30" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-30">
+        <T AttributeName="Text" Text="Сцена 31" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-31">
+        <T AttributeName="Text" Text="Сцена 32" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-32">
+        <T AttributeName="Text" Text="Сцена 33" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-33">
+        <T AttributeName="Text" Text="Сцена 34" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-34">
+        <T AttributeName="Text" Text="Сцена 35" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-35">
+        <T AttributeName="Text" Text="Сцена 36" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-36">
+        <T AttributeName="Text" Text="Сцена 37" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-37">
+        <T AttributeName="Text" Text="Сцена 38" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-38">
+        <T AttributeName="Text" Text="Сцена 39" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-39">
+        <T AttributeName="Text" Text="Сцена 40" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-40">
+        <T AttributeName="Text" Text="Сцена 41" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-41">
+        <T AttributeName="Text" Text="Сцена 42" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-42">
+        <T AttributeName="Text" Text="Сцена 43" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-43">
+        <T AttributeName="Text" Text="Сцена 44" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-44">
+        <T AttributeName="Text" Text="Сцена 45" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-45">
+        <T AttributeName="Text" Text="Сцена 46" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-46">
+        <T AttributeName="Text" Text="Сцена 47" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-47">
+        <T AttributeName="Text" Text="Сцена 48" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-48">
+        <T AttributeName="Text" Text="Сцена 49" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-49">
+        <T AttributeName="Text" Text="Сцена 50" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-50">
+        <T AttributeName="Text" Text="Сцена 51" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-51">
+        <T AttributeName="Text" Text="Сцена 52" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-52">
+        <T AttributeName="Text" Text="Сцена 53" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-53">
+        <T AttributeName="Text" Text="Сцена 54" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-54">
+        <T AttributeName="Text" Text="Сцена 55" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-55">
+        <T AttributeName="Text" Text="Сцена 56" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-56">
+        <T AttributeName="Text" Text="Сцена 57" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-57">
+        <T AttributeName="Text" Text="Сцена 58" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-58">
+        <T AttributeName="Text" Text="Сцена 59" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-59">
+        <T AttributeName="Text" Text="Сцена 60" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-60">
+        <T AttributeName="Text" Text="Сцена 61" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-61">
+        <T AttributeName="Text" Text="Сцена 62" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-62">
+        <T AttributeName="Text" Text="Сцена 63" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneNummer_EN-63">
+        <T AttributeName="Text" Text="Сцена 64" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneReaktPreset_EN-255">
+        <T AttributeName="Text" Text="реакции нет" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneReaktPreset_EN-1">
+        <T AttributeName="Text" Text="ВКЛ." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneReaktPreset_EN-0">
+        <T AttributeName="Text" Text="ВЫКЛ." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneReaktPreset1_EN-255">
+        <T AttributeName="Text" Text="реакции нет" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneReaktPreset1_EN-1">
+        <T AttributeName="Text" Text="ВКЛ." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneReaktPreset1_EN-0">
+        <T AttributeName="Text" Text="ВЫКЛ." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneReaktPreset1_EN-4">
+        <T AttributeName="Text" Text="восстановить прежнее состояние до предустановки 2" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FSzeneReaktPreset1_EN-6">
+        <T AttributeName="Text" Text="восстановить параметрир. значение предустановки 2" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5Ftl.5FWarnFunktion_EN-0">
+        <T AttributeName="Text" Text="нет" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5Ftl.5FWarnFunktion_EN-1">
+        <T AttributeName="Text" Text="через коммуникац. объект" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5Ftl.5FWarnFunktion_EN-2">
+        <T AttributeName="Text" Text="через быстрое переключение ВЫКЛ.-ВКЛ." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5Ftl.5FWarnFunktion_EN-3">
+        <T AttributeName="Text" Text="через объект и быстрое переключение ВЫКЛ.-ВКЛ." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FTreppeZeitAddieren_EN-0">
+        <T AttributeName="Text" Text="Нет (без повторного включения)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FTreppeZeitAddieren_EN-1">
+        <T AttributeName="Text" Text="Да (с повторным включением)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FTreppeZeitAddieren_EN-2">
+        <T AttributeName="Text" Text="макс. до 2-кратн. времени лестничного освещения" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FTreppeZeitAddieren_EN-3">
+        <T AttributeName="Text" Text="макс. до 3-кратн. времени лестничного освещения" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FTreppeZeitAddieren_EN-4">
+        <T AttributeName="Text" Text="макс. до 4-кратн. времени лестничного освещения" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FTreppeZeitAddieren_EN-5">
+        <T AttributeName="Text" Text="макс. до 5-кратн. времени лестничного освещения" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FZeitFunktion_EN-1">
+        <T AttributeName="Text" Text="Функция лестничного освещения" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FZeitFunktion_EN-2">
+        <T AttributeName="Text" Text="Задержка на включение/выключение" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FZeitFunktion_EN-3">
+        <T AttributeName="Text" Text="Мигание" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FZwangFunktion_EN-255">
+        <T AttributeName="Text" Text="неактивный" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FZwangFunktion_EN-2">
+        <T AttributeName="Text" Text="неизменно (1-битн. объект)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FZwangFunktion_EN-1">
+        <T AttributeName="Text" Text="ВКЛ. (1-битн. объект)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FZwangFunktion_EN-0">
+        <T AttributeName="Text" Text="ВЫКЛ. (1-битн. объект)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FZwangFunktion_EN-7">
+        <T AttributeName="Text" Text="коммутационное состояние через 2-битн. объект" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FZwangVerh_EN-2">
+        <T AttributeName="Text" Text="неизменно" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FZwangVerh_EN-255">
+        <T AttributeName="Text" Text="неактивный" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FZwangVerh_EN-1">
+        <T AttributeName="Text" Text="ВКЛ." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FZwangVerh_EN-0">
+        <T AttributeName="Text" Text="ВЫКЛ." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FZwangverhalten.5FBW_EN-0">
+        <T AttributeName="Text" Text="&quot;0&quot; неактивно" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FZwangverhalten.5FBW_EN-2">
+        <T AttributeName="Text" Text="&quot;2&quot; ВЫКЛ." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FZwangverhalten.5FBW_EN-3">
+        <T AttributeName="Text" Text="&quot;3&quot; ВКЛ." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FZwangVerhEnde_EN-3">
+        <T AttributeName="Text" Text="определить положение контактов" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FZwangVerhEnde_EN-1">
+        <T AttributeName="Text" Text="ВКЛ." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FZwangVerhEnde_EN-0">
+        <T AttributeName="Text" Text="ВЫКЛ." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FZwangVerhEnde_EN-2">
+        <T AttributeName="Text" Text="неизменно" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-Treppenlicht.20schaltbar_EN-1">
+        <T AttributeName="Text" Text="ВКЛ. через &quot;1&quot; и ВЫКЛ. через &quot;0&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-Treppenlicht.20schaltbar_EN-5">
+        <T AttributeName="Text" Text="ВКЛ. через &quot;1&quot;, нет действия при &quot;0&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-Treppenlicht.20schaltbar_EN-3">
+        <T AttributeName="Text" Text="ВКЛ. через &quot;0&quot; или &quot;1&quot;, ВЫКЛ. невозможно" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-10_R-6815">
+        <T AttributeName="FunctionText" Text="Переключение" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-10_R-6820">
+        <T AttributeName="FunctionText" Text="Переключение" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-11_R-6833">
+        <T AttributeName="FunctionText" Text="Длительно ВКЛ." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-12_R-6832">
+        <T AttributeName="FunctionText" Text="Блокировать функцию &quot;Время&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-13_R-6829">
+        <T AttributeName="FunctionText" Text="Длительность лестн. освещ." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-14_R-6830">
+        <T AttributeName="FunctionText" Text="Предупреждение лестн. освещ." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-14_R-6831">
+        <T AttributeName="FunctionText" Text="Предупреждение лестн. освещ." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-15_R-6824">
+        <T AttributeName="FunctionText" Text="Вызвать предустановку 1/2" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-30_R-6634">
+        <T AttributeName="FunctionText" Text="Переключение" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-30_R-6639">
+        <T AttributeName="FunctionText" Text="Переключение" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-31_R-6644">
+        <T AttributeName="FunctionText" Text="Длительно ВКЛ." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-32_R-6643">
+        <T AttributeName="FunctionText" Text="Блокировать функцию &quot;Время&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-33_R-6640">
+        <T AttributeName="FunctionText" Text="Длительность лестн. освещ." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-34_R-6641">
+        <T AttributeName="FunctionText" Text="Предупреждение лестн. освещ." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-34_R-6642">
+        <T AttributeName="FunctionText" Text="Предупреждение лестн. освещ." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-35_R-6646">
+        <T AttributeName="FunctionText" Text="Вызвать предустановку 1/2" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-50_R-6739">
+        <T AttributeName="FunctionText" Text="Переключение" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-50_R-6744">
+        <T AttributeName="FunctionText" Text="Переключение" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-51_R-6749">
+        <T AttributeName="FunctionText" Text="Длительно ВКЛ." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-52_R-6748">
+        <T AttributeName="FunctionText" Text="Блокировать функцию &quot;Время&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-53_R-6745">
+        <T AttributeName="FunctionText" Text="Длительность лестн. освещ." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-54_R-6746">
+        <T AttributeName="FunctionText" Text="Предупреждение лестн. освещ." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-54_R-6747">
+        <T AttributeName="FunctionText" Text="Предупреждение лестн. освещ." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-55_R-6751">
+        <T AttributeName="FunctionText" Text="Вызвать предустановку 1/2" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-70_R-6869">
+        <T AttributeName="FunctionText" Text="Знач. управл. воздейств. (ШИМ)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-71_R-6872">
+        <T AttributeName="FunctionText" Text="Включить промывку вентиля" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-72_R-6871">
+        <T AttributeName="FunctionText" Text="Статус Промывки вентиля" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-73_R-6870">
+        <T AttributeName="FunctionText" Text="Сбой РТП" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-74_R-6873">
+        <T AttributeName="FunctionText" Text="Принудительное управление" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-75_R-6865">
+        <T AttributeName="FunctionText" Text="Статус Hагрева" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-75_R-6866">
+        <T AttributeName="FunctionText" Text="Статус Hагрева" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_O-75_R-6867">
+        <T AttributeName="FunctionText" Text="Статус Hагрева" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24512_R-24514">
+        <T AttributeName="Text" Text="Значение объекта &quot;Переключение&quot; при&#xA;восстановлении напряжения шины" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24590_R-24591">
+        <T AttributeName="Text" Text="Длительность для ВКЛ.: &#xA;мин (0...65 535)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24572_R-24583">
+        <T AttributeName="Text" Text="Задержка на включение:&#xA;с (0...59)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24586_R-24592">
+        <T AttributeName="Text" Text="Задержка на выключение: &#xA;мин (0...65 535)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24601_R-24605">
+        <T AttributeName="Text" Text="  Знач. объекта &lt; ниж. порог. знач." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24600_R-24602">
+        <T AttributeName="Text" Text="  Превышение верхнего ПЗ" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23674_R-23676">
+        <T AttributeName="Text" Text="Значение объекта &quot;Переключение&quot; при&#xA;восстановлении напряжения шины" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23706_R-23707">
+        <T AttributeName="Text" Text="Длительность для ВКЛ.: &#xA;мин (0...65 535)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23688_R-23699">
+        <T AttributeName="Text" Text="Задержка на включение:&#xA;с (0...59)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23702_R-23708">
+        <T AttributeName="Text" Text="Задержка на выключение: &#xA;мин (0...65 535)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23738_R-23742">
+        <T AttributeName="Text" Text="  Знач. объекта &lt; ниж. порог. знач." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23737_R-23739">
+        <T AttributeName="Text" Text="  Превышение верхнего ПЗ" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24166_R-24168">
+        <T AttributeName="Text" Text="Значение объекта &quot;Переключение&quot; при&#xA;восстановлении напряжения шины" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24198_R-24199">
+        <T AttributeName="Text" Text="Длительность для ВКЛ.: &#xA;мин (0...65 535)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24180_R-24191">
+        <T AttributeName="Text" Text="Задержка на включение:&#xA;с (0...59)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24194_R-24200">
+        <T AttributeName="Text" Text="Задержка на выключение: &#xA;мин (0...65 535)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24230_R-24234">
+        <T AttributeName="Text" Text="  Знач. объекта &lt; ниж. порог. знач." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24229_R-24231">
+        <T AttributeName="Text" Text="  Превышение верхнего ПЗ" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24652_R-24654">
+        <T AttributeName="Text" Text="Значение объекта &quot;Переключение&quot; при&#xA;восстановлении напряжения шины" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24674_R-24675">
+        <T AttributeName="Text" Text="Длительность для ВКЛ.: &#xA;мин (0...65 535)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24667_R-24683">
+        <T AttributeName="Text" Text="   Секунды (0...59)&#xA; " />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24670_R-24676">
+        <T AttributeName="Text" Text="Задержка на выключение: &#xA;мин (0...65 535)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24743_R-24746">
+        <T AttributeName="Text" Text="  Недостижение нижнего ПЗ" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24745_R-24747">
+        <T AttributeName="Text" Text="  Превышение верхнего ПЗ" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23653">
+        <T AttributeName="Text" Text="Позиция привода вентиля&#xA;при восстановлении напряжения шины" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23688">
+        <T AttributeName="Text" Text="   Секунды (0...59)&#xA; " />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23658">
+        <T AttributeName="Text" Text="Активировать функц. Принуд. управления" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23661">
+        <T AttributeName="Text" Text="Активировать функцию&#xA;контроля регулятора" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23701">
+        <T AttributeName="Text" Text="Длительность для ВКЛ.: &#xA;с (1...59)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23702">
+        <T AttributeName="Text" Text="Длительность для ВЫКЛ.:&#xA;мин (0...65 535)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23663">
+        <T AttributeName="Text" Text="в минутах (0...65 535)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23669">
+        <T AttributeName="Text" Text="Активировать функцию Промывки вентиля" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23692">
+        <T AttributeName="Text" Text="   Время предупреждения в с&#xA;   (0...65 535) суммируется&#xA;   с длит. лестн. осве" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23700">
+        <T AttributeName="Text" Text="Задержка на выключение: &#xA;с (0...59)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23703">
+        <T AttributeName="Text" Text="Число импульсов: (1...100)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23704">
+        <T AttributeName="Text" Text="Время лестничного освещения увелич.&#xA;при многокр. включении (&quot;накачка&quot;)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23709">
+        <T AttributeName="Text" Text="Длительность для ВЫКЛ.:&#xA;с (1...59)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23660">
+        <T AttributeName="Text" Text="  Положение вентиля во время&#xA;  принудительного управления" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23664">
+        <T AttributeName="Text" Text="Позиция привода вентиля при &#xA;отказе регулятора" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23665">
+        <T AttributeName="Text" Text="Активировать объект &quot;Сбой РТП&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23666">
+        <T AttributeName="Text" Text="в секундах (0...59)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23671">
+        <T AttributeName="Text" Text="Время промывки вентиля в минутах &#xA;(0...255)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23717">
+        <T AttributeName="Text" Text="  Реакция при предустановке 1&#xA;  (значение телеграммы 0)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23718">
+        <T AttributeName="Text" Text="  Реакция при предустановке 2&#xA;  (значение телеграммы 1)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23756">
+        <T AttributeName="Text" Text="Выход присвоен&#xA;(сцена 1...64)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23757">
+        <T AttributeName="Text" Text="  Стандартное значение" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23758">
+        <T AttributeName="Text" Text="  Стандартное значение" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23759">
+        <T AttributeName="Text" Text="Выход присвоен&#xA;(сцена 1...64)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23760">
+        <T AttributeName="Text" Text="Выход присвоен&#xA;(сцена 1...64)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23761">
+        <T AttributeName="Text" Text="  Стандартное значение" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23762">
+        <T AttributeName="Text" Text="  Стандартное значение" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23764">
+        <T AttributeName="Text" Text="  Стандартное значение" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23765">
+        <T AttributeName="Text" Text="Присвоить выход&#xA;(сцена 1...64)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23672">
+        <T AttributeName="Text" Text="Автоматическая промывка" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23727">
+        <T AttributeName="Text" Text="   Знач. объекта &quot;Принуд. управление&quot;&#xA;   при восстановлении напряжения шины" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23730">
+        <T AttributeName="Text" Text="   Знач. объекта &quot;Принуд. управление&quot;&#xA;   при восстановлении напряжения шины" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23736">
+        <T AttributeName="Text" Text="Порог. знач. — пределы гистерезиса" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23745">
+        <T AttributeName="Text" Text="Знач. объекта &quot;Вход&#xA;порогового значения&quot;&#xA;после восст. напряж. шины (0...255)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23746">
+        <T AttributeName="Text" Text="Знач. объекта &quot;Вход&#xA;порогового значения&quot; &#xA;после восст. напряж. шины (0...65 53" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23747">
+        <T AttributeName="Text" Text="Пороговое значение 1 (0...65 535)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23748">
+        <T AttributeName="Text" Text="Пороговое значение 1 (0...255)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23749">
+        <T AttributeName="Text" Text="Пороговое значение 2 (0...255)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23750">
+        <T AttributeName="Text" Text="Пороговое значение 2 (0...65 535)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23763">
+        <T AttributeName="Text" Text="Выход присвоен&#xA;(сцена 1...64)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23768">
+        <T AttributeName="Text" Text="Логическая связь 1" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23769">
+        <T AttributeName="Text" Text="  Функция объекта &quot;Логическая связь 1&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23770">
+        <T AttributeName="Text" Text="  Знач. объекта &quot;Логическая связь 1&quot;&#xA;  после восстановления напряжения шины" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23772">
+        <T AttributeName="Text" Text="  Шлюз заблокирован, если значение &#xA;  объекта &quot;Логическая связь 1&quot; равно" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23773">
+        <T AttributeName="Text" Text="  Инвертировать результат" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23782">
+        <T AttributeName="Text" Text="  Функция объекта &quot;Логическая связь 2&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24143">
+        <T AttributeName="Text" Text="Тип подключенного вентиля" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24146">
+        <T AttributeName="Text" Text="Тип приема сигналов управления" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24173">
+        <T AttributeName="Text" Text="Реакция выхода" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24174">
+        <T AttributeName="Text" Text="Функция &quot;Время&quot;: задержка,&#xA;лестничное освещение&#xA;Активировать мигание" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24176">
+        <T AttributeName="Text" Text="Функция &quot;Время&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24206">
+        <T AttributeName="Text" Text="Активировать функцию Предустановки" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24212">
+        <T AttributeName="Text" Text="Активир. функ. приорит. и безопасности" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24226">
+        <T AttributeName="Text" Text="Активировать функцию Порог. знач." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24246">
+        <T AttributeName="Text" Text="Активировать функцию &quot;Сцена&quot; (8 бит)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24258">
+        <T AttributeName="Text" Text="Активировать Связь/Логические функции" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23652">
+        <T AttributeName="Text" Text="Время цикла ШИМ для непрерывн. управл.&#xA;Минуты (3...65 535)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23686">
+        <T AttributeName="Text" Text="По завершении длительного ВКЛ.&#xA;лестничное освещение перезапускается" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23691">
+        <T AttributeName="Text" Text="Предупр. перед выкл. лестн. освещения" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23712">
+        <T AttributeName="Text" Text="   Знач. объекта &quot;Блокировать функцию &#xA;   &quot;Время&quot; при восст. напряжения шины" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24144">
+        <T AttributeName="Text" Text="Время цикла ШИМ для непрерывн. управл.&#xA;Минуты (3...65 535)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24145">
+        <T AttributeName="Text" Text="Позиция привода вентиля&#xA;при восстановлении напряжения шины" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24147">
+        <T AttributeName="Text" Text="Ответный сигнал регулировочн. знач.&#xA;через объект &quot;Статус Hагрева&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24148">
+        <T AttributeName="Text" Text="Время цикла ШИМ для непрерывн. управл.&#xA;Секунды (0...59)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24150">
+        <T AttributeName="Text" Text="Активировать функц. Принуд. управления" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24152">
+        <T AttributeName="Text" Text="  Положение вентиля во время&#xA;  принудительного управления" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24153">
+        <T AttributeName="Text" Text="Активировать функцию&#xA;контроля регулятора" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24155">
+        <T AttributeName="Text" Text="в минутах (0...65 535)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24156">
+        <T AttributeName="Text" Text="Позиция привода вентиля при &#xA;отказе регулятора" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24157">
+        <T AttributeName="Text" Text="Активировать объект &quot;Сбой РТП&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24158">
+        <T AttributeName="Text" Text="в секундах (0...59)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24161">
+        <T AttributeName="Text" Text="Активировать функцию Промывки вентиля" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24163">
+        <T AttributeName="Text" Text="Время промывки вентиля в минутах &#xA;(0...255)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24164">
+        <T AttributeName="Text" Text="Автоматическая промывка" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24178">
+        <T AttributeName="Text" Text="По завершении длительного ВКЛ.&#xA;лестничное освещение перезапускается" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24180">
+        <T AttributeName="Text" Text="   Секунды (0...59)&#xA; " />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24181">
+        <T AttributeName="Text" Text="Переключаемое лестничное освещение" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24182">
+        <T AttributeName="Text" Text="Мигает, если объект&#xA;&quot;Переключение&quot; равен" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24183">
+        <T AttributeName="Text" Text="Предупр. перед выкл. лестн. освещения" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24184">
+        <T AttributeName="Text" Text="   Время предупреждения в с&#xA;   (0...65 535) суммируется&#xA;   с длит. лестн. осве" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24192">
+        <T AttributeName="Text" Text="Задержка на выключение: &#xA;с (0...59)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24193">
+        <T AttributeName="Text" Text="Длительность для ВКЛ.: &#xA;с (1...59)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24194">
+        <T AttributeName="Text" Text="Длительность для ВЫКЛ.:&#xA;мин (0...65 535)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24195">
+        <T AttributeName="Text" Text="Число импульсов: (1...100)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24196">
+        <T AttributeName="Text" Text="Время лестничного освещения увелич.&#xA;при многокр. включении (&quot;накачка&quot;)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24197">
+        <T AttributeName="Text" Text="Длительность лестничного освещения:&#xA;   минут (0...1000)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24198">
+        <T AttributeName="Text" Text="Задержка на включение:&#xA;мин (0...65 535)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24201">
+        <T AttributeName="Text" Text="Длительность для ВЫКЛ.:&#xA;с (1...59)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24202">
+        <T AttributeName="Text" Text="Состояние контакта переключения&#xA;после мигания" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24204">
+        <T AttributeName="Text" Text="   Знач. объекта &quot;Блокировать функцию &#xA;   &quot;Время&quot; при восст. напряжения шины" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24209">
+        <T AttributeName="Text" Text="  Реакция при предустановке 1&#xA;  (значение телеграммы 0)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24210">
+        <T AttributeName="Text" Text="  Реакция при предустановке 2&#xA;  (значение телеграммы 1)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24228">
+        <T AttributeName="Text" Text="Порог. знач. — пределы гистерезиса" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24237">
+        <T AttributeName="Text" Text="Знач. объекта &quot;Вход&#xA;порогового значения&quot;&#xA;после восст. напряж. шины (0...255)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24238">
+        <T AttributeName="Text" Text="Знач. объекта &quot;Вход&#xA;порогового значения&quot; &#xA;после восст. напряж. шины (0...65 53" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24239">
+        <T AttributeName="Text" Text="Пороговое значение 1 (0...65 535)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24240">
+        <T AttributeName="Text" Text="Пороговое значение 1 (0...255)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24241">
+        <T AttributeName="Text" Text="Пороговое значение 2 (0...255)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24242">
+        <T AttributeName="Text" Text="Пороговое значение 2 (0...65 535)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24248">
+        <T AttributeName="Text" Text="Выход присвоен&#xA;(сцена 1...64)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24249">
+        <T AttributeName="Text" Text="  Стандартное значение" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24250">
+        <T AttributeName="Text" Text="  Стандартное значение" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24251">
+        <T AttributeName="Text" Text="Выход присвоен&#xA;(сцена 1...64)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24252">
+        <T AttributeName="Text" Text="Выход присвоен&#xA;(сцена 1...64)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24253">
+        <T AttributeName="Text" Text="  Стандартное значение" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24254">
+        <T AttributeName="Text" Text="  Стандартное значение" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24255">
+        <T AttributeName="Text" Text="Выход присвоен&#xA;(сцена 1...64)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24256">
+        <T AttributeName="Text" Text="  Стандартное значение" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24257">
+        <T AttributeName="Text" Text="Присвоить выход&#xA;(сцена 1...64)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24260">
+        <T AttributeName="Text" Text="Логическая связь 1" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24261">
+        <T AttributeName="Text" Text="  Функция объекта &quot;Логическая связь 1&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24262">
+        <T AttributeName="Text" Text="  Знач. объекта &quot;Логическая связь 1&quot;&#xA;  после восстановления напряжения шины" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24264">
+        <T AttributeName="Text" Text="  Шлюз заблокирован, если значение &#xA;  объекта &quot;Логическая связь 1&quot; равно" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24265">
+        <T AttributeName="Text" Text="  Инвертировать результат" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24274">
+        <T AttributeName="Text" Text="  Функция объекта &quot;Логическая связь 2&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23651">
+        <T AttributeName="Text" Text="Тип подключенного вентиля" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23654">
+        <T AttributeName="Text" Text="Тип приема сигналов управления" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23655">
+        <T AttributeName="Text" Text="Ответный сигнал регулировочн. знач.&#xA;через объект &quot;Статус Hагрева&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23656">
+        <T AttributeName="Text" Text="Время цикла ШИМ для непрерывн. управл.&#xA;Секунды (0...59)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23681">
+        <T AttributeName="Text" Text="Реакция выхода" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23682">
+        <T AttributeName="Text" Text="Функция &quot;Время&quot;: задержка,&#xA;лестничное освещение&#xA;Активировать мигание" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23684">
+        <T AttributeName="Text" Text="Функция &quot;Время&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23689">
+        <T AttributeName="Text" Text="Переключаемое лестничное освещение" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23690">
+        <T AttributeName="Text" Text="Мигает, если объект&#xA;&quot;Переключение&quot; равен" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23705">
+        <T AttributeName="Text" Text="Длительность лестничного освещения:&#xA;   минут (0...1000)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23706">
+        <T AttributeName="Text" Text="Задержка на включение:&#xA;мин (0...65 535)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23710">
+        <T AttributeName="Text" Text="Состояние контакта переключения&#xA;после мигания" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23714">
+        <T AttributeName="Text" Text="Активировать функцию Предустановки" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23720">
+        <T AttributeName="Text" Text="Активир. функ. приорит. и безопасности" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23734">
+        <T AttributeName="Text" Text="Активировать функцию Порог. знач." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23754">
+        <T AttributeName="Text" Text="Активировать функцию &quot;Сцена&quot; (8 бит)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-23766">
+        <T AttributeName="Text" Text="Активировать Связь/Логические функции" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24219">
+        <T AttributeName="Text" Text="   Знач. объекта &quot;Принуд. управление&quot;&#xA;   при восстановлении напряжения шины" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24222">
+        <T AttributeName="Text" Text="   Знач. объекта &quot;Принуд. управление&quot;&#xA;   при восстановлении напряжения шины" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24489">
+        <T AttributeName="Text" Text="Тип подключенного вентиля" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24490">
+        <T AttributeName="Text" Text="Время цикла ШИМ для непрерывн. управл.&#xA;Минуты (3...65 535)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24491">
+        <T AttributeName="Text" Text="Позиция привода вентиля&#xA;при восстановлении напряжения шины" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24492">
+        <T AttributeName="Text" Text="Тип приема сигналов управления" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24493">
+        <T AttributeName="Text" Text="Ответный сигнал регулировочн. знач.&#xA;через объект &quot;Статус Hагрева&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24494">
+        <T AttributeName="Text" Text="Время цикла ШИМ для непрерывн. управл.&#xA;Секунды (0...59)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24496">
+        <T AttributeName="Text" Text="Активировать функц. Принуд. управления" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24498">
+        <T AttributeName="Text" Text="  Положение вентиля во время&#xA;  принудительного управления" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24499">
+        <T AttributeName="Text" Text="Активировать функцию&#xA;контроля регулятора" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24501">
+        <T AttributeName="Text" Text="в минутах (0...65 535)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24502">
+        <T AttributeName="Text" Text="Позиция привода вентиля при &#xA;отказе регулятора" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24503">
+        <T AttributeName="Text" Text="Активировать объект &quot;Сбой РТП&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24504">
+        <T AttributeName="Text" Text="в секундах (0...59)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24507">
+        <T AttributeName="Text" Text="Активировать функцию Промывки вентиля" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24509">
+        <T AttributeName="Text" Text="Время промывки вентиля в минутах &#xA;(0...255)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24510">
+        <T AttributeName="Text" Text="Автоматическая промывка" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24519">
+        <T AttributeName="Text" Text="Активировать Связь/Логические функции" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24521">
+        <T AttributeName="Text" Text="Логическая связь 1" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24522">
+        <T AttributeName="Text" Text="  Функция объекта &quot;Логическая связь 1&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24523">
+        <T AttributeName="Text" Text="  Знач. объекта &quot;Логическая связь 1&quot;&#xA;  после восстановления напряжения шины" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24525">
+        <T AttributeName="Text" Text="  Шлюз заблокирован, если значение &#xA;  объекта &quot;Логическая связь 1&quot; равно" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24526">
+        <T AttributeName="Text" Text="  Инвертировать результат" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24535">
+        <T AttributeName="Text" Text="  Функция объекта &quot;Логическая связь 2&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24545">
+        <T AttributeName="Text" Text="Активировать функцию Предустановки" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24548">
+        <T AttributeName="Text" Text="  Реакция при предустановке 1&#xA;  (значение телеграммы 0)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24549">
+        <T AttributeName="Text" Text="  Реакция при предустановке 2&#xA;  (значение телеграммы 1)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24551">
+        <T AttributeName="Text" Text="Активир. функ. приорит. и безопасности" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24558">
+        <T AttributeName="Text" Text="   Знач. объекта &quot;Принуд. управление&quot;&#xA;   при восстановлении напряжения шины" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24561">
+        <T AttributeName="Text" Text="   Знач. объекта &quot;Принуд. управление&quot;&#xA;   при восстановлении напряжения шины" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24565">
+        <T AttributeName="Text" Text="Функция &quot;Время&quot;: задержка,&#xA;лестничное освещение&#xA;Активировать мигание" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24568">
+        <T AttributeName="Text" Text="Функция &quot;Время&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24570">
+        <T AttributeName="Text" Text="По завершении длительного ВКЛ.&#xA;лестничное освещение перезапускается" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24572">
+        <T AttributeName="Text" Text="   Секунды (0...59)&#xA; " />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24573">
+        <T AttributeName="Text" Text="Переключаемое лестничное освещение" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24574">
+        <T AttributeName="Text" Text="Мигает, если объект&#xA;&quot;Переключение&quot; равен" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24575">
+        <T AttributeName="Text" Text="Предупр. перед выкл. лестн. освещения" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24576">
+        <T AttributeName="Text" Text="   Время предупреждения в с&#xA;   (0...65 535) суммируется&#xA;   с длит. лестн. осве" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24584">
+        <T AttributeName="Text" Text="Задержка на выключение: &#xA;с (0...59)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24585">
+        <T AttributeName="Text" Text="Длительность для ВКЛ.: &#xA;с (1...59)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24586">
+        <T AttributeName="Text" Text="Длительность для ВЫКЛ.:&#xA;мин (0...65 535)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24587">
+        <T AttributeName="Text" Text="Число импульсов: (1...100)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24588">
+        <T AttributeName="Text" Text="Время лестничного освещения увелич.&#xA;при многокр. включении (&quot;накачка&quot;)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24589">
+        <T AttributeName="Text" Text="Длительность лестничного освещения:&#xA;   минут (0...1000)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24590">
+        <T AttributeName="Text" Text="Задержка на включение:&#xA;мин (0...65 535)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24593">
+        <T AttributeName="Text" Text="Длительность для ВЫКЛ.:&#xA;с (1...59)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24594">
+        <T AttributeName="Text" Text="Состояние контакта переключения&#xA;после мигания" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24596">
+        <T AttributeName="Text" Text="   Знач. объекта &quot;Блокировать функцию &#xA;   &quot;Время&quot; при восст. напряжения шины" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24597">
+        <T AttributeName="Text" Text="Активировать функцию Порог. знач." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24599">
+        <T AttributeName="Text" Text="Порог. знач. — пределы гистерезиса" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24608">
+        <T AttributeName="Text" Text="Знач. объекта &quot;Вход&#xA;порогового значения&quot;&#xA;после восст. напряж. шины (0...255)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24609">
+        <T AttributeName="Text" Text="Знач. объекта &quot;Вход&#xA;порогового значения&quot; &#xA;после восст. напряж. шины (0...65 53" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24610">
+        <T AttributeName="Text" Text="Пороговое значение 1 (0...65 535)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24611">
+        <T AttributeName="Text" Text="Пороговое значение 1 (0...255)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24612">
+        <T AttributeName="Text" Text="Пороговое значение 2 (0...255)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24613">
+        <T AttributeName="Text" Text="Пороговое значение 2 (0...65 535)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24617">
+        <T AttributeName="Text" Text="Активировать функцию &quot;Сцена&quot; (8 бит)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24619">
+        <T AttributeName="Text" Text="Выход присвоен&#xA;(сцена 1...64)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24620">
+        <T AttributeName="Text" Text="  Стандартное значение" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24621">
+        <T AttributeName="Text" Text="Присвоить выход&#xA;(сцена 1...64)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24622">
+        <T AttributeName="Text" Text="Выход присвоен&#xA;(сцена 1...64)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24623">
+        <T AttributeName="Text" Text="  Стандартное значение" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24624">
+        <T AttributeName="Text" Text="  Стандартное значение" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24625">
+        <T AttributeName="Text" Text="Выход присвоен&#xA;(сцена 1...64)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24626">
+        <T AttributeName="Text" Text="Выход присвоен&#xA;(сцена 1...64)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24627">
+        <T AttributeName="Text" Text="  Стандартное значение" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24628">
+        <T AttributeName="Text" Text="  Стандартное значение" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24629">
+        <T AttributeName="Text" Text="Реакция выхода" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24659">
+        <T AttributeName="Text" Text="Реакция выхода" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24660">
+        <T AttributeName="Text" Text="Функция &quot;Время&quot;: задержка,&#xA;лестничное освещение&#xA;Активировать мигание" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24661">
+        <T AttributeName="Text" Text="   Знач. объекта &quot;Блокировать функцию &#xA;   &quot;Время&quot; при восст. напряжения шины" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24664">
+        <T AttributeName="Text" Text="Функция &quot;Время&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24665">
+        <T AttributeName="Text" Text="По завершении длительного ВКЛ.&#xA;лестничное освещение перезапускается" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24667">
+        <T AttributeName="Text" Text="Задержка на включение:&#xA;с (0...59)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24668">
+        <T AttributeName="Text" Text="Задержка на выключение: &#xA;с (0...59)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24669">
+        <T AttributeName="Text" Text="Длительность для ВКЛ.: &#xA;с (1...59)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24670">
+        <T AttributeName="Text" Text="Длительность для ВЫКЛ.:&#xA;мин (0...65 535)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24671">
+        <T AttributeName="Text" Text="Число импульсов: (1...100)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24673">
+        <T AttributeName="Text" Text="Длительность лестничного освещения:&#xA;   минут (0...1000)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24674">
+        <T AttributeName="Text" Text="Задержка на включение:&#xA;мин (0...65 535)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24677">
+        <T AttributeName="Text" Text="Длительность для ВЫКЛ.:&#xA;с (1...59)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24678">
+        <T AttributeName="Text" Text="Состояние контакта переключения&#xA;после мигания" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24684">
+        <T AttributeName="Text" Text="Переключаемое лестничное освещение" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24685">
+        <T AttributeName="Text" Text="Мигает, если объект&#xA;&quot;Переключение&quot; равен" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24686">
+        <T AttributeName="Text" Text="Предупр. перед выкл. лестн. освещения" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24687">
+        <T AttributeName="Text" Text="   Время предупреждения в с&#xA;   (0...65 535) суммируется&#xA;   с длит. лестн. осве" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24692">
+        <T AttributeName="Text" Text="Активировать функцию &quot;Сцена&quot; (8 бит)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24704">
+        <T AttributeName="Text" Text="Активировать Связь/Логические функции" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24730">
+        <T AttributeName="Text" Text="Активировать функцию Порог. знач." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24750">
+        <T AttributeName="Text" Text="Активировать функцию Предустановки" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24756">
+        <T AttributeName="Text" Text="Активир. функ. приорит. и безопасности" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24772">
+        <T AttributeName="Text" Text="Тип подключенного вентиля" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24773">
+        <T AttributeName="Text" Text="Время цикла ШИМ для непрерывн. управл.&#xA;Минуты (3...65 535)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24774">
+        <T AttributeName="Text" Text="Позиция привода вентиля&#xA;при восстановлении напряжения шины" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24775">
+        <T AttributeName="Text" Text="Тип приема сигналов управления" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24776">
+        <T AttributeName="Text" Text="Ответный сигнал регулировочн. знач.&#xA;через объект &quot;Статус Hагрева&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24777">
+        <T AttributeName="Text" Text="Время цикла ШИМ для непрерывн. управл.&#xA;Секунды (0...59)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24779">
+        <T AttributeName="Text" Text="Активировать функцию&#xA;контроля регулятора" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24781">
+        <T AttributeName="Text" Text="в минутах (0...65 535)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24787">
+        <T AttributeName="Text" Text="Активировать функцию Промывки вентиля" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24792">
+        <T AttributeName="Text" Text="Активировать функц. Принуд. управления" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-22259">
+        <T AttributeName="Text" Text="Общее" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-22263">
+        <T AttributeName="Text" Text="Отправлять телегр. &quot;В работе&quot; циклично&#xA;(0...65 535 с, 0 = отправление неактивно)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-22264">
+        <T AttributeName="Text" Text="Задержка при передаче и переключении&#xA;после восст. напряж. шины (2...255 с)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23469">
+        <T AttributeName="Text" Text="Активировать объекты безопасности&#xA;для режима &quot;Активатор&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23647">
+        <T AttributeName="Text" Text="B: Oбщее" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23648">
+        <T AttributeName="Text" Text="Режим работы выхода" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23649">
+        <T AttributeName="Text" Text="Ответный сигнал коммутац. состояния&#xA;через объект &quot;Статус Переключения&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23659">
+        <T AttributeName="Text" Text="B: Принудительное управление" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23662">
+        <T AttributeName="Text" Text="B: Контроль" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23667">
+        <T AttributeName="Text" Text="Время цикличного контроля регулятора" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23670">
+        <T AttributeName="Text" Text="B: Промывка" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23674">
+        <T AttributeName="Text" Text="Переключение объекта после&#xA;восстановления напряжения шины" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23677">
+        <T AttributeName="Text" Text="Перезаписать сцены, предустановки и&#xA;пороговое значение 1 при загрузке" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23678">
+        <T AttributeName="Text" Text="Реакция на потерю напряжения шины" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23679">
+        <T AttributeName="Text" Text="   Знач. объекта, коммутац. состояние&#xA;   (объект &quot;Статус Переключения&quot;)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23683">
+        <T AttributeName="Text" Text="B: Время" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23687">
+        <T AttributeName="Text" Text="Лестн. освещ., изменить длит. через &#xA;объект &quot;Длительность лестн. освещ.&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23711">
+        <T AttributeName="Text" Text="Указание: учитывайте срок службы&#xA;контактов и число&#xA;коммутаций в минуту" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23715">
+        <T AttributeName="Text" Text="B: Предустановка" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23716">
+        <T AttributeName="Text" Text="  Настроить предустановку через шину" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23719">
+        <T AttributeName="Text" Text="Объект &quot;... предустановку 1/2&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23721">
+        <T AttributeName="Text" Text="B: Безопасность" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23722">
+        <T AttributeName="Text" Text="Коммутац. сост. при заверш. принуд.&#xA;управл. и откл. всех приор. безоп. " />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23723">
+        <T AttributeName="Text" Text="Последовательность задает приоритет&#xA;принудительных управлений" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23724">
+        <T AttributeName="Text" Text="Активация &quot;Приоритета безопасности x&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23725">
+        <T AttributeName="Text" Text="Коммутационное состояние&#xA;при приоритете безопасности 1" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23726">
+        <T AttributeName="Text" Text="Коммутационное состояние&#xA;при принудительном управлении" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23731">
+        <T AttributeName="Text" Text="Коммутационное состояние&#xA;при приоритете безопасности 2" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23732">
+        <T AttributeName="Text" Text="Коммутационное состояние&#xA;при приоритете безопасности 3" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23735">
+        <T AttributeName="Text" Text="B: Пороговое значение" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23737">
+        <T AttributeName="Text" Text="  Знач. объекта &gt; верх. порог. знач." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23738">
+        <T AttributeName="Text" Text="  Недостижение нижнего ПЗ" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23740">
+        <T AttributeName="Text" Text="Реакция при" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23743">
+        <T AttributeName="Text" Text="  Ниж. ПЗ &lt;= знач. об. &lt;= верх. ПЗ" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23744">
+        <T AttributeName="Text" Text="Тип данных объекта&#xA;&quot;Вход порогового значения&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23751">
+        <T AttributeName="Text" Text="Изменить пороговое значение&#xA;(ПЗ) 1 через шину" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23752">
+        <T AttributeName="Text" Text="Изменить пороговое значение&#xA;(ПЗ) 1 через шину" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23755">
+        <T AttributeName="Text" Text="B: Сцена" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23767">
+        <T AttributeName="Text" Text="B: Логика" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23780">
+        <T AttributeName="Text" Text="Логическая связь 2" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23783">
+        <T AttributeName="Text" Text="  Шлюз заблокирован, если значение&#xA;  объекта &quot;Логическая связь 2&quot; равно" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23784">
+        <T AttributeName="Text" Text="  Знач. объекта &quot;Логическая связь 2&quot;&#xA;  при восстановлении напряжения шины" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23788">
+        <T AttributeName="Text" Text="  Инвертировать результат" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-23792">
+        <T AttributeName="Text" Text="B: Функция" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24139">
+        <T AttributeName="Text" Text="C: Общее" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24140">
+        <T AttributeName="Text" Text="Режим работы выхода" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24141">
+        <T AttributeName="Text" Text="Ответный сигнал коммутац. состояния&#xA;через объект &quot;Статус Переключения&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24151">
+        <T AttributeName="Text" Text="C: Принудительное управление" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24154">
+        <T AttributeName="Text" Text="C: Контроль" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24159">
+        <T AttributeName="Text" Text="Время цикличного контроля регулятора" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24162">
+        <T AttributeName="Text" Text="C: Промывка" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24166">
+        <T AttributeName="Text" Text="Переключение объекта после&#xA;восстановления напряжения шины" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24169">
+        <T AttributeName="Text" Text="Перезаписать сцены, предустановки и&#xA;пороговое значение 1 при загрузке" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24170">
+        <T AttributeName="Text" Text="Реакция на потерю напряжения шины" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24171">
+        <T AttributeName="Text" Text="   Знач. объекта, коммутац. состояние&#xA;   (объект &quot;Статус Переключения&quot;)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24175">
+        <T AttributeName="Text" Text="C: Время" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24179">
+        <T AttributeName="Text" Text="Лестн. освещ., изменить длит. через &#xA;объект &quot;Длительность лестн. освещ.&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24203">
+        <T AttributeName="Text" Text="Указание: учитывайте срок службы&#xA;контактов и число&#xA;коммутаций в минуту" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24207">
+        <T AttributeName="Text" Text="C: Предустановка" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24208">
+        <T AttributeName="Text" Text="  Настроить предустановку через шину" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24211">
+        <T AttributeName="Text" Text="Объект &quot;... предустановку 1/2&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24213">
+        <T AttributeName="Text" Text="C: Безопасность" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24214">
+        <T AttributeName="Text" Text="Коммутац. сост. при заверш. принуд.&#xA;управл. и откл. всех приор. безоп. " />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24215">
+        <T AttributeName="Text" Text="Последовательность задает приоритет&#xA;принудительных управлений" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24216">
+        <T AttributeName="Text" Text="Активация &quot;Приоритета безопасности x&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24217">
+        <T AttributeName="Text" Text="Коммутационное состояние&#xA;при приоритете безопасности 1" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24218">
+        <T AttributeName="Text" Text="Коммутационное состояние&#xA;при принудительном управлении" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24223">
+        <T AttributeName="Text" Text="Коммутационное состояние&#xA;при приоритете безопасности 2" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24224">
+        <T AttributeName="Text" Text="Коммутационное состояние&#xA;при приоритете безопасности 3" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24227">
+        <T AttributeName="Text" Text="C: Пороговое значение" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24229">
+        <T AttributeName="Text" Text="  Знач. объекта &gt; верх. порог. знач." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24230">
+        <T AttributeName="Text" Text="  Недостижение нижнего ПЗ" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24232">
+        <T AttributeName="Text" Text="Реакция при" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24235">
+        <T AttributeName="Text" Text="  Ниж. ПЗ &lt;= знач. об. &lt;= верх. ПЗ" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24236">
+        <T AttributeName="Text" Text="Тип данных объекта&#xA;&quot;Вход порогового значения&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24243">
+        <T AttributeName="Text" Text="Изменить пороговое значение&#xA;(ПЗ) 1 через шину" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24244">
+        <T AttributeName="Text" Text="Изменить пороговое значение&#xA;(ПЗ) 1 через шину" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24247">
+        <T AttributeName="Text" Text="C: Сцена" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24259">
+        <T AttributeName="Text" Text="C: Логика" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24272">
+        <T AttributeName="Text" Text="Логическая связь 2" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24275">
+        <T AttributeName="Text" Text="  Шлюз заблокирован, если значение&#xA;  объекта &quot;Логическая связь 2&quot; равно" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24276">
+        <T AttributeName="Text" Text="  Знач. объекта &quot;Логическая связь 2&quot;&#xA;  при восстановлении напряжения шины" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24280">
+        <T AttributeName="Text" Text="  Инвертировать результат" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24284">
+        <T AttributeName="Text" Text="C: Функция" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24467">
+        <T AttributeName="Text" Text="A: Общее" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24470">
+        <T AttributeName="Text" Text="Режим работы выхода" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24471">
+        <T AttributeName="Text" Text="A: Функция" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24497">
+        <T AttributeName="Text" Text="A: Принудительное управление" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24500">
+        <T AttributeName="Text" Text="A: Контроль" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24505">
+        <T AttributeName="Text" Text="Время цикличного контроля регулятора" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24508">
+        <T AttributeName="Text" Text="A: Промывка" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24512">
+        <T AttributeName="Text" Text="Переключение объекта после&#xA;восстановления напряжения шины" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24515">
+        <T AttributeName="Text" Text="Перезаписать сцены, предустановки и&#xA;пороговое значение 1 при загрузке" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24516">
+        <T AttributeName="Text" Text="Реакция на потерю напряжения шины" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24517">
+        <T AttributeName="Text" Text="   Знач. объекта, коммутац. состояние&#xA;   (объект &quot;Статус Переключения&quot;)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24520">
+        <T AttributeName="Text" Text="A: Логика" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24533">
+        <T AttributeName="Text" Text="Логическая связь 2" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24536">
+        <T AttributeName="Text" Text="  Шлюз заблокирован, если значение&#xA;  объекта &quot;Логическая связь 2&quot; равно" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24537">
+        <T AttributeName="Text" Text="  Знач. объекта &quot;Логическая связь 2&quot;&#xA;  при восстановлении напряжения шины" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24541">
+        <T AttributeName="Text" Text="  Инвертировать результат" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24546">
+        <T AttributeName="Text" Text="A: Предустановка" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24547">
+        <T AttributeName="Text" Text="  Настроить предустановку через шину" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24550">
+        <T AttributeName="Text" Text="Объект &quot;... предустановку 1/2&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24552">
+        <T AttributeName="Text" Text="A: Безопасность" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24553">
+        <T AttributeName="Text" Text="Коммутац. сост. при заверш. принуд.&#xA;управл. и откл. всех приор. безоп. " />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24556">
+        <T AttributeName="Text" Text="Коммутационное состояние&#xA;при приоритете безопасности 1" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24557">
+        <T AttributeName="Text" Text="Коммутационное состояние&#xA;при принудительном управлении" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24562">
+        <T AttributeName="Text" Text="Коммутационное состояние&#xA;при приоритете безопасности 2" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24563">
+        <T AttributeName="Text" Text="Коммутационное состояние&#xA;при приоритете безопасности 3" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24567">
+        <T AttributeName="Text" Text="A: Время" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24598">
+        <T AttributeName="Text" Text="A: Пороговое значение" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24600">
+        <T AttributeName="Text" Text="  Знач. объекта &gt; верх. порог. знач." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24601">
+        <T AttributeName="Text" Text="  Недостижение нижнего ПЗ" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24606">
+        <T AttributeName="Text" Text="  Ниж. ПЗ &lt;= знач. об. &lt;= верх. ПЗ" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24607">
+        <T AttributeName="Text" Text="Тип данных объекта&#xA;&quot;Вход порогового значения&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24618">
+        <T AttributeName="Text" Text="A: Сцена" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24630">
+        <T AttributeName="Text" Text="Ответный сигнал коммутац. состояния&#xA;через объект &quot;Статус Переключения&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24631">
+        <T AttributeName="Text" Text="D: Общее" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24634">
+        <T AttributeName="Text" Text="Режим работы выхода" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24635">
+        <T AttributeName="Text" Text="D: Функция" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24652">
+        <T AttributeName="Text" Text="Переключение объекта после&#xA;восстановления напряжения шины" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24655">
+        <T AttributeName="Text" Text="Перезаписать сцены, предустановки и&#xA;пороговое значение 1 при загрузке" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24656">
+        <T AttributeName="Text" Text="Реакция на потерю напряжения шины" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24657">
+        <T AttributeName="Text" Text="   Знач. объекта, коммутац. состояние&#xA;   (объект &quot;Статус Переключения&quot;)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24663">
+        <T AttributeName="Text" Text="D: Время" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24693">
+        <T AttributeName="Text" Text="D: Сцена" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24705">
+        <T AttributeName="Text" Text="D: Логика" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24718">
+        <T AttributeName="Text" Text="Логическая связь 2" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24721">
+        <T AttributeName="Text" Text="  Знач. объекта &quot;Логическая связь 2&quot;&#xA;  при восстановлении напряжения шины" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24722">
+        <T AttributeName="Text" Text="  Инвертировать результат" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24726">
+        <T AttributeName="Text" Text="  Шлюз заблокирован, если значение&#xA;  объекта &quot;Логическая связь 2&quot; равно" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24732">
+        <T AttributeName="Text" Text="D: Пороговое значение" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24733">
+        <T AttributeName="Text" Text="Тип данных объекта&#xA;&quot;Вход порогового значения&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24743">
+        <T AttributeName="Text" Text="  Знач. объекта &lt; ниж. порог. знач." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24744">
+        <T AttributeName="Text" Text="  Ниж. ПЗ &lt;= знач. об. &lt;= верх. ПЗ" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24745">
+        <T AttributeName="Text" Text="  Знач. объекта &gt; верх. порог. знач." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24751">
+        <T AttributeName="Text" Text="D: Предустановка" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24757">
+        <T AttributeName="Text" Text="D: Безопасность" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24758">
+        <T AttributeName="Text" Text="Коммутационное состояние&#xA;при приоритете безопасности 2" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24759">
+        <T AttributeName="Text" Text="Коммутационное состояние&#xA;при приоритете безопасности 3" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24761">
+        <T AttributeName="Text" Text="Коммутац. сост. при заверш. принуд.&#xA;управл. и откл. всех приор. безоп. " />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24764">
+        <T AttributeName="Text" Text="Коммутационное состояние&#xA;при приоритете безопасности 1" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24765">
+        <T AttributeName="Text" Text="Коммутационное состояние&#xA;при принудительном управлении" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24770">
+        <T AttributeName="Text" Text="Ответный сигнал коммутац. состояния&#xA;через объект &quot;Статус Переключения&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24780">
+        <T AttributeName="Text" Text="D: Контроль" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24788">
+        <T AttributeName="Text" Text="D: Промывка" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24793">
+        <T AttributeName="Text" Text="D: Принудительное управление" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-22265">
+        <T AttributeName="Text" Text="   Функция приоритета безопасности 1" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-22266">
+        <T AttributeName="Text" Text="   Функция приоритета безопасности 2" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-22267">
+        <T AttributeName="Text" Text="   Функция приоритета безопасности 3" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-22269">
+        <T AttributeName="Text" Text="   Время контроля в секундах&#xA;   (0...65 535, 0 = неактивно)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-22270">
+        <T AttributeName="Text" Text="   Время контроля в секундах&#xA;   (0...65 535, 0 = неактивно)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-22271">
+        <T AttributeName="Text" Text="   Время контроля в секундах&#xA;   (0...65 535, 0 = неактивно)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24672">
+        <T AttributeName="Text" Text="Время лестничного освещения увелич.&#xA;при многокр. включении (&quot;накачка&quot;)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24694">
+        <T AttributeName="Text" Text="Выход присвоен&#xA;(сцена 1...64)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24695">
+        <T AttributeName="Text" Text="  Стандартное значение" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24696">
+        <T AttributeName="Text" Text="  Стандартное значение" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24697">
+        <T AttributeName="Text" Text="Выход присвоен&#xA;(сцена 1...64)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24698">
+        <T AttributeName="Text" Text="Выход присвоен&#xA;(сцена 1...64)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24699">
+        <T AttributeName="Text" Text="  Стандартное значение" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24700">
+        <T AttributeName="Text" Text="  Стандартное значение" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24701">
+        <T AttributeName="Text" Text="Выход присвоен&#xA;(сцена 1...64)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24702">
+        <T AttributeName="Text" Text="  Стандартное значение" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24703">
+        <T AttributeName="Text" Text="Присвоить выход&#xA;(сцена 1...64)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24706">
+        <T AttributeName="Text" Text="Логическая связь 1" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24708">
+        <T AttributeName="Text" Text="  Функция объекта &quot;Логическая связь 1&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24709">
+        <T AttributeName="Text" Text="  Знач. объекта &quot;Логическая связь 1&quot;&#xA;  после восстановления напряжения шины" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24711">
+        <T AttributeName="Text" Text="  Шлюз заблокирован, если значение &#xA;  объекта &quot;Логическая связь 1&quot; равно" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24712">
+        <T AttributeName="Text" Text="  Инвертировать результат" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24720">
+        <T AttributeName="Text" Text="  Функция объекта &quot;Логическая связь 2&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24734">
+        <T AttributeName="Text" Text="Знач. объекта &quot;Вход&#xA;порогового значения&quot;&#xA;после восст. напряж. шины (0...255)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24735">
+        <T AttributeName="Text" Text="Знач. объекта &quot;Вход&#xA;порогового значения&quot; &#xA;после восст. напряж. шины (0...65 53" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24736">
+        <T AttributeName="Text" Text="Пороговое значение 1 (0...65 535)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24737">
+        <T AttributeName="Text" Text="Пороговое значение 1 (0...255)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24738">
+        <T AttributeName="Text" Text="Пороговое значение 2 (0...255)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24739">
+        <T AttributeName="Text" Text="Пороговое значение 2 (0...65 535)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24742">
+        <T AttributeName="Text" Text="Порог. знач. — пределы гистерезиса" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24753">
+        <T AttributeName="Text" Text="  Реакция при предустановке 1&#xA;  (значение телеграммы 0)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24754">
+        <T AttributeName="Text" Text="  Реакция при предустановке 2&#xA;  (значение телеграммы 1)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24766">
+        <T AttributeName="Text" Text="   Знач. объекта &quot;Принуд. управление&quot;&#xA;   при восстановлении напряжения шины" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24767">
+        <T AttributeName="Text" Text="   Знач. объекта &quot;Принуд. управление&quot;&#xA;   при восстановлении напряжения шины" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24782">
+        <T AttributeName="Text" Text="Позиция привода вентиля при &#xA;отказе регулятора" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24783">
+        <T AttributeName="Text" Text="Активировать объект &quot;Сбой РТП&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24784">
+        <T AttributeName="Text" Text="в секундах (0...59)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24789">
+        <T AttributeName="Text" Text="Время промывки вентиля в минутах &#xA;(0...255)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24790">
+        <T AttributeName="Text" Text="Автоматическая промывка" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_UP-24794">
+        <T AttributeName="Text" Text="  Положение вентиля во время&#xA;  принудительного управления" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24554">
+        <T AttributeName="Text" Text="Последовательность задает приоритет&#xA;принудительных управлений" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24555">
+        <T AttributeName="Text" Text="Активация &quot;Приоритета безопасности x&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24571">
+        <T AttributeName="Text" Text="Лестн. освещ., изменить длит. через &#xA;объект &quot;Длительность лестн. освещ.&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24595">
+        <T AttributeName="Text" Text="Указание: учитывайте срок службы&#xA;контактов и число&#xA;коммутаций в минуту" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24603">
+        <T AttributeName="Text" Text="Реакция при" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24614">
+        <T AttributeName="Text" Text="Изменить пороговое значение&#xA;(ПЗ) 1 через шину" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24615">
+        <T AttributeName="Text" Text="Изменить пороговое значение&#xA;(ПЗ) 1 через шину" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24679">
+        <T AttributeName="Text" Text="Указание: учитывайте срок службы&#xA;контактов и число&#xA;коммутаций в минуту" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24682">
+        <T AttributeName="Text" Text="Лестн. освещ., изменить длит. через &#xA;объект &quot;Длительность лестн. освещ.&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24740">
+        <T AttributeName="Text" Text="Изменить пороговое значение&#xA;(ПЗ) 1 через шину" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24741">
+        <T AttributeName="Text" Text="Изменить пороговое значение&#xA;(ПЗ) 1 через шину" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24748">
+        <T AttributeName="Text" Text="Реакция при" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24752">
+        <T AttributeName="Text" Text="  Настроить предустановку через шину" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24755">
+        <T AttributeName="Text" Text="Объект &quot;... предустановку 1/2&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24762">
+        <T AttributeName="Text" Text="Последовательность задает приоритет&#xA;принудительных управлений" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24763">
+        <T AttributeName="Text" Text="Активация &quot;Приоритета безопасности x&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_P-24785">
+        <T AttributeName="Text" Text="Время цикличного контроля регулятора" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-.5F.5FKanal.5Fkopieren_EN-1">
+        <T AttributeName="Text" Text="Вход, стандартный" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-.5F.5FKanal.5Fkopieren_EN-2">
+        <T AttributeName="Text" Text="Выход, SA/S" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-1bit.5F0.5F1_EN-1">
+        <T AttributeName="Text" Text="1" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-1bit.5F0.5F1_EN-0">
+        <T AttributeName="Text" Text="0" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-1bit.5Faktiv.2Finaktiv_EN-0">
+        <T AttributeName="Text" Text="неактивный" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-1bit.5Faktiv.2Finaktiv_EN-1">
+        <T AttributeName="Text" Text="активный" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-1bit.5FEIN.5FAUS_EN-1">
+        <T AttributeName="Text" Text="ВКЛ." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-1bit.5FEIN.5FAUS_EN-0">
+        <T AttributeName="Text" Text="ВЫКЛ." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-1bit.5FJaNein_EN-0">
+        <T AttributeName="Text" Text="нет" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-1bit.5FJaNein_EN-1">
+        <T AttributeName="Text" Text="да" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-1Byte.5Faktiv.2Finaktiv_EN-0">
+        <T AttributeName="Text" Text="неактивный" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-1Byte.5Faktiv.2Finaktiv_EN-1">
+        <T AttributeName="Text" Text="активный" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-Funktion.20.22Geräte.20Sicherheit.20Priorität.20X.22_EN-255">
+        <T AttributeName="Text" Text="неактивный" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-Funktion.20.22Geräte.20Sicherheit.20Priorität.20X.22_EN-0">
+        <T AttributeName="Text" Text="активируется через значение объекта &quot;0&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-Funktion.20.22Geräte.20Sicherheit.20Priorität.20X.22_EN-1">
+        <T AttributeName="Text" Text="активируется через значение объекта &quot;1&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-Funktion.20Zeit.20aktiv.2Finaktiv_EN-1">
+        <T AttributeName="Text" Text="&quot;1&quot;, т. е. блокировать функцию &quot;Время&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-Funktion.20Zeit.20aktiv.2Finaktiv_EN-0">
+        <T AttributeName="Text" Text="&quot;0&quot;, т. е. активировать функцию &quot;Время&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-Hinweistext_EN-0">
+        <T AttributeName="Text" Text="Устанавливается в окне парам. &quot;X: Безопасность&quot; " />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-Hinweistext_EN-1">
+        <T AttributeName="Text" Text="Прочие указания см. в руководстве к продукту" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-Hinweistext_EN-2">
+        <T AttributeName="Text" Text="в окне параметров &quot;Общее&quot;" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-Objektwert.20nach.20BW_EN-2">
+        <T AttributeName="Text" Text="не записывать" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-Objektwert.20nach.20BW_EN-0">
+        <T AttributeName="Text" Text="записать с 0" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-Objektwert.20nach.20BW_EN-1">
+        <T AttributeName="Text" Text="записать с 1" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t.5FGeoeffGeschlUnv_EN-0">
+        <T AttributeName="Text" Text="контакт разомкнут" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t.5FGeoeffGeschlUnv_EN-1">
+        <T AttributeName="Text" Text="контакт замкнут" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t.5FGeoeffGeschlUnv_EN-2">
+        <T AttributeName="Text" Text="положение контактов не изменилось" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t.5FJaNein_EN-0">
+        <T AttributeName="Text" Text="нет" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t.5FJaNein_EN-1">
+        <T AttributeName="Text" Text="да" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5F.5FkeinePrioritäten_EN-0">
+        <T AttributeName="Text" Text="0" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FBlinken.20Ende_EN-3">
+        <T AttributeName="Text" Text="ВКЛ." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FBlinken.20Ende_EN-1">
+        <T AttributeName="Text" Text="ВЫКЛ." />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FBlinken.20Ende_EN-0">
+        <T AttributeName="Text" Text="определить положение контактов" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FBlinken.5FEIN.5FAUS.5Fimmer_EN-1">
+        <T AttributeName="Text" Text="ВКЛ. (1)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FBlinken.5FEIN.5FAUS.5Fimmer_EN-2">
+        <T AttributeName="Text" Text="ВЫКЛ. (0)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FBlinken.5FEIN.5FAUS.5Fimmer_EN-3">
+        <T AttributeName="Text" Text="ВКЛ. (1) или ВЫКЛ. (0)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FHauptfunktion_EN-1">
+        <T AttributeName="Text" Text="Активатор" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FHauptfunktion_EN-2">
+        <T AttributeName="Text" Text="Активатор нагрева" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FHeizAnsteuerung_EN-0">
+        <T AttributeName="Text" Text="1-битн. (ШИМ или 2-точечн.)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FHeizAnsteuerung_EN-1">
+        <T AttributeName="Text" Text="1-байтн. (непрерывн.)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FHeizrückmeldung.5FPWM_EN-0">
+        <T AttributeName="Text" Text="нет" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FHeizrückmeldung.5FPWM_EN-1">
+        <T AttributeName="Text" Text="да, 0 % = &quot;0&quot;, иначе &quot;1&quot; (1-битн.)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FHeizrückmeldung.5FPWM_EN-5">
+        <T AttributeName="Text" Text="да, 0 % = &quot;1&quot;, иначе &quot;0&quot; (1-битн.)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FHeizrückmeldung.5FPWM_EN-3">
+        <T AttributeName="Text" Text="да, регулировочное значение (1-байтн.)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FHeizVentilStell.5Funverändert_EN-2">
+        <T AttributeName="Text" Text="неизменно" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FHeizVentilStell.5Funverändert_EN-0">
+        <T AttributeName="Text" Text="0 % (закрыт)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FHeizVentilStell.5Funverändert_EN-6656">
+        <T AttributeName="Text" Text="10%   (26)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FHeizVentilStell.5Funverändert_EN-13056">
+        <T AttributeName="Text" Text="20%   (51)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FHeizVentilStell.5Funverändert_EN-19712">
+        <T AttributeName="Text" Text="30%   (77)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FHeizVentilStell.5Funverändert_EN-26112">
+        <T AttributeName="Text" Text="40%   (102)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FHeizVentilStell.5Funverändert_EN-32768">
+        <T AttributeName="Text" Text="50%   (128)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FHeizVentilStell.5Funverändert_EN-39168">
+        <T AttributeName="Text" Text="60%   (153)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FHeizVentilStell.5Funverändert_EN-45824">
+        <T AttributeName="Text" Text="70%   (179)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FHeizVentilStell.5Funverändert_EN-52224">
+        <T AttributeName="Text" Text="80%   (204)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FHeizVentilStell.5Funverändert_EN-58880">
+        <T AttributeName="Text" Text="90%   (230)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FHeizVentilStell.5Funverändert_EN-65280">
+        <T AttributeName="Text" Text="100 % (открыт)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FHeizVentilStell.5Funverändert.5FBW_EN-0">
+        <T AttributeName="Text" Text="0 % (закрыт)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FHeizVentilStell.5Funverändert.5FBW_EN-6656">
+        <T AttributeName="Text" Text="10%   (26)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FHeizVentilStell.5Funverändert.5FBW_EN-13056">
+        <T AttributeName="Text" Text="20%   (51)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FHeizVentilStell.5Funverändert.5FBW_EN-19712">
+        <T AttributeName="Text" Text="30%   (77)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FHeizVentilStell.5Funverändert.5FBW_EN-26112">
+        <T AttributeName="Text" Text="40%   (102)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FHeizVentilStell.5Funverändert.5FBW_EN-32768">
+        <T AttributeName="Text" Text="50%   (128)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FHeizVentilStell.5Funverändert.5FBW_EN-39168">
+        <T AttributeName="Text" Text="60%   (153)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FHeizVentilStell.5Funverändert.5FBW_EN-45824">
+        <T AttributeName="Text" Text="70%   (179)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FHeizVentilStell.5Funverändert.5FBW_EN-52224">
+        <T AttributeName="Text" Text="80%   (204)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FHeizVentilStell.5Funverändert.5FBW_EN-58880">
+        <T AttributeName="Text" Text="90%   (230)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FHeizVentilStell.5Funverändert.5FBW_EN-65280">
+        <T AttributeName="Text" Text="100 % (открыт)" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FHeizVentiltyp_EN-0">
+        <T AttributeName="Text" Text="обесточенное состояние: закрыт" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FHeizVentiltyp_EN-1">
+        <T AttributeName="Text" Text="обесточенное состояние: открыт" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FLogikVerknTyp_EN-1">
+        <T AttributeName="Text" Text="AND" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FLogikVerknTyp_EN-2">
+        <T AttributeName="Text" Text="OR" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FLogikVerknTyp_EN-3">
+        <T AttributeName="Text" Text="XOR" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FLogikVerknTyp_EN-4">
+        <T AttributeName="Text" Text="Функция шлюза" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FOeffSchl_EN-1">
+        <T AttributeName="Text" Text="Размыкающий контакт" />
+      </TE>
+      <TE RefId="M-0002_A-A088-32-BD97_PT-t02.5FOeffSchl_EN-0">
+        <T AttributeName="Text" Text="Замыкающий контакт" />
+      </TE>
+    </TU>
+  </L>
+</LS>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<H>
+  <H Id="M-0002_H-2CDG.20110.20152.20R0011-1" Name="SA/S4.6.1.1" SerialNumber="2CDG 110 152 R0011" VersionNumber="1" BusCurrent="1.2000000e+001" IsAccessory="0" HasIndividualAddress="1" HasApplicationProgram="1" HasApplicationProgram2="0" IsPowerSupply="0" IsChoke="0" IsCoupler="0" IsPowerLineRepeater="0" IsPowerLineSignalFilter="0" IsCable="0" NonRegRelevantDataVersion="0" IsIPEnabled="0">
+    <Prods>
+      <Prod Id="M-0002_H-2CDG.20110.20152.20R0011-1_P-2CDG.20110.20152.20R0011" Text="SA/S4.6.1.1 Switch Actuator,4-fold,6A,MDRC" OrderNumber="2CDG 110 152 R0011" IsRailMounted="1" WidthInMillimeter="7.2000000e+001" DefaultLanguage="en-US" Hash="ozu62I7QLNjhN7LfzPb4hb2vueo=" NonRegRelevantDataVersion="0">
+        <RI RegistrationStatus="Registered" RegistrationSignature="I7GtuOkbmk/+s8TkIuNhW7PUb6gVo+hZlkChsaWtHYCobYTIgeLbxkiptloIiMvaosgrEhAI3ChNXmuxJdgI01qAnu8hT+S4ncPLwv1iUMgQ8y6uYVJtCKB7uJM5FHrOEBnJ12ZqHF0iAZWNpCVWL+dqsVaN2eoaLYX21hdsx4s=" />
+      </Prod>
+    </Prods>
+    <H2Ps>
+      <H2P Id="M-0002_H-2CDG.20110.20152.20R0011-1_HP-A088-32-BD97" MediumTypes="MT-0" Hash="GNg3s19SZ0NGfeW8ISsCBt4sFv4=">
+        <APR RefId="M-0002_A-A088-32-BD97" />
+        <RI RegistrationStatus="Registered" RegistrationNumber="2012/10363" RegistrationSignature="MHjagumbxee8+nbcre9S1BTWeeDdgtcxN/D9vVnsy//JBffYiygTrXGHKX2z3vJA4cTvPpKTThUJvLFKAh0TjD/yaaPImPwCCFq9js5C3ALV/HTiZ79TVodPudFsvcjstHmMCYIBfNGMvu96zp7RKvxks7rp7h76s5QVHezPIYg=" />
+      </H2P>
+    </H2Ps>
+  </H>
+</H>
